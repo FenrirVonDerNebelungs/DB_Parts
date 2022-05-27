@@ -1,0 +1,21 @@
+mysql> SHOW COLUMNS FROM units
+    -> ;
++-------------+---------------+------+-----+---------+----------------+
+| Field       | Type          | Null | Key | Default | Extra          |
++-------------+---------------+------+-----+---------+----------------+
+| U_ID        | int           | NO   | PRI | NULL    | auto_increment |
+| TYPE        | char(6)       | YES  |     | NULL    |                |
+| LABEL       | varchar(200)  | YES  |     | NULL    |                |
+| IMG         | varchar(200)  | YES  |     | NULL    |                |
+| UNTR        | blob          | YES  |     | NULL    |                |
+| UBER        | blob          | YES  |     | NULL    |                |
+| QTY         | int           | NO   |     | NULL    |                |
+| QTY_DRAWN   | int           | NO   |     | NULL    |                |
+| INTERNALREF | char(10)      | YES  |     | NULL    |                |
+| COST        | decimal(10,2) | YES  |     | NULL    |                |
+| SALESPRICE  | decimal(10,2) | YES  |     | NULL    |                |
++-------------+---------------+------+-----+---------+----------------+
+
+other table is dummytest
+database is parts_test2
+user is data0
