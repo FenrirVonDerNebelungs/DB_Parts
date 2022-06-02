@@ -7,11 +7,11 @@ curs.execute("SHOW DATABASES")
 for db in curs:
     print(db)
 
-sqlcom = "INSERT INTO units (TYPE, LABEL, QTY, INTERNALREF, COST, SALESPRICE) VALUES (%s, %s, %s, %s, %s, %s)"
+sqlcom = "INSERT INTO dummytest (TYPE, LABEL, INTERNALREF) VALUES (%s, %s, %s)"
 
-fin=open('OdooAllParts00.csv','r')
+fin=open('odooAllBOM00.csv','r')
 
-fieldsar = ["dum1", "desc", "IRef", "dum2", "SaleP", "Cost", "QTY", "dum3", "dum4"]
+fieldsar = ["dum1", "desc", "IRef", "dum2"]
 line = fin.readline()
 cnt=0
 while line and cnt<1000:
@@ -31,13 +31,10 @@ while line and cnt<1000:
     if fieldindx<=0:
         print("end")
         break
-    valtype='PART'
+    valtype='ASS'
     vallable=fieldsar[1]
-    valqty = fieldsar[6]
     valintref=fieldsar[2]
-    valcost=fieldsar[5]
-    valsale=fieldsar[4]
-    valar=(valtype, vallable, valqty, valintref, valcost, valsale)
+    valar=(valtype, vallable, valintref)
     curs.execute(sqlcom,valar)
     conn.commit()
     print(curs.rowcount, "record inserted")

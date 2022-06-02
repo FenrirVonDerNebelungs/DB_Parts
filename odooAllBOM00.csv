@@ -1,0 +1,192 @@
+Sequence,Product,Reference,BoM Type
+0,[A302] 4x4 TOOLS AND FASTENERS,1,Manufacture this product
+0,[C501] ELECTRIC CAR BAG 1: BEAMS,2,Manufacture this product
+0,[A705] 4mm AXLE REAR HUB,3,Manufacture this product
+0,[A704] 4mm AXLE STEERING HUB,4,Manufacture this product
+0,[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour),5,Manufacture this product
+0,4x4,6,Manufacture this product
+0,[A303] ARDUINO ROBOT TOOLS,7,Manufacture this product
+0,MARZ ROVER,8,Manufacture this product
+1,[C301] MR2 BAG 1: PLATES,9,Manufacture this product
+2,[C401] 6x6 BAG 1: BEAMS 1,10,Manufacture this product
+3,[C801] ARDUINO ROBOT BAG 1: BEAMS,11,Manufacture this product
+4,[C701] 250 PIECE BAG 1: BEAMS,12,Manufacture this product
+5,[A802] UGV UPGRADE BAG 1: BEAMS,13,Manufacture this product
+6,[CPK-UAM2-001] COMPETITION KIT UAV,14,Manufacture this product
+7,[A202] 4x4 BAG 2: BEAMS 2,15,Manufacture this product
+8,[J502] 2-BEAM,16,Manufacture this product
+9,[J503] 3-BEAM,17,Manufacture this product
+10,[J504] 4-BEAM,18,Manufacture this product
+11,[J505] 5-BEAM,19,Manufacture this product
+12,[J401] 6-BEAM,20,Manufacture this product
+13,[J402] 7-BEAM,21,Manufacture this product
+14,[J403] 8-BEAM,22,Manufacture this product
+15,[J404] 9-BEAM,23,Manufacture this product
+16,[J405] 10-BEAM,24,Manufacture this product
+17,[J301] 11-BEAM,25,Manufacture this product
+18,[J302] 12-BEAM,26,Manufacture this product
+19,[J303] 13-BEAM,27,Manufacture this product
+20,[J304] 14-BEAM,28,Manufacture this product
+0,[MCK-UALB-MR2] UAV DRONE LAB,29,Manufacture this product
+0,[B503] MINDS-i TOOL,30,Manufacture this product
+0,MULTIROTOR,31,Manufacture this product
+0,[C302] MR2 BAG 2: MOTOR MOUNT,32,Manufacture this product
+0,[C303] MR2 BAG 3: ESC,33,Manufacture this product
+0,MOTOR 2205 - 30A ESC CCW,34,Manufacture this product
+0,MOTOR 2205 - 30A ESC CW,35,Manufacture this product
+0,[C304] MR2 BAG 4: CONNECTORS,36,Manufacture this product
+0,[C305] MR2 BAG 5: LANDING GEAR,37,Manufacture this product
+0,[C201] MR2 BAG 6: TOOLS,38,Manufacture this product
+0,[C202] MR2 BAG 7: APM,39,Manufacture this product
+0,[A902] GIMBAL KIT,40,Manufacture this product
+0,PID TEST RACK,41,Manufacture this product
+0,[B803] POWER MODULE WITH BATTERY HARNESS,42,Manufacture this product
+0,6x6,43,Kit
+0,[C402] 6x6 BAG 2: BEAMS 2,44,Manufacture this product
+0,[C403] 6x6 BAG 3: TRANSITIONS,45,Manufacture this product
+0,[C404] 6x6 BAG 4: CONNECTORS 1,46,Manufacture this product
+0,[C405] 6x6 BAG 5: CONNECTORS 2,47,Manufacture this product
+0,[A701] MOTOR GEARBOX,48,Manufacture this product
+0,[A702] DIFFERENTIAL W/ SPOOL,49,Manufacture this product
+0,[A703] DUAL OUTPUT DIFFERENTIAL,50,Manufacture this product
+0,[A610] 5mm AXLE REAR HUB,51,Manufacture this product
+0,[A706] 5mm AXLE STEERING HUB,52,Manufacture this product
+0,[A602] 6x6 STEERING,53,Manufacture this product
+0,[A604] 6x6 DRIVELINE,54,Manufacture this product
+0,[A605] 6x6 ACCESSORY,55,Manufacture this product
+0,[A609] LARGE 4-LINK BARS,56,Manufacture this product
+0,[A304] 90mm SHOCKS KIT,57,Manufacture this product
+0,[A503] 10-58 GEAR SET,58,Manufacture this product
+0,[L102B] 5000 RPM MOTOR WITH WIRE,59,Manufacture this product
+0,[A401] HS-485HB SERVO (With Hardware),60,Manufacture this product
+0,[A301] 6x6 TOOLS AND FASTENERS,61,Manufacture this product
+0,6x6 WHEELS AND TIRES,62,Manufacture this product
+0,[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour),63,Manufacture this product
+0,[A501] 250 PIECE,64,Manufacture this product
+0,ARDUINO UPGRADE,65,Manufacture this product
+0,[C705] ROTATING CONNECTORS,66,Manufacture this product
+0,[C505] SCREW ADAPTER,67,Manufacture this product
+0,[C605] SERVO LINKAGE,68,Manufacture this product
+0,[C905] CATAPULT SUPPORT MATERIAL,69,Manufacture this product
+0,[C205] BUILD A MOTOR,70,Manufacture this product
+0,SERVO PLATE PLUS HARDWARE,71,Manufacture this product
+0,[C502] ELECTRIC CAR BAG 2: 45-BEAMS AND TRANSITIONS,72,Manufacture this product
+0,[C503] ELECTRIC CAR BAG 3: CONNECTORS,73,Manufacture this product
+0,[C504] ELECTRIC CAR BAG 4: STEERING AND DRIVELINES,74,Manufacture this product
+0,[MCK-ECLB-2WD] ELECTRIC CAR LAB,75,Manufacture this product
+0,[A502] 17-58 Gear Set,76,Manufacture this product
+0,"23500 RPM MOTOR WITH WIRE",77,Manufacture this product
+0,[PTT-ARD2-001] ARDUINO ROBOT,78,Manufacture this product
+0,[C802] ARDUINO ROBOT BAG 2: TRANSITIONS,79,Manufacture this product
+0,[C803] ARDUINO ROBOT BAG 3: SCREWS,80,Manufacture this product
+0,[C804] ARDUINO ROBOT BAG 4: CONNECTORS,81,Manufacture this product
+0,[C805] ARDUINO ROBOT BAG 5: ELECTRONICS,82,Manufacture this product
+0,[A402] CONTINUOUS ROTATION ROBOTIC SERVO (With Hardware),83,Manufacture this product
+0,[MCK-1YLB-MR2] ONE YEAR LAB,84,Manufacture this product
+0,[A203] 4x4 BAG 3: CONNECTORS,85,Manufacture this product
+0,[A201] 4x4 BAG 1: BEAMS,86,Manufacture this product
+0,[A606] 4x4 ACCESSORIES,87,Manufacture this product
+0,[A601] 4x4 STEERING,88,Manufacture this product
+0,[A603] 4x4 DRIVELINE,89,Manufacture this product
+0,[A607] SMALL 4-LINK BARS,90,Manufacture this product
+0,[A608] MEDIUM 4-LINK BARS,91,Manufacture this product
+0,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,92,Manufacture this product
+0,[A804] GIMBAL BAG 1,93,Manufacture this product
+0,[A805] GIMBAL BAG 2,94,Manufacture this product
+0,[A806] GIMBAL BAG 3,95,Manufacture this product
+0,[CPK-DRCG-001] SMALL DRONE CAGE SYSTEM,96,Manufacture this product
+0,[CPK-DRCG-002] MEDIUM DRONE CAGE SYSTEM,97,Manufacture this product
+0,[CPK-DRCG-003] LARGE DRONE CAGE SYSTEM,98,Manufacture this product
+0,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,99,Manufacture this product
+0,[MCK-DRLB-MR2] DRONES LAB UGV + UAV,100,Manufacture this product
+0,PRE-BUILT MINDS-I UAV IN 3 AXIS GIMBAL,101,Manufacture this product
+0,PARACORD 4',102,Manufacture this product
+0,[D502] 3/4 IN PVC COUPLING WITH CENTERHOLE,103,Manufacture this product
+0,"[F309] 3"" SERVO WHEEL",104,Manufacture this product
+0,"[F309] 3"" DISK",105,Manufacture this product
+0,[E504A] X TOP PLATE,106,Manufacture this product
+0,[E504B] STRETCH X TOP PLATE,107,Manufacture this product
+0,[E503A] X BOTTOM PLATE,108,Manufacture this product
+0,[E503B] STRETCH X BOTTOM PLATE,109,Manufacture this product
+0,[F504] INERTIA PLUG,110,Manufacture this product
+0,[i403] 4-45 BEAM,111,Manufacture this product
+0,[i404] 5-45 BEAM,112,Manufacture this product
+0,[i405] 6-45 BEAM,113,Manufacture this product
+0,[i301] 7-45 BEAM,114,Manufacture this product
+0,[i302] 8-45 BEAM,115,Manufacture this product
+0,[i303] 9-45 BEAM,116,Manufacture this product
+0,[i304] 10-45 BEAM,117,Manufacture this product
+0,[E505] ARDUINO BASE PLATE,118,Manufacture this product
+0,[E606] SERVO PLATE,119,Manufacture this product
+0,4x4 WHEELS AND TIRES,120,Manufacture this product
+0,[MCK-UASL-045] DRONE CURRICULUM 45,121,Manufacture this product
+0,[MCK-DRSL-090] DRONE CURRICULUM 90HR,122,Manufacture this product
+0,[MCK-FDSL-090] FOUNDATIONS CURRICULUM,123,Manufacture this product
+0,[MCK-ECSL-045] ELECTRIC CAR CURRICULUM (Digital),124,Manufacture this product
+0,[F505] MOTOR WIRES,125,Manufacture this product
+0,[A901] UGV UPGRADE,126,Manufacture this product
+0,[C604] DUAL MOTOR ENCODER KIT,127,Manufacture this product
+0,[H701] ENCODER MOTOR GEARBOX ASSEMBLY,128,Manufacture this product
+0,[E501] COSMETIC PANELS,129,Manufacture this product
+0,0-DRIVELINE ASSEMBLY,130,Manufacture this product
+0,[i701] 1-DRIVELINE MALE ASSEMBLY,131,Manufacture this product
+0,[E605] TURNTABLE PLATE,132,Manufacture this product
+0,MULTIROTOR BASE PLATES SET,133,Manufacture this product
+0,[C601] ARDUINO UPGRADE BAG 1: BEAMS,134,Manufacture this product
+0,[C602] ARDUINO UPGRADE BAG 2: CONNECTORS,135,Manufacture this product
+0,[C603] ARDUINO UPGRADE BAG 3: ELECTRONICS,136,Manufacture this product
+0,BREADBOARD FRONT PLATE / BACK PLATE,137,Manufacture this product
+0,[C702] 250 PIECE BAG 2: 45 BEAMS AND TRANSITIONS,138,Manufacture this product
+0,[C703] 250 PIECE BAG 3: CONNECTORS,139,Manufacture this product
+0,3 AXIS GIMBAL RIG FRAME,140,Manufacture this product
+0,[F702] ARDUINO BATTERY HARNESS,141,Manufacture this product
+0,PRE-BUILT MULTIROTOR FOR GIMBAL,142,Manufacture this product
+0,[i402] 3-45 BEAM,143,Manufacture this product
+0,[H601] GEAR REDUCER,144,Manufacture this product
+0,DUAL MOTOR Upgrade Module for Super Rover Kit ,145,Manufacture this product
+0,"[D505] 3/4 IN PVC PIPE 12""",146,Manufacture this product
+0,[B804] VOLTAGE REGULATOR,147,Manufacture this product
+0,[I603] 8-DRIVELINE MALE ASSEMBLY,148,Manufacture this product
+0,[I601] 7-DRIVELINE MALE ASSEMBLY,149,Manufacture this product
+0,[I601] 6-DRIVELINE MALE ASSEMBLY,150,Manufacture this product
+0,5-DRIVELINE MALE ASSEMBLY,151,Manufacture this product
+0,4-DRIVELINE MALE ASSEMBLY,152,Manufacture this product
+0,3-DRIVELINE MALE ASSEMBLY,153,Manufacture this product
+0,2-DRIVELINE MALE ASSEMBLY,154,Manufacture this product
+0,[I603] 8-DRIVELINE FEMALE ASSEMBLY,155,Manufacture this product
+0,1-DRIVELINE FEMALE,156,Manufacture this product
+0,1-DRIVELINE MALE,157,Manufacture this product
+0,[i701] 1-DRIVELINE FEMALE ASSEMBLY,158,Manufacture this product
+0,2-DRIVELINE FEMALE,159,Manufacture this product
+0,2-DRIVELINE MALE,160,Manufacture this product
+0,2-DRIVELINE FEMALE ASSEMBLY,161,Manufacture this product
+0,3-DRIVELINE FEMALE,162,Manufacture this product
+0,3-DRIVELINE MALE,163,Manufacture this product
+0,3-DRIVELINE FEMALE ASSEMBLY,164,Manufacture this product
+0,4-DRIVELINE FEMALE,165,Manufacture this product
+0,4-DRIVELINE MALE,166,Manufacture this product
+0,4-DRIVELINE FEMALE ASSEMBLY,167,Manufacture this product
+0,5-DRIVELINE FEMALE,168,Manufacture this product
+0,5-DRIVELINE MALE,169,Manufacture this product
+0,5-DRIVELINE FEMALE ASSEMBLY,170,Manufacture this product
+0,6-DRIVELINE FEMALE,171,Manufacture this product
+0,6-DRIVELINE MALE,172,Manufacture this product
+0,6-DRIVELINE FEMALE ASSEMBLY,173,Manufacture this product
+0,7-DRIVELINE FEMALE,174,Manufacture this product
+0,7-DRIVELINE MALE,175,Manufacture this product
+0,7-DRIVELINE FEMALE ASSEMBLY,176,Manufacture this product
+0,[A403] LEAF SPRINGS PAIR,177,Manufacture this product
+0,[A801] UGV UPGRADE BAG 2: CONNECTORS,178,Manufacture this product
+0,[A803] UGV UPGRADE BAG 3: ELECTRONICS,179,Manufacture this product
+0,DRONES 45 DEMO BOOK,180,Manufacture this product
+0,[F304] SERVO Y-HARNESS W/REVERSER,181,Manufacture this product
+0,[F804] BATTERY Y HARNESS,182,Manufacture this product
+0,[H704] 4 PIN ENCODER CABLE,183,Manufacture this product
+0,[C904] Marz Rover APM,184,Manufacture this product
+0,Gyro Carbon Part Set,185,Manufacture this product
+0,COMPETITION KIT 4x4,186,Manufacture this product
+0,[CPK-FLDE-001] PVC FIELD ELEMENTS,187,Manufacture this product
+0,20'x20',188,Manufacture this product
+0,6x6 Wheel,189,Manufacture this product
+0,UAV Competition APM,190,Manufacture this product
+0,COMPETITION MULTIROTOR,191,Manufacture this product
