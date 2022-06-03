@@ -22,9 +22,13 @@ for row in curs:
     descCol.append(row)
     cnt+=1
 
+fout=open('IDDump_ASS.csv','w')
 for i in range(cnt):
-    dummy=uidCol[i]
-    dumpStr=
-    print(dummy)
+    (uidval,)=uidCol[i]
+    (descval,)=descCol[i]
+    dumpStr=str(uidval)+","+descval+"\n"
+    print(dumpStr)
+    fout.write(dumpStr)
+fout.close()
 conn.close()
     
