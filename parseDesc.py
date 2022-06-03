@@ -6,15 +6,16 @@ def funcExtract(desc):
         return retArg
     lastpar=desc.find("\"",firstpar+1)
     nextcom=desc.find(",",lastpar)
-    istailpar = (lastpar+1)==nextcom
+    lastpar+=1
+    istailpar = lastpar==nextcom
     while not istailpar and nextcom>=0:
         nextcom=desc.find(",",lastpar)
         lastpar+=1
         istailpar= lastpar==nextcom
     if not istailpar:
         return retArg
-    reddesc=desc[(firstpar+1):lastpar]
-    retArg=[reddesc, firstpar, (lastpar+1)]
+    reddesc=desc[(firstpar+1):(lastpar-1)]
+    retArg=[reddesc, firstpar, lastpar]
     return retArg
 
 def funcRemDup(desc):
