@@ -13,8 +13,8 @@ def funcExtract(desc):
         istailpar= lastpar==nextcom
     if not istailpar:
         return retArg
-    reddesc=desc[(firstpar+1):(lastpar-1)]
-    retArg=[reddesc, firstpar, lastpar]
+    reddesc=desc[(firstpar+1):lastpar]
+    retArg=[reddesc, firstpar, (lastpar+1)]
     return retArg
 
 def funcRemDup(desc):
@@ -27,10 +27,18 @@ def funcRemDup(desc):
         parloc=desc.find("\"",parloc)
     return desc
 
+def funcRemCommas(desc):
+    commaloc=desc.find(",")
+    while commaloc>=0:
+        desc=desc[:commaloc]+desc[(commaloc+1):]
+        commaloc=desc.find(",")
+    return desc
+
 def funcClean(desc):
     extDesc = funcExtract(desc)
-    cleandDesc = funcRemDup(extDesc[0])
-    return [cleandDesc,extDesc[1],extDesc[2]]
+    dupRemDesc = funcRemDup(extDesc[0])
+    cleanDesc=funcRemCommas(dupRemDesc)
+    return [cleanDesc,extDesc[1],extDesc[2]]
 
 def funcFix(line):
     isoDesc = funcClean(line)
