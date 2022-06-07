@@ -35,6 +35,16 @@ def funcRemCommas(desc):
         commaloc=desc.find(",")
     return desc
 
+def funcRemQuotes(vstr):
+    quoteloc=vstr.find("\"")
+    if quoteloc<0:
+        return vstr
+    vstr = vstr[(quoteloc+1):]
+    cutlen=len(vstr)
+    cutlen-=2
+    vstr = vstr[:cutlen]
+    return vstr
+
 def funcClean(desc):
     extDesc = funcExtract(desc)
     dupRemDesc = funcRemDup(extDesc[0])
@@ -49,3 +59,21 @@ def funcFix(line):
         fixedline=linestrt+isoDesc[0]+linetail
         return fixedline
     return line
+
+def funcClearFirstBrackets(desc):
+    lastbrac=desc.find("]")
+    if(lastbrac<0):
+        return desc
+    lastbrac+=2
+    return desc[lastbrac:]
+
+def funcExtractFromBrackets(desc):
+    firstbrac=desc.find("[")
+    if firstbrac<0:
+        return desc
+    firstbrac+=1
+    desc=desc[firstbrac:]
+    lastbrac=desc.find("]")
+    if lastbrac<0:
+        return desc
+    return desc[:lastbrac]
