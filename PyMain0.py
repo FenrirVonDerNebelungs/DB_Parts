@@ -1,3 +1,4 @@
+import parseDesc
 import mysql.connector
 
 conn = mysql.connector.connect(host="localhost",database="parts_test2",user="data0",password="XXfish3x3");
@@ -9,13 +10,15 @@ for db in curs:
 
 sqlcom = "INSERT INTO units (TYPE, LABEL, QTY, INTERNALREF, COST, SALESPRICE) VALUES (%s, %s, %s, %s, %s, %s)"
 
-fin=open('OdooAllParts00.csv','r')
+fin=open('odooAllParts00.csv','r')
 
 fieldsar = ["dum1", "desc", "IRef", "dum2", "SaleP", "Cost", "QTY", "dum3", "dum4"]
 line = fin.readline()
 cnt=0
 while line and cnt<1000:
     line=fin.readline()
+    line=parseDesc.funcFix(line)
+    line=parseDesc.funcFix(line)
     print(line)
     commaloc=line.find(",")
     fieldindx=0
@@ -33,10 +36,12 @@ while line and cnt<1000:
         break
     valtype='PART'
     vallable=fieldsar[1]
-    valqty = fieldsar[6]
-    valintref=fieldsar[2]
-    valcost=fieldsar[5]
-    valsale=fieldsar[4]
+    valqty = parseDesc.funcRemQuotes(fieldsar[6])
+    valintref=parseDesc.funcRemQuotes(fieldsar[2])
+    valcost=parseDesc.funcRemQuotes(fieldsar[5])
+    valsale=parseDesc.funcRemQuotes(fieldsar[4])
+    print(valtype,vallable, valqty, valintref, valcost, valsale, sep=", ")
+    print('\n---\n')
     valar=(valtype, vallable, valqty, valintref, valcost, valsale)
     curs.execute(sqlcom,valar)
     conn.commit()

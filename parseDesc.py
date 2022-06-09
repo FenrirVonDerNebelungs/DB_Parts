@@ -35,20 +35,37 @@ def funcRemCommas(desc):
         commaloc=desc.find(",")
     return desc
 
+
+def funcRemChar(desc,ch):
+    qloc = desc.find(ch)
+    maxindx=len(desc)-1
+    while qloc>=0:
+        topindx=qloc+1
+        if(topindx<=maxindx):
+            desc=desc[:qloc]+desc[topindx:]
+        else:
+            desc=desc[:qloc]
+        qloc=desc.find(ch)
+    return desc
+
+def funcRemSingQuotes(desc):
+    return funcRemChar(desc,"'")
+
 def funcRemQuotes(vstr):
-    quoteloc=vstr.find("\"")
-    if quoteloc<0:
+    return funcRemChar(vstr,"\"")
+
+def funcRemEndl(vstr):
+    eloc=vstr.find('\n')
+    if(eloc<0):
         return vstr
-    vstr = vstr[(quoteloc+1):]
-    cutlen=len(vstr)
-    cutlen-=2
-    vstr = vstr[:cutlen]
+    vstr=vstr[:eloc]
     return vstr
 
 def funcClean(desc):
     extDesc = funcExtract(desc)
     dupRemDesc = funcRemDup(extDesc[0])
-    cleanDesc=funcRemCommas(dupRemDesc)
+    delsingDesc=funcRemSingQuotes(dupRemDesc)
+    cleanDesc=funcRemCommas(delsingDesc)
     return [cleanDesc,extDesc[1],extDesc[2]]
 
 def funcFix(line):

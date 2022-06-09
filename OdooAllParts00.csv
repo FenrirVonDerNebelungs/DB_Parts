@@ -1,566 +1,572 @@
-Favorite,Name,Internal Reference,Responsible,Sales Price,Cost,Quantity On Hand,Forecasted Quantity,Unit of Measure,Activity Exception Decoration
-Normal,#1 PHILLIPS SCREWDRIVER,G305,Chris Lines,5.5,1.1,127,92,Units,
-Normal,"#10 1/2"" Screw",,MINDS-i,1,0,500,500,Units,
-Normal,#10 Nylock,,MINDS-i,1,0,500,500,Units,
-Normal,#10 Washer,,MINDS-i,1,0,1000,1000,Units,
-Normal,"#10-24x5/16"" SCREW",N208,MINDS-i,1,0.18,1376,1312,Units,
-Normal,#2 WASHER,G508,Tim Lines,0.4,0.07,2431,2431,Units,
-Normal,"#2-32 5/8"" SCREW",G607,Tim Lines,0.45,0.09,1105,1105,Units,
-Normal,#4 WASHER,G507,Tim Lines,1,0.07,5866,5015,Units,
-Normal,"#4-4 1/4"" Washer",,MINDS-i,1,0,0,0,Units,
-Normal,"#4-40 1"" SCREW",G602,Tim Lines,1,0.11,2539,2411,Units,
-Normal,"#4-40 1-3/8"" SCREW",G601,Tim Lines,1,0.08,1946,1754,Units,
-Normal,"#4-40 1/2"" SCREW",G605,Tim Lines,1,0.01,4150,3486,Units,
-Normal,"#4-40 1/4"" NUT",G503,Tim Lines,1,0.02,7001,6496,Units,
-Normal,"#4-40 3/4"" SCREW",G603,Tim Lines,1,0.06,3079,2440,Units,Alert
-Normal,"#4-40 3/8"" SCREW",G606,Tim Lines,0.25,0.04,3359,2973,Units,
-Normal,"#4-40 5/8"" SCREW",G604,Tim Lines,1,0,3071,3016,Units,
-Normal,"#4-40 x 1"" THREAD ROD",G404,Tim Lines,0.23,0.05,5358,5356,Units,
-Normal,"#4-40 x 1-1/2"" THREAD ROD",G403,Tim Lines,0.32,0.06,3081,3081,Units,
-Normal,"#4-40 x 2-3/4"" THREAD ROD",G402,Tim Lines,0.6,0.12,3581,3581,Units,
-Normal,"#4-40 x 3-3/4"" THREAD ROD",G401,Tim Lines,0.75,0.15,3132,3132,Units,
-Normal,"#4-40 x 3/4"" THREAD ROD",G405,Tim Lines,1,0,832,828,Units,
-Normal,0-DRIVELINE ASSEMBLY,,Tim Lines,14,2.67,0,10,Units,
-Normal,"0.050"" ALLEN WRENCH",,Tim Lines,1,0.13,182,182,Units,
-Normal,"0.095"" ACRYLIC CLEAR SHEET",XX03,Chris Lines,1,0,15,13,Units,
-Normal,"0.118"" ACRYLIC RED SHEET",,Chris Lines,1,0,0,-1,Units,
-Normal,"0.4"" THREAD COLLAR",F506,Tim Lines,1,0,1605,1605,Units,
-Normal,"0.75"" 3/8"" BOLT",G708,Tim Lines,1,0,281,193,Units,
-Normal,"1"" PVC Cross",,MINDS-i,1,0,0,0,Units,
-Normal,"1"" PVC Elbow",,MINDS-i,1,0,8,8,Units,
-Normal,"1"" PVC T",,MINDS-i,1,0,0,0,Units,
-Normal,1-DRIVELINE FEMALE,,MINDS-i,0.18,0.18,115,157,Units,
-Normal,1-DRIVELINE FEMALE ASSEMBLY,i701,MINDS-i,8,1.55,0,50,Units,
-Normal,1-DRIVELINE MALE,,MINDS-i,0.18,0.18,0,157,Units,
-Normal,1-DRIVELINE MALE ASSEMBLY,i701,Tim Lines,8,1.55,79,136,Units,
-Normal,"1.2"" THREAD COLLAR",F507,Tim Lines,1,0,378,378,Units,
-Normal,1.5-LOCK,H603,Tim Lines,0.4,0.08,14275,14275,Units,
-Normal,1.5-PIN,H403,Tim Lines,0.15,0.03,13304,11315,Units,Alert
-Normal,1.5mm Hex Key,G511,Tim Lines,0.77,0.15,617,611,Units,
-Normal,1/16 SHORT ARM HEX KEY,G510,Tim Lines,0.7,0.14,1030,1027,Units,
-Normal,"1/16"" HEX DRIVER",B304,Tim Lines,1,0,778,716,Units,
-Normal,"1/4"" FLAT WRENCH",G303,Tim Lines,1.91,0.38,2278,2243,Units,
-Normal,1/4x3/8 10-24 TSL Z,N207,MINDS-i,1,0.54,1273,1209,Units,
-Normal,10 TOOTH PINION GEAR,F303,Tim Lines,11,2.17,192,192,Units,
-Normal,10-45 BEAM,i304,Tim Lines,1,0.22,347,231,Units,
-Normal,10-58 GEAR SET,A503,Tim Lines,98,19.52,53,28,Units,
-Normal,10-BEAM,J405,Tim Lines,1.15,0.23,124,-162,Units,
-Normal,100mm Linear Actuator,,MINDS-i,0,0,0,0,Units,
-Normal,10x15x4mm BEARING,G302,Tim Lines,1,0,3380,3308,Units,
-Normal,11-45 BEAM,i305,Tim Lines,0.21,0.17,12911,12627,Units,
-Normal,11-BEAM,J301,Tim Lines,1.15,0.23,236,-250,Units,
-Normal,1100KV BRUSHLESS MOTOR,,Tim Lines,1,0,0,0,Units,
-Normal,1100KV BRUSHLESS MOTOR MOUNT,,Tim Lines,1,0,0,0,Units,
-Normal,12-BEAM,J302,Tim Lines,0.21,0.23,112,-66,Units,
-Normal,12mm WHEEL NUT,i706,Tim Lines,1,0.13,6438,6438,Units,
-Normal,13-BEAM,J303,Tim Lines,1.15,0.23,94,-242,Units,
-Normal,"14 AWG ""AUTO ZIP"" WIRE",,MINDS-i,0.41,0.41,129.85,124.02,ft,
-Normal,14-BEAM,J304,Tim Lines,1.15,0.23,396,134,Units,
-Normal,1408 MOTOR MOUNT,,Tim Lines,1,0.24,0,0,Units,
-Normal,15-BEAM,J305,Tim Lines,1.15,0.18,97,-4244,Units,Alert
-Normal,15-T PINION,,Tim Lines,1,0,12,12,Units,
-Normal,15LB TUBE SCALE,D202,Tim Lines,14,17.49,164,102,Units,
-Normal,16' RETRACTABLE POLES,,Tim Lines,1,0,0,-10,Units,
-Normal,17 TOOTH PINION GEAR,F302,Tim Lines,1,0,76,76,Units,
-Normal,17-58 Gear Set,A502,Tim Lines,1,0,25,0,Units,
-Normal,17mm WHEEL NUT,i704,Tim Lines,1,0.13,3007,3007,Units,
-Normal,2-45 BEAM,i401,Tim Lines,1.15,0.23,1208,827,Units,
-Normal,2-BEAM,J502,Tim Lines,1.15,0.23,3094,2504,Units,
-Normal,2-DRIVELINE FEMALE,,MINDS-i,0.9,0.18,0,0,Units,
-Normal,2-DRIVELINE FEMALE ASSEMBLY,,MINDS-i,8,1.55,0,0,Units,
-Normal,2-DRIVELINE MALE,,MINDS-i,0.9,0.18,0,0,Units,
-Normal,2-DRIVELINE MALE ASSEMBLY,,Tim Lines,8,1.55,0,0,Units,
-Normal,2-LOCK,H503,Tim Lines,0.4,0.08,47020,43926,Units,
-Normal,2-PIN,H404,Tim Lines,0.15,0.03,30964,27544,Units,
-Normal,2-ROTATE,H604,Tim Lines,0.4,0.08,49182,48856,Units,
-Normal,"2.0"" THREAD COLLAR",F508,Tim Lines,1,0,164,100,Units,
-Normal,"2.4"" FOUR-LINK ARM",F408,Tim Lines,1,0,618,618,Units,
-Normal,2.5x10mm DOWEL PIN,G512,Tim Lines,1,0,5214,5214,Units,Alert
-Normal,20'x20',,MINDS-i,1,0,0,0,Units,
-Normal,2015-PLAIN,,MINDS-i,1,0,0,0,Units,
-Normal,2205 MOTOR,B703,MINDS-i,1,11.6,0,-450,Units,Alert
-Normal,2205 MOTOR MOUNT,i604,Tim Lines,1,0.34,2720,2360,Units,
-Normal,"22KZ24 (0.190"" OD Black)",,MINDS-i,0.5,0.05,0,0,in,
-Normal,22KZ27 (0.190 OD Red,,MINDS-i,0.5,0.05,0,0,in,
-Normal,23500 RPM MOTOR LABEL,,Tim Lines,1,0,173,173,Units,
-Normal,23500 RPM MOTOR WITH WIRE,,Tim Lines,1,3.2,26,1,Units,
-Normal,23-T PINION,,Tim Lines,1,0,0,0,Units,
-Normal,"24"" x 48"" BLACK ABS SHEET",,Tim Lines,1,0,0,0,Units,
-Normal,250 PIECE,A501,Tim Lines,176,35.1,1,-2,Units,
-Normal,250 PIECE BAG 1: BEAMS,C701,MINDS-i,1,21.25,29,-5,Units,
-Normal,250 PIECE BAG 2: 45 BEAMS AND TRANSITIONS,C702,MINDS-i,1,0,0,-1,Units,
-Normal,250 PIECE BAG 3: CONNECTORS,C703,MINDS-i,1,0,30,-29,Units,
-Normal,2mm  GOLD CONNECTORS,,Tim Lines,0.09,0.09,2600,1604,Units,
-Normal,3 AXIS GIMBAL RIG FRAME,,MINDS-i,1,0,0,0,Units,
-Normal,3 Channel Radio,C10x,Tim Lines,55,2.16,8,-26,Units,
-Normal,3 PIN CABLE FLAT - LATCHED,B603,Tim Lines,1,0,1920,1496,Units,
-Normal,3 PIN CABLE FLAT - SEPERATE,B605,Tim Lines,1,0,885,513,Units,
-Normal,"3"" DISK",F309,Chris Lines,1,0,50,40,Units,
-Normal,"3"" DISK RUBBER TIRE",F309,Chris Lines,1,0,43,-31,Units,
-Normal,"3"" DUCT",,Tim Lines,1,0.64,0,0,Units,
-Normal,"3"" SERVO WHEEL",F309,Tim Lines,1,0,29,39,Units,
-Normal,3' USB CABLE,F605,Tim Lines,1,0,117,-122,Units,Alert
-Normal,3-45 BEAM,i402,Tim Lines,1.15,0.23,133,-438,Units,
-Normal,3-BEAM,J503,Tim Lines,1.15,0.23,1659,1091,Units,
-Normal,3-DRIVELINE FEMALE,,MINDS-i,0.9,0.18,0,-56,Units,
-Normal,3-DRIVELINE FEMALE ASSEMBLY,,MINDS-i,8,1.55,0,62,Units,
-Normal,3-DRIVELINE MALE,,MINDS-i,0.18,0.18,0,-54,Units,
-Normal,3-DRIVELINE MALE ASSEMBLY,,Tim Lines,8,1.55,-10,56,Units,
-Normal,3-Elbow,,MINDS-i,1,0,0,0,Units,
-Normal,3-LOCK,H504,Tim Lines,0.7,0.14,14304,13683,Units,
-Normal,3-PIN,H405,Tim Lines,0.7,0.14,18475,17602,Units,
-Normal,3-ROTATE,H605,Tim Lines,0.6,0.12,14076,13824,Units,
-Normal,"3.6"" FOUR-LINK ARM",F407,Tim Lines,1,0,4528,4528,Units,
-Normal,"3/16"" BALL STUD",G406,Tim Lines,1,0.2,915,901,Units,
-Normal,"3/16"" POLYCARBONATE SHEET",,MINDS-i,1,0,12,12,Units,
-Normal,"3/16"" QUICK CONNECT FEMALE",F502,MINDS-i,0.04,0.04,350,330,Units,
-Normal,3/32 HEX KEY,G509,Chris Lines,1,0.16,1083,877,Units,Alert
-Normal,"3/32"" HEX DRIVER",B303,Tim Lines,1,0,501,393,Units,
-Normal,3/4 IN PVC COUPLING,L302,Tim Lines,2,0.4,638,152,Units,
-Normal,3/4 IN PVC COUPLING WITH CENTERHOLE,D502,Chris Lines,1,0,96,122,Units,
-Normal,3/4 IN PVC CROSS,D501,Tim Lines,18.7,3.74,92,-138,Units,
-Normal,3/4 IN PVC ELBOWS,D503,Tim Lines,2.75,0.55,442,-478,Units,
-Normal,3/4 IN PVC PIPE  10 FOOT,XX02,MINDS-i,1,0,0,-107,Units,
-Normal,"3/4 IN PVC PIPE 12""",D505,Tim Lines,1,0,676,-92,Units,
-Normal,"3/8"" 32 OZ. ELASTIC BAND",,Chris Lines,1,0,3021,2651,Units,
-Normal,"3/8"" BALL STUD",G407,Tim Lines,1,0,7186,7186,Units,
-Normal,"3/8"" STANDOFF",G707,Tim Lines,1,0,156,112,Units,
-Normal,"3/8"" WASHER",G706,Chris Lines,1,0,318,230,Units,
-Normal,"3061 1/4-20 X .5"" BHSCS",N203,MINDS-i,1.5,0.29,562,562,Units,
-Normal,320A BRUSHED ESC,A504,Tim Lines,158,28.34,99,19,Units,
-Normal,3mm BLACK POLYCARBONATE SHEET,,Chris Lines,1,0,0,-58,Units,
-Normal,4 PIN CABLE LATCHED-SEPERATE,B502,Tim Lines,1,0,29,18,Units,Alert
-Normal,4 PIN ENCODER CABLE,H704,Tim Lines,1,0,58,58,Units,
-Normal,4 Pin Encoder Cable Unfinished,,MINDS-i,1,0,0,0,Units,
-Normal,4-45 BEAM,i403,Tim Lines,1.15,0.23,1169,1005,Units,
-Normal,4-BEAM,J504,Tim Lines,1.15,0.23,1041,-200,Units,
-Normal,4-DRIVELINE FEMALE,,MINDS-i,0.9,0.18,0,0,Units,
-Normal,4-DRIVELINE FEMALE ASSEMBLY,,MINDS-i,8,1.55,0,0,Units,
-Normal,4-DRIVELINE MALE,,MINDS-i,0.9,0.18,0,0,Units,
-Normal,4-DRIVELINE MALE ASSEMBLY,,Tim Lines,8,1.55,0,0,Units,
-Normal,4.0mm BRUSHLESS MOTOR ADAPTER,,Tim Lines,1,0,0,0,Units,
-Normal,"4.8"" FOUR-LINK ARM",F406,Tim Lines,0.7,0,473,473,Units,
-Normal,4500mah 4S 35~70C Lipo Pack,ELE-LIPO-450,Tim Lines,1,0,0,0,Units,
-Normal,"4NKT1 (0.75"" OD Clear)",,MINDS-i,1,0.07,0,0,in,
-Normal,4mm AXLE REAR HUB,A705,Tim Lines,1,0,23,-16,Units,
-Normal,4mm AXLE STEERING HUB,A704,Tim Lines,1,0,22,-17,Units,
-Normal,4x4,,MINDS-i,1,0,0,0,Units,
-Normal,4x4,,Tim Lines,750,0,9,16,Units,
-Normal,4x4 ACCESSORIES,A606,MINDS-i,1,0,36,22,Units,
-Normal,4x4 BAG 1: BEAMS,A201,Tim Lines,156,23.11,-1,21,Units,
-Normal,4x4 BAG 2: BEAMS 2,A202,Tim Lines,57,11.28,16,6,Units,
-Normal,4x4 BAG 3: CONNECTORS,A203,Tim Lines,620,42.35,18,4,Units,
-Normal,4x4 DRIVELINE,A603,Tim Lines,114,22.8,-2,-5,Units,
-Normal,4x4 INSTRUCTIONS,E401,Tim Lines,17,17,26,12,Units,
-Normal,4x4 STEERING,A601,Tim Lines,18,3.59,21,7,Units,
-Normal,4x4 TOOLS AND FASTENERS,A302,Chris Lines,205,41,32,-4,Units,
-Normal,4x4 WHEELS AND TIRES,,Tim Lines,1,0,131,117,Units,
-Normal,"5"" DUCT GREEN",M102,Tim Lines,1,0.77,223,-103,Units,
-Normal,"5"" DUCT ORANGE",M101,Tim Lines,1,0.77,263,-63,Units,Alert
-Normal,5' PVC Pipe,,MINDS-i,1,0,140,140,Units,
-Normal,5-45 BEAM,i404,Tim Lines,1,0.22,365,201,Units,
-Normal,5-BEAM,J505,Tim Lines,1.15,0.23,1847,1313,Units,
-Normal,5-DRIVELINE FEMALE,,MINDS-i,0.9,0.18,0,-28,Units,
-Normal,5-DRIVELINE FEMALE ASSEMBLY,,MINDS-i,8,1.55,71,99,Units,
-Normal,5-DRIVELINE MALE,,MINDS-i,0.9,0.18,0,-28,Units,
-Normal,5-DRIVELINE MALE ASSEMBLY,,Tim Lines,8,1.55,59,65,Units,
-Normal,5/32 DRILLROD 3',,Tim Lines,1,0.58,0,0,Units,
-Normal,"5/32"" TOOL",N301,Tim Lines,1,0,32,10,Units,
-Normal,5000 RPM MOTOR LABEL,E701,Tim Lines,1,0,1092,1081,Units,
-Normal,5000 RPM MOTOR WITH WIRE,L102B,Tim Lines,10.5,3.2,26,-18,Units,
-Normal,5045 PROPELLER CCW,A405,Tim Lines,2,0.31,751,547,Units,
-Normal,5045R PROPELLER CW,A404,Tim Lines,2,0.31,754,550,Units,
-Normal,58 TOOTH SPUR GEAR,F301,Tim Lines,61.65,12.33,157,157,Units,
-Normal,5mm AXLE REAR HUB,A610,Tim Lines,1,0,40,29,Units,
-Normal,5mm AXLE STEERING HUB,A706,Tim Lines,1,0,80,58,Units,
-Normal,5v 3.2A Step Down Voltage Regulator,F203,MINDS-i,19.95,0,142,136,Units,
-Normal,6-45 BEAM,i405,Tim Lines,1.15,0.23,333,185,Units,
-Normal,6-BEAM,J401,Tim Lines,1.15,0.23,-31,-119,Units,
-Normal,6-DRIVELINE FEMALE,,MINDS-i,0.18,0.18,0,266,Units,
-Normal,6-DRIVELINE FEMALE ASSEMBLY,,MINDS-i,8,1.55,0,71,Units,
-Normal,6-DRIVELINE MALE,,MINDS-i,0.9,0.18,0,272,Units,
-Normal,6-DRIVELINE MALE ASSEMBLY,I601,Tim Lines,8,1.55,0,43,Units,
-Normal,6x12x4mm BEARING,G301,Tim Lines,0.25,0.25,1523,1475,Units,
-Normal,6x6,,Tim Lines,1200,0,30,-27,Units,
-Normal,6x6 ACCESSORY,A605,Tim Lines,1,0,12,1,Units,
-Normal,6x6 BAG 1: BEAMS 1,C401,Tim Lines,1,0,5,10,Units,
-Normal,6x6 BAG 2: BEAMS 2,C402,Tim Lines,1,0,18,7,Units,
-Normal,6x6 BAG 3: TRANSITIONS,C403,Tim Lines,1,0,4,-7,Units,
-Normal,6x6 BAG 4: CONNECTORS 1,C404,Tim Lines,1,0,30,19,Units,
-Normal,6x6 BAG 5: CONNECTORS 2,C405,Tim Lines,1,0,31,20,Units,
-Normal,6x6 DRIVELINE,A604,Tim Lines,228,45.56,6,-5,Units,
-Normal,6x6 INSTRUCTIONS,E403,Tim Lines,15.8,15.8,123,112,Units,
-Normal,6x6 STEERING,A602,Tim Lines,58,11.42,18,-4,Units,
-Normal,6x6 TOOLS AND FASTENERS,A301,MINDS-i,88,17.43,19,8,Units,
-Normal,6x6 WHEELS AND TIRES,,Tim Lines,1,0,69,58,Units,
-Normal,6x6 Wheel,,MINDS-i,1,0,445,445,Units,
-Normal,7-45 BEAM,i301,Tim Lines,0.21,0.22,296,180,Units,
-Normal,7-BEAM,J402,Tim Lines,1.15,0.23,487,-181,Units,
-Normal,7-DRIVELINE FEMALE,,MINDS-i,0.9,0.18,0,80,Units,
-Normal,7-DRIVELINE FEMALE ASSEMBLY,,MINDS-i,8,1.55,0,0,Units,
-Normal,7-DRIVELINE MALE,,MINDS-i,0.18,0.18,1,132,Units,
-Normal,7-DRIVELINE MALE ASSEMBLY,I601,Tim Lines,15,2.92,0,0,Units,
-Normal,7.2V 23500 RPM DC MOTOR,L103,Tim Lines,1,0,173,173,Units,
-Normal,7.2V 5000 RPM DC MOTOR,L102,MINDS-i,1,0,1072,1061,Units,
-Normal,78-T SPUR,DRI-SPGR-078,Tim Lines,1,0,0,0,Units,
-Normal,7mm HEX DRIVER DYNAMITE,B505,Chris Lines,2.99,2.99,0,-3,Units,
-Normal,8-45 BEAM,i302,Tim Lines,0.21,0.22,7,55,Units,
-Normal,8-BEAM,J403,Tim Lines,1.15,0.23,1857,1593,Units,
-Normal,8-DRIVELINE FEMALE,I605,Tim Lines,0.9,0.18,4713,4155,Units,
-Normal,8-DRIVELINE FEMALE ASSEMBLY,I603,MINDS-i,8,1.55,0,1,Units,
-Normal,8-DRIVELINE MALE,I705,Tim Lines,0.9,0.18,4726,3958,Units,
-Normal,8-DRIVELINE MALE ASSEMBLY,I603,Tim Lines,8,1.55,0,8,Units,
-Normal,"80/20 1010-S 14""",,MINDS-i,1,0,0,-34,Units,
-Normal,"80/20 1010-S 25""",,MINDS-i,1,0,14,-42,Units,
-Normal,80/20 2828 10 Series Tread Strip,,MINDS-i,1,0,0,0,Units,
-Normal,"80/20 3393 1/4-20 x 1/2"" BHSCS",N204,MINDS-i,3,0.56,1419,487,Units,
-Normal,80/20 4136 10 Series Corners,N201,MINDS-i,1,0,200,22,Units,
-Normal,87-T SPUR,DRI-SPGR-087,Tim Lines,1,0,0,0,Units,
-Normal,8mm  HEX DRIVER DYNAMITE,B504,Chris Lines,2.99,2.99,120,150,Units,
-Normal,9-45 BEAM,i303,Tim Lines,1.15,0.23,205,73,Units,
-Normal,9-BEAM,J404,Tim Lines,1.15,0.23,221,-5,Units,
-Normal,90mm SHOCK,,Chris Lines,5.68,5.68,0,-32,Units,
-Normal,90mm SHOCKS KIT,A304,Tim Lines,87,17.39,49,4,Units,
-Normal,9V BATTERY ADAPTER,F501,Tim Lines,1,0,25,25,Units,
-Normal,AA BATTERY,E506,MINDS-i,1,0,600,488,Units,Alert
-Normal,ACLW-001 GRABBER HOOK,,Tim Lines,1,0,0,0,Units,
-Normal,ACLW-002 GRABBER PLATE,,Tim Lines,1,0,0,0,Units,
-Normal,ANTENNA MOUNT,H703,Tim Lines,1,0,2033,2033,Units,
-Normal,APM FLIGHT CONTROLLER,F601,Tim Lines,29,29,434,529,Units,Alert
-Normal,AR Aircraft Receiver,ETX-AR6C-610,Tim Lines,1,0,0,0,Units,
-Normal,ARDUINO BASE PLATE,E505,Tim Lines,1,2.95,91,10,Units,
-Normal,ARDUINO BATTERY HARNESS,F702,Tim Lines,1,0,55,22,Units,
-Normal,ARDUINO LEONARDO,B403,Tim Lines,1,15.63,167,43,Units,
-Normal,ARDUINO ROBOT,PTT-ARD2-001,MINDS-i,475,158.42,5,0,Units,
-Normal,ARDUINO ROBOT BAG 1: BEAMS,C801,Tim Lines,1,0,6,6,Units,
-Normal,ARDUINO ROBOT BAG 2: TRANSITIONS,C802,Tim Lines,1,0,5,5,Units,
-Normal,ARDUINO ROBOT BAG 3: SCREWS,C803,Tim Lines,1,0,5,5,Units,
-Normal,ARDUINO ROBOT BAG 4: CONNECTORS,C804,Tim Lines,1,0,5,5,Units,
-Normal,ARDUINO ROBOT BAG 5: ELECTRONICS,C805,Tim Lines,1,0,1,2,Units,
-Normal,ARDUINO ROBOT INSTRUCTIONS,E101,Tim Lines,13.1,13.1,29,-3,Units,
-Normal,ARDUINO ROBOT TOOLS,A303,Tim Lines,58,11.52,0,0,Units,
-Normal,ARDUINO UPGRADE,,Tim Lines,410,0,18,47,Units,
-Normal,ARDUINO UPGRADE BAG 1: BEAMS,C601,MINDS-i,1,0,15,-23,Units,
-Normal,ARDUINO UPGRADE BAG 2: CONNECTORS,C602,MINDS-i,1,0,48,-37,Units,
-Normal,ARDUINO UPGRADE BAG 3: ELECTRONICS,C603,MINDS-i,1,0,0,-20,Units,
-Normal,ARDUINO UPGRADE INSTRUCTIONS,E405,Tim Lines,8.95,8.95,117,26,Units,
-Normal,ARDUINO USER GUIDE INSTRUCTIONS,E406,Tim Lines,13.5,13.5,49,-74,Units,
-Normal,AUTONOMOUS SELF DRIVING GROUND VEHICLE,MCK-UGLB-001,MINDS-i,3450,0,0,0,Units,
-Normal,"AVERY BINDER 2""",,Tim Lines,1,7.23,7,-11,Units,
-Normal,AXLE HOUSING,J605,Tim Lines,1,0.13,4297,4265,Units,
-Normal,"BAG 12""x20"" 1.5MIL",,MINDS-i,1,0,85,53,Units,
-Normal,"BAG 20""x24"" 1.5MIL",,MINDS-i,1,0,30,30,Units,
-Normal,"BAG 6""x12"" 3MIL",,MINDS-i,1,0,2,-53,Units,
-Normal,BALING WIRE,,MINDS-i,1,0,823.36,823.36,ft,
-Normal,BALL CUPS 13mm,F305,Tim Lines,1,0,127,119,Units,
-Normal,BATTERY CAP,J703,Tim Lines,1,0.12,414,394,Units,
-Normal,BATTERY CHARGER LIPO,,Tim Lines,130,26,0,0,Units,
-Normal,BATTERY Y HARNESS,F804,Tim Lines,1,0,0,-1,Units,
-Normal,BLACK SILICONE CAP,F806,Tim Lines,1,0.1,235,43,Units,
-Normal,BLACK TOOL HANDLE,,Tim Lines,1,1.9,0,0,Units,
-Normal,BLACK TOOL HANDLE SET,TOL-HDBL-001,Tim Lines,1,0,0,0,Units,
-Normal,BODY POST,H702,Tim Lines,1,0.38,1055,1055,Units,
-Normal,BREADBOARD FRONT PLATE / BACK PLATE,,Tim Lines,1,0,5,-6,Units,
-Normal,BUILD A MOTOR,C205,Chris Lines,1,0,38,11,Units,
-Normal,"BULK FOAM (2.8"")",,Tim Lines,1,0.95,0,0,Units,
-Normal,"BULK FOAM (3.8"")",K302,Tim Lines,1,2,3,3,Units,
-Normal,"BULK TIRE (2.8"" BADLANDS)",,Tim Lines,1,2.65,0,0,Units,
-Normal,"BULK TIRE (3.8"" BADLANDS)",,Tim Lines,1,3.8,3,3,Units,
-Normal,"BULK WHEEL (2.8"" DESPERADO)",,Tim Lines,1,1.54,0,0,Units,
-Normal,"BULK WHEEL (3.8"" DESPERADO)",,Tim Lines,1,3.8,3,3,Units,
-Normal,BUNGEE CORDS,,Tim Lines,1,0,0,-300,Units,
-Normal,"CABLE TIE 4""",E706,Tim Lines,1,0.2,1222,181,Units,
-Normal,"CABLE TIE 8""",E707,Tim Lines,0.35,0.07,9517,8710,Units,
-Normal,CARBON ARM,FRM-MRCA-001,Tim Lines,1,0,0,0,Units,
-Normal,CARBON ARM END,,Tim Lines,1,0.38,0,0,Units,
-Normal,CARBON FIBER TUBE,,Tim Lines,1,3.44,0,0,Units,
-Normal,CATAPULT LAB,MCK-CKWM-001,MINDS-i,175,0,0,0,Units,
-Normal,CATAPULT LAB CLASSROOM 10 PACK W 10 CURRICULUM HOURS,MCK-CKWM-C10,MINDS-i,1250,0,0,0,Units,
-Normal,CATAPULT SUPPORT MATERIAL,C905,Tim Lines,1,0,30,-25,Units,
-Normal,CENTER DIFFERENTIAL CASE,J704,Tim Lines,1,0.38,1927,1927,Units,
-Normal,CLEARANCE THREAD ADAPTER,i501,Tim Lines,0.05,0.01,77577,76485,Units,
-Normal,COLORED PUSH BUTTON,B601,Tim Lines,1,0,96,8,Units,
-Normal,COMPETITION KIT 4x4,,Tim Lines,1,0,0,0,Units,
-Normal,COMPETITION KIT UAV,CPK-UAM2-001,MINDS-i,1275,0,15,34,Units,
-Normal,COMPETITION MULTIROTOR,,MINDS-i,1,0,-2,-15,Units,
-Normal,CONTINUOUS ROTATION ROBOTIC SERVO (With Hardware),A402,Tim Lines,160,31.43,164,100,Units,
-Normal,"CORRUGATED BOXES 18x12x10""",L202,Tim Lines,1,0,264,193,Units,
-Normal,CORRUGATED BOXES 18x12x6,L201,Tim Lines,1,0,361,325,Units,
-Normal,CORRUGATED BOXES 20x20x8,,MINDS-i,1,0,0,0,Units,
-Normal,"CORRUGATED BOXES 26x18x16""",M202,Tim Lines,1,0,47,-2,Units,
-Normal,"CORRUGATED BOXES 28x28x12""",M103,MINDS-i,1,0,16,-4,Units,
-Normal,"CORRUGATED BOXES 32x18x18""",M201,Tim Lines,1,0,88,88,Units,
-Normal,CORRUGATED BOXES 60x8x8,,MINDS-i,1,0,0,0,Units,
-Normal,COSMETIC PANELS,E501,Tim Lines,1,0,20,2,Units,
-Normal,Cross,,MINDS-i,1,0,13,13,Units,
-Normal,D-SHOT BULLET ESC,B702,Tim Lines,1,9.2,117,-381,Units,
-Normal,DESIGN JOURNAL INSTRUCTIONS,,Tim Lines,5.75,5.75,0,0,Units,
-Normal,DIFFERENTIAL CASE,J705,Tim Lines,1,0.13,5221,5189,Units,
-Normal,DIFFERENTIAL GEAR SET,B301,Tim Lines,30,6,283,267,Units,
-Normal,DIFFERENTIAL SPOOL,F401,Tim Lines,1,0,708,692,Units,
-Normal,DIFFERENTIAL W/ SPOOL,A702,Tim Lines,1,0,34,-25,Units,
-Normal,DISC GEAR REDUCER,H502,Tim Lines,1,8.69,187,184,Units,
-Normal,DISPLAY BOARD MATERIAL,,Tim Lines,1,0,0,0,Units,
-Normal,DPDT SLIDE SWITCH,,Tim Lines,0.31,0.31,0,0,Units,
-Normal,DRIVELINE YOKE,i504,Tim Lines,3,0.6,7551,6983,Units,
-Normal,DRONE CURRICULUM 45,MCK-UASL-045,MINDS-i,596.25,0,1,13,Units,
-Normal,DRONE CURRICULUM 90HR,MCK-DRSL-090,MINDS-i,596.25,0,0,0,Units,
-Normal,DRONE DUCT LABEL,PCK-VNLM-004,Tim Lines,1,0,0,0,Units,
-Normal,DRONES 45 BINDER,,Tim Lines,150,0,0,-6,Units,
-Normal,DRONES 45 DEMO BOOK,,MINDS-i,0,0,0,0,Units,
-Normal,DRONES 90 BINDER,PRT-B90D-001,Tim Lines,1,0,0,0,Units,
-Normal,DRONES LAB UGV + UAV,MCK-DRLB-MR2,MINDS-i,5400,0,2,0,Units,
-Normal,DUAL MOTOR BATTERY CABLE,,MINDS-i,1,0,0,-18,Units,
-Normal,DUAL MOTOR ENCODER KIT,C604,Tim Lines,1,0,5,3,Units,
-Normal,DUAL MOTOR Upgrade Module for Super Rover Kit ,,MINDS-i,1,0,0,1,Units,
-Normal,DUAL OUTPUT DIFFERENTIAL,A703,Tim Lines,1,0,1,-10,Units,
-Normal,DUAL TRANSITION,J601,Tim Lines,1,0.17,10235,9799,Units,
-Normal,DUCT,DUC-DU00-001,Tim Lines,1,0,0,0,Units,
-Normal,ELECTRIC CAR BAG 1: BEAMS,C501,Tim Lines,1,0,18,1,Units,
-Normal,ELECTRIC CAR BAG 2: 45-BEAMS AND TRANSITIONS,C502,Tim Lines,1,0,18,1,Units,
-Normal,ELECTRIC CAR BAG 3: CONNECTORS,C503,Tim Lines,1,0,34,9,Units,
-Normal,ELECTRIC CAR BAG 4: STEERING AND DRIVELINES,C504,Tim Lines,1,0,18,-5,Units,
-Normal,ELECTRIC CAR CURRICULUM (Digital),MCK-ECSL-045,MINDS-i,596.25,79.2,0,1,Units,
-Normal,ELECTRIC CAR INSTRUCTIONS,E305,Chris Lines,13.4,13.4,85,60,Units,
-Normal,ELECTRIC CAR LAB,MCK-ECLB-2WD,MINDS-i,625,0,2,0,Units,
-Normal,ELECTRONIC SPEED CONTROLLER,ELE-SCBR-300,Tim Lines,1,0,0,0,Units,
-Normal,EMX-SC-1772,,Tim Lines,1,5.94,0,0,Units,
-Normal,ENCODER MOTOR GEARBOX ASSEMBLY,H701,Tim Lines,1,0,55,55,Units,
-Normal,ENCODER SHAFT,,Tim Lines,1,17.6,69,69,Units,
-Normal,EXTENSION PLUG,F707,Tim Lines,0.16,0.16,763,645,Units,
-Normal,FELT CATAPULT MAT,B705,Tim Lines,42,18,119,112,Units,
-Normal,FEMALE XT60 CONNECTOR,ELE-XT60-F01,Tim Lines,1,0,0,0,Units,
-Normal,FOUNDATIONS BINDER,,Tim Lines,1,0,0,0,Units,
-Normal,FOUNDATIONS CURRICULUM,MCK-FDSL-090,MINDS-i,556.5,0,0,1,Units,
-Normal,FOUNDATIONS LAB 4x4 (90 Hour),MCK-FDLB-4X4,MINDS-i,2700,0,0,0,Units,
-Normal,FOUNDATIONS LAB 6x6 (90 Hour),MCK-FDLB-6X6,MINDS-i,3000,0,0,-10,Units,
-Normal,FOUNDATIONS TEACHERS' RESOURCE,MCK-FDTR-001,MINDS-i,1100,0,1,3,Units,
-Normal,FRONT WHEEL HUB,i607,Tim Lines,1,0.59,4804,4804,Units,
-Normal,FRONT WHEEL KNUCKLE,i606,Tim Lines,1,0.39,2981,2981,Units,
-Normal,FUNCTION DIGITAL MULTIMETER,D201,Tim Lines,1,5.99,142,55,Units,
-Normal,Four Wheel Steering Upgrade Module for 4x4 Robot Kits,,MINDS-i,0,0,0,-2,Units,
-Normal,G4 SCREWS,,Tim Lines,1,0,0,-50,Units,
-Normal,GEAR REDUCER,H601,Tim Lines,42,29.99,5,-54,Units,
-Normal,GEAR REDUCTION UNIT,H501,Tim Lines,1,0,0,-3,Units,
-Normal,GIMBAL BAG 1,A804,Chris Lines,1,0,3,1,Units,
-Normal,GIMBAL BAG 2,A805,Chris Lines,1,0,3,1,Units,
-Normal,GIMBAL BAG 3,A806,Chris Lines,1,0,0,0,Units,
-Normal,GIMBAL CENTER BAR,N302,MINDS-i,1,0,14,-14,Units,
-Normal,GIMBAL KIT,A902,Tim Lines,1,0,41,-5,Units,
-Normal,GPS,F602,Tim Lines,17,17,699,604,Units,
-Normal,Gimbal 1/4 Inner Ring,N303,MINDS-i,1,0,0,-8,Units,
-Normal,Gimbal 1/4 Outer Ring,N304,MINDS-i,1,0,0,-8,Units,
-Normal,Gimbal Rig 3D Bearing Holders,,MINDS-i,1,0,0,-56,Units,
-Normal,Gimbal Rig Feet,,MINDS-i,1,0,0,-95,Units,
-Normal,Gyro Bracket,,MINDS-i,1,1.24,4763,4163,Units,
-Normal,Gyro Carbon Part Set,,MINDS-i,1,235.91,14,-12,Units,
-Normal,Gyro Frame Latch,,MINDS-i,7.5,1.5,0,0,Units,
-Normal,Gyro Pin,N202,MINDS-i,45.75,9.15,138,-42,Units,
-Normal,Gyro Plate,,MINDS-i,1,0,0,-56,Units,
-Normal,HARD CASE,PCK-OWHC-001,Tim Lines,1,0,0,0,Units,
-Normal,HARD CASE,,Tim Lines,1,0,0,-8,Units,
-Normal,HEX ADAPTER 12mm,,MINDS-i,1,0,220,220,Units,
-Normal,HEX ADAPTER 17mm,,MINDS-i,1,0,466,466,Units,
-Normal,HMC5883L 3-Axis Electronic Compass,,MINDS-i,0,0,0,0,Units,
-Normal,HS-311 STANDARD SERVO,D301,Tim Lines,1,0,39,15,Units,
-Normal,HS-485HB Karbonite Gear BB Servo,A10X,Tim Lines,29,14.99,0,100,Units,
-Normal,HS-485HB SERVO (With Hardware),A401,Tim Lines,67,13.29,229,-20,Units,
-Normal,HS-645MG SERVO,ESV-HSMG-645,Tim Lines,1,0,0,0,Units,
-Normal,HS-755MG GIANT SCALE SERVO,ESV-HSMG-755,Tim Lines,1,0,0,0,Units,
-Normal,HSR-2645CRH ROBOT SERVO CONTINUOS ROTATION,,Tim Lines,145,28.99,0,0,Units,
-Normal,HVY DUTY ROD ENDS BLACK/12,F306,Tim Lines,1.12,0.22,2470,2466,Units,Alert
-Normal,INERTIA PLUG,F504,Chris Lines,1,0,94,34,Units,
-Normal,INTERF,,MINDS-i,1,0,0,0,Units,
-Normal,INTERFERENCE THREAD ADAPTER,i502,Tim Lines,0.5,0.1,16856,16442,Units,
-Normal,IR Distance Sensor,ELE-IRDS-108,Tim Lines,1,0,0,0,Units,
-Normal,IRIS STORAGE BOX,CON-SBIR-501,Tim Lines,1,0,0,0,Units,
-Normal,JR to Futaba Servo Wire,,MINDS-i,1,0,0,0,Units,
-Normal,JST TO BULLET CABLE,B802,Tim Lines,1.2,1.2,848,848,Units,
-Normal,KYOSHO MALE,ELE-KYML-066,Tim Lines,1,0,0,0,Units,
-Normal,LARGE 4-LINK BARS,A609,Tim Lines,1,0,18,-4,Units,
-Normal,LARGE DRONE CAGE ASSEMBLY INSTRUCTIONS,,Tim Lines,1,0,0,-1,Units,
-Normal,LARGE DRONE CAGE SYSTEM,CPK-DRCG-003,MINDS-i,18750,0,0,1,Units,
-Normal,LARGE SERVO PLATE,CHS-PASP-002,Tim Lines,1,0,0,0,Units,Alert
-Normal,LCD DISPLAY,D302,Tim Lines,1,0,1,-10,Units,
-Normal,LEAF SPRING,,Tim Lines,4,0.66,0,0,Units,
-Normal,LEAF SPRINGS PAIR,A403,MINDS-i,7,1.32,1386,1380,Pairs,
-Normal,LIPO / NIMH CHARGER,A506,Tim Lines,60,27.29,92,-138,Units,
-Normal,LIPO Adapter,A305,MINDS-i,1,0,0,0,Units,Alert
-Normal,LIPO BATTERY,B404,Tim Lines,30,0,83,-297,Units,
-Normal,LIPOLY SAFETY BAG,D606,Tim Lines,1,0,63,-41,Units,
-Normal,LITHIUM HANDLING LABEL,,Tim Lines,1,0,-1,-21,Units,
-Normal,LONG SERVO HORN,J602,Tim Lines,3,0.6,7038,7027,Units,
-Normal,LONG SHANK ROD ENDS BLACK/12,F308,Tim Lines,1.12,0.22,1592,1592,Units,
-Normal,LUNAR ROVER SOLAR PANEL,ELE-SPLR-001,Tim Lines,1,0,0,0,Units,
-Normal,Landing Pad,,MINDS-i,1,0,0,0,Units,Alert
-Normal,M12 WRENCHES,,Tim Lines,1,0,0,-10,Units,
-Normal,M3 WASHER,G506,Tim Lines,1,0,666,642,Units,
-Normal,M3-0.5 x 6mm ISO 4762/DIN 912 Hex Drive Grade A2-70 Stainless Steel Socket Cap Screw,G612,Tim Lines,1,0,4900,4900,Units,
-Normal,M3-0.5x25mm SCREW,G609,Tim Lines,1,0,510,504,Units,
-Normal,M3x6mm SCREW,G608,Tim Lines,1,0,1783,1759,Units,
-Normal,M3x8mm SCREW,B703,Tim Lines,1,0,0,-1136,Units,
-Normal,M4 9021 FEND WASH Z,N205,MINDS-i,1,0.03,315,295,Units,
-Normal,M4 WASHER,G505,Tim Lines,1,0,1959,1959,Units,
-Normal,M4 WHEEL END SHAFT,F509,Tim Lines,1,0,1670,1670,Units,
-Normal,M4 x 8 BHSCS A-2,N206,MINDS-i,1,0.19,303,283,Units,
-Normal,M4-0.7 NYLOCK,G502,Tim Lines,1,0,1955,1955,Units,
-Normal,M5 WASHER,G504,Tim Lines,1,0.6,1868,1868,Units,
-Normal,M5 WHEEL END SHAFT,F510,Tim Lines,0.74,0,593,593,Units,
-Normal,M5-0.8 NYLOCK,G501,Tim Lines,1,0,1879,1879,Units,
-Normal,MALE BULLET CONNECTOR,F503,MINDS-i,0.05,0.05,353,333,Units,
-Normal,MALE TO MALE SERVO LEAD,B501,Tim Lines,1,0,420,-291,Units,
-Normal,MARZ ROVER,,MINDS-i,1,0,0,0,Units,
-Normal,MARZ ROVER INSTRUCTIONS,,Tim Lines,18.25,18.25,14,12,Units,
-Normal,MEDIUM 4-LINK BARS,A608,Tim Lines,1,0,8,-6,Units,
-Normal,MEDIUM DRONE CAGE ASSEMBLY INSTRUCTIONS,,Tim Lines,1,0,0,0,Units,
-Normal,MEDIUM DRONE CAGE SYSTEM,CPK-DRCG-002,MINDS-i,12750,0,0,0,Units,
-Normal,MINDS-i T-Shirt,,MINDS-i,15,0,39,29,Units,
-Normal,MINDS-i TOOL,B503,Tim Lines,23,4.56,265,-293,Units,
-Normal,MINI MR STRETCH X BOTTOM,DRN-DMSB-001,Tim Lines,1,0,0,0,Units,
-Normal,MINI MR STRETCH X TOP,DRN-DMST-001,Tim Lines,1,0,0,0,Units,
-Normal,MINI MR X BOTTOM PLATE,DRN-DMBP-001,Tim Lines,1,0,0,0,Units,
-Normal,MINI MR X TOP PLATE,DRN-DMTP-001,Tim Lines,1,0,0,0,Units,
-Normal,MOTOR 2205 - 30A ESC CCW,,Tim Lines,1,0,0,106,Units,
-Normal,MOTOR 2205 - 30A ESC CW,,Tim Lines,1,0,0,108,Units,
-Normal,MOTOR CASE A,J701,Tim Lines,1,0.12,984,976,Units,
-Normal,MOTOR CASE B,J702,Tim Lines,1,0.12,955,947,Units,
-Normal,MOTOR GEARBOX,A701,Tim Lines,1,0,35,-26,Units,
-Normal,MOTOR SHAFT,F405,Tim Lines,1,0,1295,1287,Units,
-Normal,MOTOR SPANNER WRENCH,G304,Chris Lines,1,0,274,81,Units,Alert
-Normal,MOTOR WIRES,F505,Tim Lines,1,0,29,28,Units,
-Normal,MR2 BAG 1: PLATES,C301,Tim Lines,1,0,24,-10,Units,
-Normal,MR2 BAG 2: MOTOR MOUNT,C302,Tim Lines,1,0,72,-1,Units,
-Normal,MR2 BAG 3: ESC,C303,Tim Lines,1,0,93,1,Units,
-Normal,MR2 BAG 4: CONNECTORS,C304,Tim Lines,1,0,131,7,Units,
-Normal,MR2 BAG 5: LANDING GEAR,C305,Tim Lines,1,0,141,6,Units,
-Normal,MR2 BAG 6: TOOLS,C201,Tim Lines,1,0,5,41,Units,
-Normal,MR2 BAG 7: APM,C202,Tim Lines,1,0,63,3,Units,
-Normal,MULTIROTOR,,Tim Lines,1,0,0,-4,Units,
-Normal,MULTIROTOR BASE PLATES SET,,Tim Lines,1,0,78,28,Units,
-Normal,MULTIROTOR INSTRUCTIONS,,Tim Lines,14.25,14.25,254,119,Units,Alert
-Normal,Marz Rover APM,C904,MINDS-i,1,0,0,-2,Units,
-Normal,Misc,,MINDS-i,0,0,0,0,Units,
-Normal,NETTING SET,,Tim Lines,1,0,0,-1,Units,
-Normal,NI-MH CHARGER,,Tim Lines,12.6,2.52,0,0,Units,Alert
-Normal,NIMH BATTERY,B405,Tim Lines,1,16.9,100,-55,Units,Alert
-Normal,OEM Hitec Male (silver pin)  [F501],,MINDS-i,1,0,0,0,Units,
-Normal,ONE YEAR LAB,MCK-1YLB-MR2,MINDS-i,6750,0,0,0,Units,
-Normal,OPTICAL ENCODER,ELE-ENOP-100,Tim Lines,1,0,30,30,Units,
-Normal,OVERPACK LABEL,,Tim Lines,1,0,-1,-21,Units,
-Normal,PAGES FOR DRONE CURRICULUM 45,,Tim Lines,79.2,79.2,0,-14,Units,
-Normal,PAGES FOR DRONE CURRICULUM 90,E103,Tim Lines,95.17,95.17,3,2,Units,
-Normal,PAGES FOR ELECTRIC CAR CURRICULUM,,Tim Lines,39.5,39.5,3,2,Units,
-Normal,PAGES FOR FOUNDATIONS CURRICULUM,E102,Tim Lines,73.21,73.21,7,5,Units,
-Normal,PANEL-LOCK,H506,Tim Lines,0.4,0.08,18384,16367,Units,
-Normal,PARACORD 1000' SPOOL,,Chris Lines,0.25,0.05,4999.76,3715.76,ft,Alert
-Normal,PARACORD 4',,Chris Lines,49,9.66,57,33,Units,
-Normal,PETG,,Tim Lines,1,0,0,0,Units,
-Normal,PID TEST RACK,,Tim Lines,1,0,-2,9,Units,
-Normal,PING ULTRASONIC RANGE FINDER,B402,Tim Lines,1,17.99,245,-91,Units,
-Normal,PINION SET SCREW,F303,Tim Lines,2.5,0.5,64,64,Units,
-Normal,POWER MODULE WITH BATTERY HARNESS,B803,Chris Lines,5,5,107,3,Units,
-Normal,POWER MODULE WITH XT60 CONNECTORS,B801,Chris Lines,3,3,834,834,Units,
-Normal,PRE-BUILT MINDS-I UAV IN 3 AXIS GIMBAL,,Tim Lines,1,0,-1,5,Units,
-Normal,PRE-BUILT MULTIROTOR FOR GIMBAL,,MINDS-i,1,0,0,0,Units,
-Normal,PROP NUT,XXXX,Tim Lines,1,0,0,-284,Units,
-Normal,PROPELLER TIGHTENING TOOL,,Tim Lines,1,0,0,0,Units,
-Normal,PVC 5-Way,,MINDS-i,1,0,2,2,Units,
-Normal,PVC CAGE,CPK-DRCG-PVC,MINDS-i,2099,0,0,-3,Units,
-Normal,PVC Cap,,MINDS-i,1,0,0,0,Units,
-Normal,PVC Cutter,,MINDS-i,1,0,4,4,Units,
-Normal,PVC FIELD ELEMENTS,CPK-FLDE-001,MINDS-i,599,0,0,0,Units,
-Normal,Plain Ping Pong Ball,XXXX,MINDS-i,1,0,0,0,Units,
-Normal,Plastic Bucket,,MINDS-i,1,0,0,0,Units,Alert
-Normal,Platform,,MINDS-i,1,0,0,0,Units,Alert
-Normal,Pool Noodle,,MINDS-i,1,0,0,0,Units,
-Normal,QTI - LF PCB ASSY,B401,Tim Lines,6.99,6.99,330,-50,Units,
-Normal,RACE CAR WHEELS AND TIRES,B305,Tim Lines,1,0,18,-7,Units,
-Normal,RACECAR BODY,,MINDS-i,0,0,0,0,Units,
-Normal,RACECAR INSTRUCTIONS,,Tim Lines,13.65,13.65,11,11,Units,
-Normal,REALFLIGHT FLIGHT SIMULATOR,D901,Tim Lines,315,179,53,5,Units,Alert
-Normal,REAR WHEEL HUB,I707,Tim Lines,1,0.39,4965,4965,Units,
-Normal,RED LASER MODULE,B604,Tim Lines,1,4.28,146,34,Units,
-Normal,REFLECTIVE TAPE,FSN-RTWH-001,Tim Lines,1,0,0,0,Units,
-Normal,RING AND PINION GEAR SET,B302,Tim Lines,40,8,310,294,Units,
-Normal,ROBOT SERVO HORN,J604,Tim Lines,3,0.6,6862,6851,Units,
-Normal,ROD END BALL,G409,Tim Lines,0.25,0.25,10929,10929,Units,
-Normal,ROD END/BALL CONNECTOR (6),F309,Tim Lines,0.37,0.37,3891,3891,Units,
-Normal,ROTATING CONNECTORS,C705,Tim Lines,1,0,62,0,Units,
-Normal,"RUBBER BANDS 2 1/2 x 1/4""",FSN-RB62-005,Tim Lines,1,0,0,0,Units,
-Normal,SAFETY DUCT SCREEN,,Tim Lines,1,6.13,0,0,Units,
-Normal,SAFETY GLASSES,B701,Tim Lines,1,0,225,60,Units,
-Normal,SCREW ADAPTER,C505,Tim Lines,1,0,103,41,Units,
-Normal,SENSOR SHIELD,B602,Tim Lines,1,7.65,376,261,Units,
-Normal,SERVO BUSHING,ESV-HSBU-001,Tim Lines,1,0,0,0,Units,
-Normal,SERVO BUSHING SLEEVE,ESV-HSBS-001,Tim Lines,1,0,0,0,Units,
-Normal,SERVO LINKAGE,C605,Tim Lines,1,0,94,32,Units,
-Normal,SERVO LINKAGE KIT,,MINDS-i,1,0,0,-4,Units,
-Normal,SERVO MOUNT,i505,Tim Lines,0.5,0.1,12864,12853,Units,
-Normal,SERVO PLATE,E606,Tim Lines,1,0,147,1141,Units,
-Normal,SERVO PLATE PLUS HARDWARE,,Tim Lines,1,0,0,0,Units,
-Normal,SERVO PLUGS,ELE-SPLP-444,Tim Lines,1,0,0,0,Units,
-Normal,SERVO Y-HARNESS W/REVERSER,F304,Tim Lines,1,0,16,5,Units,
-Normal,SERVO Y-HARNESS W/REVERSER BOARD,,MINDS-i,1,0,0,0,Units,
-Normal,SHOCK MOUNT,G410,Tim Lines,0.75,0.15,10248,10216,Units,
-Normal,"SHRINK TUBING 0.25""",FSN-STBL-025,Tim Lines,1,0,0,0,Units,
-Normal,"SHRINK TUBING 0.75""",,Tim Lines,1,0,-25,-31,Units,
-Normal,SHROUD STUD,F403,Tim Lines,1,0.31,2775,2775,Units,
-Normal,SMALL 4-LINK BARS,A607,Tim Lines,1,0,18,4,Units,
-Normal,SMALL DRONE CAGE ASSEMBLY INSTRUCTIONS,,Tim Lines,1,0,0,0,Units,
-Normal,SMALL DRONE CAGE SYSTEM,CPK-DRCG-001,MINDS-i,11000,0,0,0,Units,
-Normal,SOLAR CHARGE CONTROLLER,ELE-SPCC-001,Tim Lines,1,0,0,0,Units,
-Normal,SOLDER ROSIN CORE,XX01,Tim Lines,1,0,1,1,Units,
-Normal,STEERING BAR,I801,Tim Lines,0.5,0.1,3682,3680,Units,
-Normal,STEERING BRACKET,I802,Tim Lines,0.5,0.1,3647,3645,Units,
-Normal,STEERING PLATE,I803,Tim Lines,0.5,0.1,3874,3872,Units,
-Normal,STEERING SERVO HORN,J603,Tim Lines,3,0.6,6942,6920,Units,
-Normal,STORAGE BIN,,Tim Lines,12.99,12.99,426,-44,Units,
-Normal,STRETCH X BOTTOM PLATE,E503B,Tim Lines,1,0,44,44,Units,
-Normal,STRETCH X TOP PLATE,E504B,Tim Lines,1,0,44,44,Units,
-Normal,SUPPORT ARM,i503,Tim Lines,2,0.38,6302,6016,Units,
-Normal,Shipping,,MINDS-i,1,0,0,0,Units,
-Normal,Spektrum TX/RX USB Programming Cable,,MINDS-i,0,0,0,0,Units,
-Normal,TACHOMETER,D101,Tim Lines,79.8,36.99,46,-16,Units,Alert
-Normal,TAMIYA CHARGER ADAPTER,A505,Chris Lines,18,3.45,144,62,Units,
-Normal,TAMIYA FEMALE,ELE-TMFL-067,Tim Lines,1,0,0,0,Units,
-Normal,TAMIYA FEMALE TO XT60 MALE CABLE,,Tim Lines,1,0,0,0,Units,
-Normal,TAMIYA MALE TO XT60 FEMALE CABLE,F803,Tim Lines,1,0,109,109,Units,
-Normal,TAMIYA PLUG,,Tim Lines,1,0,0,0,Units,
-Normal,TAMIYA PLUG WITH 10cm LEADS FEMALE,F705,Tim Lines,1.73,1.73,140,140,Units,
-Normal,TAMIYA PLUG WITH 10cm LEADS  MALE,F704,Chris Lines,1,0,184,184,Units,
-Normal,TELEMETRY KIT,F603,Tim Lines,28,28,80,450,Units,
-Normal,TELEMETRY RADIO CABLE (PRE-2022)),,MINDS-i,14,0,0,0,Units,
-Normal,TEXTURED FOOT PLATES,,Tim Lines,1,0,0,-8,Units,
-Normal,TGY-I6S RADIO CONTROLLER,D701,Tim Lines,120,50.85,427,193,Units,
-Normal,TORNADO T1 1407 MOTOR (CW),,Tim Lines,1,8,0,0,Units,
-Normal,TRANSITION,J501,Tim Lines,1,0.19,3701,271,Units,Alert
-Normal,TRUSS FRAME PARTS,,Tim Lines,1,0,0,-118,Units,
-Normal,TUBE FABRIC,,Tim Lines,1,0,0,0,Units,
-Normal,TURNTABLE PLATE,E605,Tim Lines,1,0.26,82,82,Units,
-Normal,Tee,,MINDS-i,1,0,25,25,Units,
-Normal,Tracking,,MINDS-i,1,0,0,0,Units,
-Normal,Tracking # 559834463940 (Remainder),,MINDS-i,0,0,0,0,Units,
-Normal,Tracking# 559834463560,,MINDS-i,1,0,0,0,Units,
-Normal,Tracking#: 225631456,,MINDS-i,1,0,0,0,Units,
-Normal,U-JOINT,F404,Tim Lines,4,0.77,675,121,Units,
-Normal,U-JOINT SET SCREW,G408,Tim Lines,2,0.35,7113,6852,Units,
-Normal,UAV Competition APM,,MINDS-i,1,0,3,3,Units,
-Normal,UAV DRONE GIMBAL RIG,MCK-DRGY-001,MINDS-i,2500,0,0,1,Units,
-Normal,UAV DRONE GIMBAL RIG INSTRUCTIONS,E306,Chris Lines,9.4,9.4,24,2,Units,
-Normal,UAV DRONE LAB,MCK-UALB-MR2,MINDS-i,3100,0,0,-1,Units,
-Normal,UGV UPGRADE,A901,Tim Lines,1,0,0,1,Units,
-Normal,UGV UPGRADE BAG 1: BEAMS,A802,MINDS-i,1,0,1,2,Units,
-Normal,UGV UPGRADE BAG 2: CONNECTORS,A801,MINDS-i,1,0,9,8,Units,
-Normal,UGV UPGRADE BAG 3: ELECTRONICS,A803,MINDS-i,1,0,4,1,Units,
-Normal,UGV UPGRADE INSTRUCTIONS,,Tim Lines,1,0,0,0,Units,
-Normal,USB DRIVE,F604,Tim Lines,5.25,5.25,343,68,Units,Alert
-Normal,VELCRO BALL,,Tim Lines,1,0,439,432,Units,
-Normal,"VELCRO HOOK 12""",E802A,Tim Lines,1,0,3028,2857,Units,
-Normal,"VELCRO HOOK 2.5""",,MINDS-i,1,0,0,-28,Units,
-Normal,"VELCRO LOOP 12""",E802B,Tim Lines,1,0,2653,2482,Units,
-Normal,VELCRO STRAPS,E702,Tim Lines,1,0,210,-17,Units,
-Normal,VOLTAGE REGULATOR,B804,Tim Lines,1,0,52,-24,Units,
-Normal,WHITE SILICONE CAP,F807,Tim Lines,1,0.7,260,260,Units,
-Normal,X BOTTOM PLATE,E503A,Tim Lines,1,0,36,28,Units,
-Normal,X TOP PLATE,E504A,Tim Lines,1,0,0,0,Units,
-Normal,Y-HARNESS FOR DUAL ESCS,F707,Tim Lines,1,0,285,284,Units,
+dummmyy line, line line, line, line,  line,  lienm, limeme,
+"Normal","#1 PHILLIPS SCREWDRIVER","G305","Chris Lines","5.5","1.1","95.0","92.0","Units",""
+"Normal","#10 1/2"" Screw","","MINDS-i","1.0","0.0","500.0","500.0","Units",""
+"Normal","#10 Nylock","","MINDS-i","1.0","0.0","500.0","500.0","Units",""
+"Normal","#10 Washer","","MINDS-i","1.0","0.0","1000.0","1000.0","Units",""
+"Normal","#10-24x5/16"" SCREW","N208","MINDS-i","1.0","0.18","1376.0","1312.0","Units",""
+"Normal","#2 WASHER","G508","Tim Lines","0.4","0.07","2431.0","2431.0","Units",""
+"Normal","#2-32 5/8"" SCREW","G607","Tim Lines","0.45","0.09","1105.0","1105.0","Units",""
+"Normal","#4 WASHER","G507","Tim Lines","1.0","0.07","4962.0","4453.0","Units",""
+"Normal","#4-4 1/4"" Washer","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","#4-40 1"" SCREW","G602","Tim Lines","1.0","0.11","2411.0","2355.0","Units",""
+"Normal","#4-40 1-3/8"" SCREW","G601","Tim Lines","1.0","0.08","1818.0","1530.0","Units",""
+"Normal","#4-40 1/2"" SCREW","G605","Tim Lines","1.0","0.01","3894.0","3486.0","Units",""
+"Normal","#4-40 1/4"" NUT","G503","Tim Lines","1.0","0.02","6521.0","6060.0","Units",""
+"Normal","#4-40 3/4"" SCREW","G603","Tim Lines","1.0","0.06","2591.0","2046.0","Units","Alert"
+"Normal","#4-40 3/8"" SCREW","G606","Tim Lines","0.25","0.04","3071.0","2777.0","Units",""
+"Normal","#4-40 5/8"" SCREW","G604","Tim Lines","1.0","0.0","3016.0","3006.0","Units",""
+"Normal","#4-40 x 1"" THREAD ROD","G404","Tim Lines","0.23","0.05","5358.0","5328.0","Units",""
+"Normal","#4-40 x 1-1/2"" THREAD ROD","G403","Tim Lines","0.32","0.06","3081.0","3081.0","Units",""
+"Normal","#4-40 x 2-3/4"" THREAD ROD","G402","Tim Lines","0.6","0.12","3581.0","3525.0","Units",""
+"Normal","#4-40 x 3-3/4"" THREAD ROD","G401","Tim Lines","0.75","0.15","3132.0","3076.0","Units",""
+"Normal","#4-40 x 3/4"" THREAD ROD","G405","Tim Lines","1.0","0.0","832.0","828.0","Units",""
+"Normal","0-DRIVELINE ASSEMBLY","","Tim Lines","14.0","2.67","0.0","10.0","Units",""
+"Normal","0.050"" ALLEN WRENCH","","Tim Lines","1.0","0.13","182.0","182.0","Units",""
+"Normal","0.095"" ACRYLIC CLEAR SHEET","XX03","Chris Lines","1.0","0.0","15.0","13.0","Units",""
+"Normal","0.118"" ACRYLIC RED SHEET","","Chris Lines","1.0","0.0","0.0","-1.0","Units",""
+"Normal","0.4"" THREAD COLLAR","F506","Tim Lines","1.0","0.0","1605.0","1605.0","Units",""
+"Normal","0.75"" 3/8"" BOLT","G708","Tim Lines","1.0","0.0","281.0","193.0","Units",""
+"Normal","1"" PVC Cross","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","1"" PVC Elbow","","MINDS-i","1.0","0.0","8.0","8.0","Units",""
+"Normal","1"" PVC T","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","1-DRIVELINE FEMALE","","MINDS-i","0.18","0.18","115.0","129.0","Units",""
+"Normal","1-DRIVELINE FEMALE ASSEMBLY","i701","MINDS-i","8.0","1.55","0.0","50.0","Units",""
+"Normal","1-DRIVELINE MALE","","MINDS-i","0.18","0.18","0.0","157.0","Units",""
+"Normal","1-DRIVELINE MALE ASSEMBLY","i701","Tim Lines","8.0","1.55","79.0","108.0","Units",""
+"Normal","1.2"" THREAD COLLAR","F507","Tim Lines","1.0","0.0","378.0","322.0","Units",""
+"Normal","1.5-LOCK","H603","Tim Lines","0.4","0.08","14275.0","14275.0","Units",""
+"Normal","1.5-PIN","H403","Tim Lines","0.15","0.03","12511.0","11197.0","Units","Alert"
+"Normal","1.5mm Hex Key","G511","Tim Lines","0.77","0.15","617.0","611.0","Units",""
+"Normal","1/16 SHORT ARM HEX KEY","G510","Tim Lines","0.7","0.14","1030.0","1027.0","Units",""
+"Normal","1/16"" HEX DRIVER","B304","Tim Lines","1.0","0.0","760.0","716.0","Units",""
+"Normal","1/4"" FLAT WRENCH","G303","Tim Lines","1.91","0.38","2246.0","2243.0","Units",""
+"Normal","1/4x3/8 10-24 TSL Z","N207","MINDS-i","1.0","0.54","1273.0","1209.0","Units",""
+"Normal","10 TOOTH PINION GEAR","F303","Tim Lines","11.0","2.17","192.0","192.0","Units",""
+"Normal","10-45 BEAM","i304","Tim Lines","1.0","0.22","253.0","163.0","Units",""
+"Normal","10-58 GEAR SET","A503","Tim Lines","98.0","19.52","53.0","14.0","Units",""
+"Normal","10-BEAM","J405","Tim Lines","1.15","0.23","356.0","465.0","Units",""
+"Normal","100mm Linear Actuator","","MINDS-i","0.0","0.0","0.0","0.0","Units",""
+"Normal","10x15x4mm BEARING","G302","Tim Lines","1.0","0.0","3252.0","3156.0","Units",""
+"Normal","11-45 BEAM","i305","Tim Lines","0.21","0.17","12653.0","12503.0","Units",""
+"Normal","11-BEAM","J301","Tim Lines","1.15","0.23","632.0","-146.0","Units",""
+"Normal","1100KV BRUSHLESS MOTOR","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","1100KV BRUSHLESS MOTOR MOUNT","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","12-BEAM","J302","Tim Lines","0.21","0.23","72.0","-106.0","Units",""
+"Normal","12mm WHEEL NUT","i706","Tim Lines","1.0","0.13","6438.0","6438.0","Units",""
+"Normal","13-BEAM","J303","Tim Lines","1.15","0.23","492.0","-42.0","Units",""
+"Normal","14 AWG ""AUTO ZIP"" WIRE","","MINDS-i","0.41","0.41000000000000003","129.85","124.02","ft",""
+"Normal","14-BEAM","J304","Tim Lines","1.15","0.23","356.0","94.0","Units",""
+"Normal","1408 MOTOR MOUNT","","Tim Lines","1.0","0.24","0.0","0.0","Units",""
+"Normal","15-BEAM","J305","Tim Lines","1.15","0.18","-1062.0","-4937.0","Units","Alert"
+"Normal","15-T PINION","","Tim Lines","1.0","0.0","12.0","12.0","Units",""
+"Normal","15LB TUBE SCALE","D202","Tim Lines","14.0","17.490000000000002","146.0","102.0","Units",""
+"Normal","16' RETRACTABLE POLES","","Tim Lines","1.0","0.0","0.0","-10.0","Units",""
+"Normal","17 TOOTH PINION GEAR","F302","Tim Lines","1.0","0.0","76.0","76.0","Units",""
+"Normal","17-58 Gear Set","A502","Tim Lines","1.0","0.0","19.0","0.0","Units",""
+"Normal","17mm WHEEL NUT","i704","Tim Lines","1.0","0.13","3007.0","3007.0","Units",""
+"Normal","2-45 BEAM","i401","Tim Lines","1.15","0.23","1114.0","703.0","Units",""
+"Normal","2-BEAM","J502","Tim Lines","1.15","0.23","2998.0","2368.0","Units",""
+"Normal","2-DRIVELINE FEMALE","","MINDS-i","0.9","0.18","0.0","0.0","Units",""
+"Normal","2-DRIVELINE FEMALE ASSEMBLY","","MINDS-i","8.0","1.55","0.0","0.0","Units",""
+"Normal","2-DRIVELINE MALE","","MINDS-i","0.9","0.18","0.0","0.0","Units",""
+"Normal","2-DRIVELINE MALE ASSEMBLY","","Tim Lines","8.0","1.55","0.0","0.0","Units",""
+"Normal","2-LOCK","H503","Tim Lines","0.4","0.08","43515.0","42960.0","Units",""
+"Normal","2-PIN","H404","Tim Lines","0.15","0.03","26207.0","25618.0","Units",""
+"Normal","2-ROTATE","H604","Tim Lines","0.4","0.08","47930.0","47896.0","Units",""
+"Normal","2.0"" THREAD COLLAR","F508","Tim Lines","1.0","0.0","100.0","72.0","Units",""
+"Normal","2.4"" FOUR-LINK ARM","F408","Tim Lines","1.0","0.0","618.0","618.0","Units",""
+"Normal","2.5x10mm DOWEL PIN","G512","Tim Lines","1.0","0.0","5214.0","5214.0","Units","Alert"
+"Normal","20'x20'","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","2015-PLAIN","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","2205 MOTOR","B703","MINDS-i","1.0","11.6","80.0","-258.0","Units","Alert"
+"Normal","2205 MOTOR MOUNT","i604","Tim Lines","1.0","0.34","2652.0","2352.0","Units",""
+"Normal","22KZ24 (0.190"" OD Black)","","MINDS-i","0.5","0.05","0.0","0.0","in",""
+"Normal","22KZ27 (0.190 OD Red","","MINDS-i","0.5","0.05","0.0","0.0","in",""
+"Normal","23,500 RPM MOTOR LABEL","","Tim Lines","1.0","0.0","173.0","173.0","Units",""
+"Normal","23,500 RPM MOTOR WITH WIRE","","Tim Lines","1.0","3.2","20.0","1.0","Units",""
+"Normal","23-T PINION","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","24"" x 48"" BLACK ABS SHEET","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","250 PIECE","A501","Tim Lines","176.0","35.1","29.0","15.0","Units",""
+"Normal","250 PIECE BAG 1: BEAMS","C701","MINDS-i","1.0","21.25","3.0","-2.0","Units",""
+"Normal","250 PIECE BAG 2: 45 BEAMS AND TRANSITIONS","C702","MINDS-i","1.0","0.0","1.0","16.0","Units",""
+"Normal","250 PIECE BAG 3: CONNECTORS","C703","MINDS-i","1.0","0.0","32.0","2.0","Units",""
+"Normal","2XL Minds-i Shirt","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","2mm  GOLD CONNECTORS","","Tim Lines","0.09","0.09","2360.0","1588.0","Units",""
+"Normal","3 AXIS GIMBAL RIG FRAME","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","3 Channel Radio","C10x","Tim Lines","55.0","2.16","2.0","-26.0","Units",""
+"Normal","3 PIN CABLE FLAT - LATCHED","B603","Tim Lines","1.0","0.0","1856.0","1490.0","Units",""
+"Normal","3 PIN CABLE FLAT - SEPERATE","B605","Tim Lines","1.0","0.0","810.0","513.0","Units",""
+"Normal","3"" DISK","F309","Chris Lines","1.0","0.0","7.0","-3.0","Units",""
+"Normal","3"" DISK RUBBER TIRE","F309","Chris Lines","1.0","0.0","0.0","-74.0","Units",""
+"Normal","3"" DUCT","","Tim Lines","1.0","0.64","0.0","0.0","Units",""
+"Normal","3"" SERVO WHEEL","F309","Tim Lines","1.0","0.0","8.0","82.0","Units",""
+"Normal","3' USB CABLE","F605","Tim Lines","1.0","0.0","35.0","-126.0","Units","Alert"
+"Normal","3-45 BEAM","i402","Tim Lines","1.15","0.23","207.0","-506.0","Units",""
+"Normal","3-BEAM","J503","Tim Lines","1.15","0.23","2013.0","1483.0","Units",""
+"Normal","3-DRIVELINE FEMALE","","MINDS-i","0.9","0.18","0.0","-56.0","Units",""
+"Normal","3-DRIVELINE FEMALE ASSEMBLY","","MINDS-i","8.0","1.55","0.0","62.0","Units",""
+"Normal","3-DRIVELINE MALE","","MINDS-i","0.18","0.18","0.0","-54.0","Units",""
+"Normal","3-DRIVELINE MALE ASSEMBLY","","Tim Lines","8.0","1.55","-10.0","56.0","Units",""
+"Normal","3-Elbow","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","3-LOCK","H504","Tim Lines","0.7","0.14","13070.0","12715.0","Units",""
+"Normal","3-PIN","H405","Tim Lines","0.7","0.14","16057.0","15674.0","Units",""
+"Normal","3-ROTATE","H605","Tim Lines","0.6","0.12","12892.0","12864.0","Units",""
+"Normal","3.6"" FOUR-LINK ARM","F407","Tim Lines","1.0","0.0","4528.0","4528.0","Units",""
+"Normal","3/16"" BALL STUD","G406","Tim Lines","1.0","0.2","915.0","705.0","Units",""
+"Normal","3/16"" POLYCARBONATE SHEET","","MINDS-i","1.0","0.0","12.0","12.0","Units",""
+"Normal","3/16"" QUICK CONNECT FEMALE","F502","MINDS-i","0.04","0.04","350.0","330.0","Units",""
+"Normal","3/32 HEX KEY","G509","Chris Lines","1.0","0.16","989.0","875.0","Units","Alert"
+"Normal","3/32"" HEX DRIVER","B303","Tim Lines","1.0","0.0","466.0","393.0","Units",""
+"Normal","3/4 IN PVC COUPLING","L302","Tim Lines","2.0","0.4","638.0","144.0","Units",""
+"Normal","3/4 IN PVC COUPLING WITH CENTERHOLE","D502","Chris Lines","1.0","0.0","28.0","122.0","Units",""
+"Normal","3/4 IN PVC CROSS","D501","Tim Lines","18.7","3.74","58.0","-142.0","Units",""
+"Normal","3/4 IN PVC ELBOWS","D503","Tim Lines","2.75","0.55","306.0","-494.0","Units",""
+"Normal","3/4 IN PVC PIPE  10 FOOT","XX02","MINDS-i","1.0","0.0","0.0","-111.0","Units",""
+"Normal","3/4 IN PVC PIPE 12""","D505","Tim Lines","1.0","0.0","404.0","-92.0","Units",""
+"Normal","3/8"" 32 OZ. ELASTIC BAND","","Chris Lines","1.0","0.0","2873.0","2623.0","Units",""
+"Normal","3/8"" BALL STUD","G407","Tim Lines","1.0","0.0","7186.0","7186.0","Units",""
+"Normal","3/8"" STANDOFF","G707","Tim Lines","1.0","0.0","156.0","112.0","Units",""
+"Normal","3/8"" WASHER","G706","Chris Lines","1.0","0.0","318.0","230.0","Units",""
+"Normal","3061 1/4-20 X .5"" BHSCS","N203","MINDS-i","1.5","0.29","562.0","562.0","Units",""
+"Normal","320A BRUSHED ESC","A504","Tim Lines","158.0","28.34","93.0","5.0","Units",""
+"Normal","3mm BLACK POLYCARBONATE SHEET","","Chris Lines","1.0","0.0","0.0","-59.0","Units",""
+"Normal","4 PIN CABLE LATCHED-SEPERATE","B502","Tim Lines","1.0","0.0","29.0","18.0","Units","Alert"
+"Normal","4 PIN ENCODER CABLE","H704","Tim Lines","1.0","0.0","58.0","58.0","Units",""
+"Normal","4 Pin Encoder Cable Unfinished","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","4-45 BEAM","i403","Tim Lines","1.15","0.23","1075.0","937.0","Units",""
+"Normal","4-BEAM","J504","Tim Lines","1.15","0.23","1339.0","-22.0","Units",""
+"Normal","4-DRIVELINE FEMALE","","MINDS-i","0.9","0.18","0.0","0.0","Units",""
+"Normal","4-DRIVELINE FEMALE ASSEMBLY","","MINDS-i","8.0","1.55","0.0","0.0","Units",""
+"Normal","4-DRIVELINE MALE","","MINDS-i","0.9","0.18","0.0","0.0","Units",""
+"Normal","4-DRIVELINE MALE ASSEMBLY","","Tim Lines","8.0","1.55","0.0","0.0","Units",""
+"Normal","4.0mm BRUSHLESS MOTOR ADAPTER","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","4.8"" FOUR-LINK ARM","F406","Tim Lines","0.7","0.0","473.0","361.0","Units",""
+"Normal","4500mah 4S 35~70C Lipo Pack","ELE-LIPO-450","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","4NKT1 (0.75"" OD Clear)","","MINDS-i","1.0","0.07","0.0","0.0","in",""
+"Normal","4mm AXLE REAR HUB","A705","Tim Lines","1.0","0.0","17.0","-16.0","Units",""
+"Normal","4mm AXLE STEERING HUB","A704","Tim Lines","1.0","0.0","16.0","-17.0","Units",""
+"Normal","4x4","","Tim Lines","750.0","0.0","7.0","16.0","Units",""
+"Normal","4x4 ACCESSORIES","A606","MINDS-i","1.0","0.0","36.0","22.0","Units",""
+"Normal","4x4 BAG 1: BEAMS","A201","Tim Lines","156.0","23.11","1.0","21.0","Units",""
+"Normal","4x4 BAG 2: BEAMS 2","A202","Tim Lines","57.0","11.28","16.0","6.0","Units",""
+"Normal","4x4 BAG 3: CONNECTORS","A203","Tim Lines","620.0","42.35","18.0","4.0","Units",""
+"Normal","4x4 DRIVELINE","A603","Tim Lines","114.0","22.8","0.0","-3.0","Units",""
+"Normal","4x4 INSTRUCTIONS","E401","Tim Lines","17.0","17.0","26.0","12.0","Units",""
+"Normal","4x4 STEERING","A601","Tim Lines","18.0","3.59","21.0","7.0","Units",""
+"Normal","4x4 TOOLS AND FASTENERS","A302","Chris Lines","205.0","41.0","26.0","-4.0","Units",""
+"Normal","4x4 WHEELS AND TIRES","","Tim Lines","1.0","0.0","131.0","117.0","Units",""
+"Normal","5"" DUCT GREEN","M102","Tim Lines","1.0","0.77","87.0","-107.0","Units",""
+"Normal","5"" DUCT ORANGE","M101","Tim Lines","1.0","0.77","127.0","-67.0","Units","Alert"
+"Normal","5' PVC Pipe","","MINDS-i","1.0","0.0","140.0","140.0","Units",""
+"Normal","5-45 BEAM","i404","Tim Lines","1.0","0.22","271.0","133.0","Units",""
+"Normal","5-BEAM","J505","Tim Lines","1.15","0.23","1757.0","1233.0","Units",""
+"Normal","5-DRIVELINE FEMALE","","MINDS-i","0.9","0.18","0.0","-28.0","Units",""
+"Normal","5-DRIVELINE FEMALE ASSEMBLY","","MINDS-i","8.0","1.55","71.0","99.0","Units",""
+"Normal","5-DRIVELINE MALE","","MINDS-i","0.9","0.18","0.0","-28.0","Units",""
+"Normal","5-DRIVELINE MALE ASSEMBLY","","Tim Lines","8.0","1.55","59.0","65.0","Units",""
+"Normal","5/32 DRILLROD 3'","","Tim Lines","1.0","0.58","0.0","0.0","Units",""
+"Normal","5/32"" TOOL","N301","Tim Lines","1.0","0.0","31.0","10.0","Units",""
+"Normal","5000 RPM MOTOR LABEL","E701","Tim Lines","1.0","0.0","1092.0","1081.0","Units",""
+"Normal","5000 RPM MOTOR WITH WIRE","L102B","Tim Lines","10.5","3.2","26.0","-32.0","Units",""
+"Normal","5045 PROPELLER CCW","A405","Tim Lines","2.0","0.31","657.0","541.0","Units",""
+"Normal","5045R PROPELLER CW","A404","Tim Lines","2.0","0.31","660.0","544.0","Units",""
+"Normal","58 TOOTH SPUR GEAR","F301","Tim Lines","61.65","12.33","157.0","157.0","Units",""
+"Normal","5mm AXLE REAR HUB","A610","Tim Lines","1.0","0.0","40.0","15.0","Units",""
+"Normal","5mm AXLE STEERING HUB","A706","Tim Lines","1.0","0.0","80.0","30.0","Units",""
+"Normal","5v 3.2A Step Down Voltage Regulator","F203","MINDS-i","19.95","0.0","88.0","100.0","Units",""
+"Normal","6-45 BEAM","i405","Tim Lines","1.15","0.23","239.0","117.0","Units",""
+"Normal","6-BEAM","J401","Tim Lines","1.15","0.23","418.0","-171.0","Units",""
+"Normal","6-DRIVELINE FEMALE","","MINDS-i","0.18","0.18","0.0","266.0","Units",""
+"Normal","6-DRIVELINE FEMALE ASSEMBLY","","MINDS-i","8.0","1.55","0.0","71.0","Units",""
+"Normal","6-DRIVELINE MALE","","MINDS-i","0.9","0.18","0.0","272.0","Units",""
+"Normal","6-DRIVELINE MALE ASSEMBLY","I601","Tim Lines","8.0","1.55","0.0","43.0","Units",""
+"Normal","6x12x4mm BEARING","G301","Tim Lines","0.25","0.25","1283.0","1199.0","Units",""
+"Normal","6x6 (Super Rover Kit)","","Tim Lines","1200.0","0.0","4.0","-152.0","Units",""
+"Normal","6x6 ACCESSORY","A605","Tim Lines","1.0","0.0","12.0","1.0","Units",""
+"Normal","6x6 BAG 1: BEAMS 1","C401","Tim Lines","1.0","0.0","5.0","10.0","Units",""
+"Normal","6x6 BAG 2: BEAMS 2","C402","Tim Lines","1.0","0.0","18.0","-7.0","Units",""
+"Normal","6x6 BAG 3: TRANSITIONS","C403","Tim Lines","1.0","0.0","4.0","-7.0","Units",""
+"Normal","6x6 BAG 4: CONNECTORS 1","C404","Tim Lines","1.0","0.0","30.0","5.0","Units",""
+"Normal","6x6 BAG 5: CONNECTORS 2","C405","Tim Lines","1.0","0.0","31.0","6.0","Units",""
+"Normal","6x6 DRIVELINE","A604","Tim Lines","228.0","45.56","6.0","-5.0","Units",""
+"Normal","6x6 INSTRUCTIONS","E403","Tim Lines","15.8","15.8","123.0","98.0","Units",""
+"Normal","6x6 STEERING","A602","Tim Lines","58.0","11.42","18.0","-4.0","Units",""
+"Normal","6x6 TOOLS AND FASTENERS","A301","MINDS-i","88.0","17.43","19.0","-6.0","Units",""
+"Normal","6x6 WHEELS AND TIRES","","Tim Lines","1.0","0.0","69.0","44.0","Units",""
+"Normal","6x6 Wheel","","MINDS-i","1.0","0.0","445.0","445.0","Units",""
+"Normal","7-45 BEAM","i301","Tim Lines","0.21","0.22","202.0","112.0","Units",""
+"Normal","7-BEAM","J402","Tim Lines","1.15","0.23","358.0","-181.0","Units",""
+"Normal","7-DRIVELINE FEMALE","","MINDS-i","0.9","0.18","0.0","80.0","Units",""
+"Normal","7-DRIVELINE FEMALE ASSEMBLY","","MINDS-i","8.0","1.55","0.0","0.0","Units",""
+"Normal","7-DRIVELINE MALE","","MINDS-i","0.18","0.18","1.0","132.0","Units",""
+"Normal","7-DRIVELINE MALE ASSEMBLY","I601","Tim Lines","15.0","2.92","0.0","0.0","Units",""
+"Normal","7.2V 23,500 RPM DC MOTOR","L103","Tim Lines","1.0","0.0","173.0","173.0","Units",""
+"Normal","7.2V 5000 RPM DC MOTOR","L102","MINDS-i","1.0","0.0","1072.0","1061.0","Units",""
+"Normal","78-T SPUR","DRI-SPGR-078","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","7mm HEX DRIVER DYNAMITE","B505","Chris Lines","2.99","2.99","0.0","-3.0","Units",""
+"Normal","8-45 BEAM","i302","Tim Lines","0.21","0.22","81.0","-9.0","Units",""
+"Normal","8-BEAM","J403","Tim Lines","1.15","0.23","2053.0","1737.0","Units",""
+"Normal","8-DRIVELINE FEMALE","I605","Tim Lines","0.9","0.18","4713.0","4057.0","Units",""
+"Normal","8-DRIVELINE FEMALE ASSEMBLY","I603","MINDS-i","8.0","1.55","0.0","1.0","Units",""
+"Normal","8-DRIVELINE MALE","I705","Tim Lines","0.9","0.18","4726.0","3860.0","Units",""
+"Normal","8-DRIVELINE MALE ASSEMBLY","I603","Tim Lines","8.0","1.55","0.0","8.0","Units",""
+"Normal","80/20 1010-S 14""","","MINDS-i","1.0","0.0","0.0","-34.0","Units",""
+"Normal","80/20 1010-S 25""","","MINDS-i","1.0","0.0","14.0","-42.0","Units",""
+"Normal","80/20 2828 10 Series Tread Strip","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","80/20 3393 1/4-20 x 1/2"" BHSCS","N204","MINDS-i","3.0","0.56","1419.0","487.0","Units",""
+"Normal","80/20 4136 10 Series Corners","N201","MINDS-i","1.0","0.0","200.0","22.0","Units",""
+"Normal","87-T SPUR","DRI-SPGR-087","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","8mm  HEX DRIVER DYNAMITE","B504","Chris Lines","2.99","2.99","57.0","150.0","Units",""
+"Normal","9-45 BEAM","i303","Tim Lines","1.15","0.23","111.0","5.0","Units",""
+"Normal","9-BEAM","J404","Tim Lines","1.15","0.23","141.0","-5.0","Units",""
+"Normal","90mm SHOCK","","Chris Lines","5.68","5.68","0.0","-116.0","Units",""
+"Normal","90mm SHOCKS KIT","A304","Tim Lines","87.0","17.39","49.0","4.0","Units",""
+"Normal","9V BATTERY ADAPTER","F501","Tim Lines","1.0","0.0","25.0","25.0","Units",""
+"Normal","AA BATTERY","E506","MINDS-i","1.0","0.0","592.0","488.0","Units","Alert"
+"Normal","ACLW-001 GRABBER HOOK","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","ACLW-002 GRABBER PLATE","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","ANTENNA MOUNT","H703","Tim Lines","1.0","0.0","2033.0","2019.0","Units",""
+"Normal","APM FLIGHT CONTROLLER","F601","Tim Lines","29.0","29.0","572.0","528.0","Units","Alert"
+"Normal","AR Aircraft Receiver","ETX-AR6C-610","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","ARDUINO BASE PLATE","E505","Tim Lines","1.0","2.95","75.0","10.0","Units",""
+"Normal","ARDUINO BATTERY HARNESS","F702","Tim Lines","1.0","0.0","54.0","22.0","Units",""
+"Normal","ARDUINO LEONARDO","B403","Tim Lines","1.0","15.63","151.0","41.0","Units",""
+"Normal","ARDUINO ROBOT","PTT-ARD2-001","MINDS-i","475.0","158.42000000000002","5.0","0.0","Units",""
+"Normal","ARDUINO ROBOT BAG 1: BEAMS","C801","Tim Lines","1.0","0.0","6.0","6.0","Units",""
+"Normal","ARDUINO ROBOT BAG 2: TRANSITIONS","C802","Tim Lines","1.0","0.0","5.0","5.0","Units",""
+"Normal","ARDUINO ROBOT BAG 3: SCREWS","C803","Tim Lines","1.0","0.0","37.0","5.0","Units",""
+"Normal","ARDUINO ROBOT BAG 4: CONNECTORS","C804","Tim Lines","1.0","0.0","37.0","5.0","Units",""
+"Normal","ARDUINO ROBOT BAG 5: ELECTRONICS","C805","Tim Lines","1.0","0.0","2.0","2.0","Units",""
+"Normal","ARDUINO ROBOT INSTRUCTIONS","E101","Tim Lines","13.1","13.1","29.0","-3.0","Units",""
+"Normal","ARDUINO ROBOT TOOLS","A303","Tim Lines","58.0","11.52","32.0","0.0","Units",""
+"Normal","ARDUINO UPGRADE","","Tim Lines","410.0","0.0","12.0","47.0","Units",""
+"Normal","ARDUINO UPGRADE BAG 1: BEAMS","C601","MINDS-i","1.0","0.0","3.0","-23.0","Units",""
+"Normal","ARDUINO UPGRADE BAG 2: CONNECTORS","C602","MINDS-i","1.0","0.0","36.0","-37.0","Units",""
+"Normal","ARDUINO UPGRADE BAG 3: ELECTRONICS","C603","MINDS-i","1.0","0.0","3.0","-18.0","Units",""
+"Normal","ARDUINO UPGRADE INSTRUCTIONS","E405","Tim Lines","8.95","8.950000000000001","105.0","26.0","Units",""
+"Normal","ARDUINO USER GUIDE INSTRUCTIONS","E406","Tim Lines","13.5","13.5","37.0","-74.0","Units",""
+"Normal","AUTONOMOUS SELF DRIVING GROUND VEHICLE","MCK-UGLB-001","MINDS-i","3450.0","0.0","0.0","0.0","Units",""
+"Normal","AVERY BINDER 2""","","Tim Lines","1.0","7.23","7.0","-11.0","Units",""
+"Normal","AXLE HOUSING","J605","Tim Lines","1.0","0.13","4169.0","4113.0","Units",""
+"Normal","BAG 12""x20"" 1.5MIL","","MINDS-i","1.0","0.0","85.0","53.0","Units",""
+"Normal","BAG 20""x24"" 1.5MIL","","MINDS-i","1.0","0.0","30.0","30.0","Units",""
+"Normal","BAG 6""x12"" 3MIL","","MINDS-i","1.0","0.0","-28.0","-53.0","Units",""
+"Normal","BALING WIRE","","MINDS-i","1.0","0.0","823.36","823.36","ft",""
+"Normal","BALL CUPS 13mm","F305","Tim Lines","1.0","0.0","127.0","119.0","Units",""
+"Normal","BATTERY CAP","J703","Tim Lines","1.0","0.12","2398.0","2366.0","Units",""
+"Normal","BATTERY CHARGER LIPO","","Tim Lines","130.0","26.0","0.0","0.0","Units",""
+"Normal","BATTERY Y HARNESS","F804","Tim Lines","1.0","0.0","0.0","-1.0","Units",""
+"Normal","BLACK SILICONE CAP","F806","Tim Lines","1.0","0.1","43.0","43.0","Units",""
+"Normal","BLACK TOOL HANDLE","","Tim Lines","1.0","1.9000000000000001","0.0","0.0","Units",""
+"Normal","BLACK TOOL HANDLE SET","TOL-HDBL-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","BODY POST","H702","Tim Lines","1.0","0.38","1055.0","1055.0","Units",""
+"Normal","BREADBOARD FRONT PLATE / BACK PLATE","","Tim Lines","1.0","0.0","5.0","-6.0","Units",""
+"Normal","BUILD A MOTOR","C205","Chris Lines","1.0","0.0","32.0","11.0","Units",""
+"Normal","BULK FOAM (2.8"")","","Tim Lines","1.0","0.9500000000000001","0.0","0.0","Units",""
+"Normal","BULK FOAM (3.8"")","K302","Tim Lines","1.0","2.0","3.0","3.0","Units",""
+"Normal","BULK TIRE (2.8"" BADLANDS)","","Tim Lines","1.0","2.65","0.0","0.0","Units",""
+"Normal","BULK TIRE (3.8"" BADLANDS)","","Tim Lines","1.0","3.8000000000000003","3.0","3.0","Units",""
+"Normal","BULK WHEEL (2.8"" DESPERADO)","","Tim Lines","1.0","1.54","0.0","0.0","Units",""
+"Normal","BULK WHEEL (3.8"" DESPERADO)","","Tim Lines","1.0","3.8000000000000003","3.0","3.0","Units",""
+"Normal","BUNGEE CORDS","","Tim Lines","1.0","0.0","0.0","-300.0","Units",""
+"Normal","CABLE TIE 4""","E706","Tim Lines","1.0","0.2","892.0","173.0","Units",""
+"Normal","CABLE TIE 8""","E707","Tim Lines","0.35","0.07","9205.0","8702.0","Units",""
+"Normal","CARBON ARM","FRM-MRCA-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","CARBON ARM END","","Tim Lines","1.0","0.38","0.0","0.0","Units",""
+"Normal","CARBON FIBER TUBE","","Tim Lines","1.0","3.44","0.0","0.0","Units",""
+"Normal","CATAPULT LAB","MCK-CKWM-001","MINDS-i","175.0","0.0","0.0","0.0","Units",""
+"Normal","CATAPULT LAB CLASSROOM 10 PACK W 10 CURRICULUM HOURS","MCK-CKWM-C10","MINDS-i","1250.0","0.0","0.0","0.0","Units",""
+"Normal","CATAPULT SUPPORT MATERIAL","C905","Tim Lines","1.0","0.0","18.0","-19.0","Units",""
+"Normal","CENTER DIFFERENTIAL CASE","J704","Tim Lines","1.0","0.38","1831.0","1831.0","Units",""
+"Normal","CLEARANCE THREAD ADAPTER","i501","Tim Lines","0.05","0.01","77577.0","75701.0","Units",""
+"Normal","COLORED PUSH BUTTON","B601","Tim Lines","1.0","0.0","94.0","8.0","Units",""
+"Normal","COMPETITION KIT 4x4","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","COMPETITION KIT UAV","CPK-UAM2-001","MINDS-i","1275.0","0.0","15.0","34.0","Units",""
+"Normal","COMPETITION MULTIROTOR","","MINDS-i","1.0","0.0","0.0","-13.0","Units",""
+"Normal","CONTINUOUS ROTATION ROBOTIC SERVO (With Hardware)","A402","Tim Lines","160.0","31.43","164.0","100.0","Units",""
+"Normal","CORRUGATED BOXES 18x12x10""","L202","Tim Lines","1.0","0.0","241.0","193.0","Units",""
+"Normal","CORRUGATED BOXES 18x12x6","L201","Tim Lines","1.0","0.0","361.0","311.0","Units",""
+"Normal","CORRUGATED BOXES 20x20x8","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","CORRUGATED BOXES 26x18x16""","M202","Tim Lines","1.0","0.0","12.0","-18.0","Units",""
+"Normal","CORRUGATED BOXES 28x28x12""","M103","MINDS-i","1.0","0.0","15.0","-4.0","Units",""
+"Normal","CORRUGATED BOXES 32x18x18""","M201","Tim Lines","1.0","0.0","88.0","88.0","Units",""
+"Normal","CORRUGATED BOXES 60x8x8","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","COSMETIC PANELS","E501","Tim Lines","1.0","0.0","14.0","2.0","Units",""
+"Normal","Cross","","MINDS-i","1.0","0.0","13.0","13.0","Units",""
+"Normal","D-SHOT BULLET ESC","B702","Tim Lines","1.0","9.200000000000001","-3.0","-389.0","Units",""
+"Normal","DESIGN JOURNAL INSTRUCTIONS","","Tim Lines","5.75","5.75","0.0","0.0","Units",""
+"Normal","DIFFERENTIAL CASE","J705","Tim Lines","1.0","0.13","5189.0","5133.0","Units",""
+"Normal","DIFFERENTIAL GEAR SET","B301","Tim Lines","30.0","6.0","219.0","191.0","Units",""
+"Normal","DIFFERENTIAL SPOOL","F401","Tim Lines","1.0","0.0","692.0","664.0","Units",""
+"Normal","DIFFERENTIAL W/ SPOOL","A702","Tim Lines","1.0","0.0","44.0","-25.0","Units",""
+"Normal","DISC GEAR REDUCER","H502","Tim Lines","1.0","8.69","187.0","184.0","Units",""
+"Normal","DISPLAY BOARD MATERIAL","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","DPDT SLIDE SWITCH","","Tim Lines","0.31","0.31","0.0","0.0","Units",""
+"Normal","DRIVELINE YOKE","i504","Tim Lines","3.0","0.6","7551.0","6731.0","Units",""
+"Normal","DRONE CURRICULUM 45","MCK-UASL-045","MINDS-i","596.25","0.0","1.0","13.0","Units",""
+"Normal","DRONE CURRICULUM 90HR","MCK-DRSL-090","MINDS-i","596.25","0.0","0.0","0.0","Units",""
+"Normal","DRONE DUCT LABEL","PCK-VNLM-004","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","DRONES 45 BINDER","","Tim Lines","150.0","0.0","0.0","-6.0","Units",""
+"Normal","DRONES 45 DEMO BOOK","","MINDS-i","0.0","0.0","0.0","0.0","Units",""
+"Normal","DRONES 90 BINDER","PRT-B90D-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","DRONES LAB UGV + UAV","MCK-DRLB-MR2","MINDS-i","5400.0","0.0","2.0","0.0","Units",""
+"Normal","DUAL MOTOR BATTERY CABLE","","MINDS-i","1.0","0.0","0.0","-18.0","Units",""
+"Normal","DUAL MOTOR ENCODER KIT","C604","Tim Lines","1.0","0.0","5.0","3.0","Units",""
+"Normal","DUAL MOTOR Upgrade Module for Super Rover Kit ","","MINDS-i","1.0","0.0","0.0","1.0","Units",""
+"Normal","DUAL OUTPUT DIFFERENTIAL","A703","Tim Lines","1.0","0.0","48.0","23.0","Units",""
+"Normal","DUAL TRANSITION","J601","Tim Lines","1.0","0.17","10039.0","9439.0","Units",""
+"Normal","DUCT","DUC-DU00-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","ELECTRIC CAR BAG 1: BEAMS","C501","Tim Lines","1.0","0.0","12.0","1.0","Units",""
+"Normal","ELECTRIC CAR BAG 2: 45-BEAMS AND TRANSITIONS","C502","Tim Lines","1.0","0.0","12.0","1.0","Units",""
+"Normal","ELECTRIC CAR BAG 3: CONNECTORS","C503","Tim Lines","1.0","0.0","28.0","9.0","Units",""
+"Normal","ELECTRIC CAR BAG 4: STEERING AND DRIVELINES","C504","Tim Lines","1.0","0.0","12.0","-5.0","Units",""
+"Normal","ELECTRIC CAR CURRICULUM (Digital)","MCK-ECSL-045","MINDS-i","596.25","79.2","9999.0","10002.0","Units",""
+"Normal","ELECTRIC CAR INSTRUCTIONS","E305","Chris Lines","13.4","13.4","79.0","60.0","Units",""
+"Normal","ELECTRIC CAR LAB","MCK-ECLB-2WD","MINDS-i","625.0","0.0","2.0","0.0","Units",""
+"Normal","ELECTRONIC SPEED CONTROLLER","ELE-SCBR-300","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","EMX-SC-1772","","Tim Lines","1.0","5.94","0.0","0.0","Units",""
+"Normal","ENCODER MOTOR GEARBOX ASSEMBLY","H701","Tim Lines","1.0","0.0","55.0","55.0","Units",""
+"Normal","ENCODER SHAFT","","Tim Lines","1.0","17.6","69.0","69.0","Units",""
+"Normal","EXTENSION PLUG","F707","Tim Lines","0.16","0.16","701.0","597.0","Units",""
+"Normal","FELT CATAPULT MAT","B705","Tim Lines","42.0","18.0","163.0","156.0","Units",""
+"Normal","FEMALE XT60 CONNECTOR","ELE-XT60-F01","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","FOUNDATIONS BINDER","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","FOUNDATIONS CURRICULUM","MCK-FDSL-090","MINDS-i","556.5","0.0","0.0","1.0","Units",""
+"Normal","FOUNDATIONS LAB 4x4 (90 Hour)","MCK-FDLB-4X4","MINDS-i","2700.0","0.0","0.0","0.0","Units",""
+"Normal","FOUNDATIONS LAB 6x6 (90 Hour)","MCK-FDLB-6X6","MINDS-i","3000.0","0.0","16.0","-10.0","Units",""
+"Normal","FOUNDATIONS TEACHERS' RESOURCE","MCK-FDTR-001","MINDS-i","1100.0","0.0","1.0","3.0","Units",""
+"Normal","FRONT WHEEL HUB","i607","Tim Lines","1.0","0.59","4804.0","4804.0","Units",""
+"Normal","FRONT WHEEL KNUCKLE","i606","Tim Lines","1.0","0.39","2981.0","2981.0","Units",""
+"Normal","FUNCTION DIGITAL MULTIMETER","D201","Tim Lines","1.0","5.99","118.0","55.0","Units",""
+"Normal","Four Wheel Steering Upgrade Module for 4x4 Robot Kits","","MINDS-i","0.0","0.0","0.0","-2.0","Units",""
+"Normal","G4 SCREWS","","Tim Lines","1.0","0.0","0.0","-50.0","Units",""
+"Normal","GEAR REDUCER","H601","Tim Lines","42.0","29.990000000000002","-13.0","-54.0","Units",""
+"Normal","GEAR REDUCTION UNIT","H501","Tim Lines","1.0","0.0","0.0","-3.0","Units",""
+"Normal","GIMBAL BAG 1","A804","Chris Lines","1.0","0.0","2.0","1.0","Units",""
+"Normal","GIMBAL BAG 2","A805","Chris Lines","1.0","0.0","2.0","1.0","Units",""
+"Normal","GIMBAL BAG 3","A806","Chris Lines","1.0","0.0","1.0","0.0","Units",""
+"Normal","GIMBAL CENTER BAR","N302","MINDS-i","1.0","0.0","12.0","-14.0","Units",""
+"Normal","GIMBAL KIT","A902","Tim Lines","1.0","0.0","25.0","-5.0","Units",""
+"Normal","GPS","F602","Tim Lines","17.0","17.0","640.0","603.0","Units",""
+"Normal","Gimbal 1/4 Inner Ring","N303","MINDS-i","1.0","0.0","0.0","-8.0","Units",""
+"Normal","Gimbal 1/4 Outer Ring","N304","MINDS-i","1.0","0.0","0.0","-8.0","Units",""
+"Normal","Gimbal Rig 3D Bearing Holders","","MINDS-i","1.0","0.0","0.0","-56.0","Units",""
+"Normal","Gimbal Rig Feet","","MINDS-i","1.0","0.0","0.0","-95.0","Units",""
+"Normal","Gyro Bracket","","MINDS-i","1.0","1.24","4763.0","4163.0","Units",""
+"Normal","Gyro Carbon Part Set","","MINDS-i","1.0","235.91","39.0","13.0","Units",""
+"Normal","Gyro Frame Latch","","MINDS-i","7.5","1.5","0.0","0.0","Units",""
+"Normal","Gyro Pin","N202","MINDS-i","45.75","9.15","138.0","-42.0","Units",""
+"Normal","Gyro Plate","","MINDS-i","1.0","0.0","0.0","-56.0","Units",""
+"Normal","HARD CASE","PCK-OWHC-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","HARD CASE","","Tim Lines","1.0","0.0","0.0","-8.0","Units",""
+"Normal","HEX ADAPTER 12mm","","MINDS-i","1.0","0.0","220.0","220.0","Units",""
+"Normal","HEX ADAPTER 17mm","","MINDS-i","1.0","0.0","466.0","466.0","Units",""
+"Normal","HMC5883L 3-Axis Electronic Compass","","MINDS-i","0.0","0.0","0.0","0.0","Units",""
+"Normal","HS-311 STANDARD SERVO","D301","Tim Lines","1.0","0.0","39.0","15.0","Units",""
+"Normal","HS-485HB Karbonite Gear BB Servo","A10X","Tim Lines","29.0","14.99","0.0","100.0","Units",""
+"Normal","HS-485HB SERVO (With Hardware)","A401","Tim Lines","67.0","13.290000000000001","168.0","-48.0","Units",""
+"Normal","HS-645MG SERVO","ESV-HSMG-645","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","HS-755MG GIANT SCALE SERVO","ESV-HSMG-755","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","HSR-2645CRH ROBOT SERVO CONTINUOS ROTATION","","Tim Lines","145.0","28.990000000000002","0.0","0.0","Units",""
+"Normal","HVY DUTY ROD ENDS BLACK/12","F306","Tim Lines","1.12","0.22","2470.0","2410.0","Units","Alert"
+"Normal","INERTIA PLUG","F504","Chris Lines","1.0","0.0","76.0","34.0","Units",""
+"Normal","INTERF","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","INTERFERENCE THREAD ADAPTER","i502","Tim Lines","0.5","0.1","16856.0","16274.0","Units",""
+"Normal","IR Distance Sensor","ELE-IRDS-108","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","IRIS STORAGE BOX","CON-SBIR-501","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","JR to Futaba Servo Wire","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","JST TO BULLET CABLE","B802","Tim Lines","1.2","1.2","695.0","695.0","Units",""
+"Normal","KYOSHO MALE","ELE-KYML-066","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","LARGE 4-LINK BARS","A609","Tim Lines","1.0","0.0","18.0","-4.0","Units",""
+"Normal","LARGE DRONE CAGE ASSEMBLY INSTRUCTIONS","","Tim Lines","1.0","0.0","0.0","-1.0","Units",""
+"Normal","LARGE DRONE CAGE SYSTEM","CPK-DRCG-003","MINDS-i","18750.0","0.0","0.0","1.0","Units",""
+"Normal","LARGE SERVO PLATE","CHS-PASP-002","Tim Lines","1.0","0.0","0.0","0.0","Units","Alert"
+"Normal","LCD DISPLAY","D302","Tim Lines","1.0","0.0","1.0","-10.0","Units",""
+"Normal","LEAF SPRING","","Tim Lines","4.0","0.66","0.0","0.0","Units",""
+"Normal","LEAF SPRINGS PAIR","A403","MINDS-i","7.0","1.32","1386.0","1380.0","Pairs",""
+"Normal","LIPO / NIMH CHARGER","A506","Tim Lines","60.0","27.29","67.0","-152.0","Units",""
+"Normal","LIPO Adapter","A305","MINDS-i","1.0","0.0","0.0","0.0","Units","Alert"
+"Normal","LIPO BATTERY","B404","Tim Lines","30.0","0.0","162.0","-85.0","Units",""
+"Normal","LIPOLY SAFETY BAG","D606","Tim Lines","1.0","0.0","46.0","-41.0","Units",""
+"Normal","LITHIUM HANDLING LABEL","","Tim Lines","1.0","0.0","-2.0","-21.0","Units",""
+"Normal","LONG SERVO HORN","J602","Tim Lines","3.0","0.6","7038.0","7027.0","Units",""
+"Normal","LONG SHANK ROD ENDS BLACK/12","F308","Tim Lines","1.12","0.22","1592.0","1424.0","Units",""
+"Normal","LUNAR ROVER SOLAR PANEL","ELE-SPLR-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","Landing Pad","","MINDS-i","1.0","0.0","0.0","0.0","Units","Alert"
+"Normal","Large Minds-i Shirt","","MINDS-i","1.0","0.0","20.0","20.0","Units",""
+"Normal","M12 WRENCHES","","Tim Lines","1.0","0.0","0.0","-10.0","Units",""
+"Normal","M3 WASHER","G506","Tim Lines","1.0","0.0","642.0","600.0","Units",""
+"Normal","M3-0.5 x 6mm ISO 4762/DIN 912 Hex Drive Grade A2-70 Stainless Steel Socket Cap Screw","G612","Tim Lines","1.0","0.0","4900.0","4900.0","Units",""
+"Normal","M3-0.5x25mm SCREW","G609","Tim Lines","1.0","0.0","510.0","504.0","Units",""
+"Normal","M3x6mm SCREW","G608","Tim Lines","1.0","0.0","1759.0","1717.0","Units",""
+"Normal","M3x8mm SCREW","B703","Tim Lines","1.0","0.0","288.0","-368.0","Units",""
+"Normal","M4 9021 FEND WASH Z","N205","MINDS-i","1.0","0.03","315.0","295.0","Units",""
+"Normal","M4 WASHER","G505","Tim Lines","1.0","0.0","1959.0","1959.0","Units",""
+"Normal","M4 WHEEL END SHAFT","F509","Tim Lines","1.0","0.0","1670.0","1670.0","Units",""
+"Normal","M4 x 8 BHSCS A-2","N206","MINDS-i","1.0","0.19","303.0","283.0","Units",""
+"Normal","M4-0.7 NYLOCK","G502","Tim Lines","1.0","0.0","1955.0","1955.0","Units",""
+"Normal","M5 WASHER","G504","Tim Lines","1.0","0.6","1868.0","1868.0","Units",""
+"Normal","M5 WHEEL END SHAFT","F510","Tim Lines","0.74","0.0","593.0","593.0","Units",""
+"Normal","M5-0.8 NYLOCK","G501","Tim Lines","1.0","0.0","1879.0","1879.0","Units",""
+"Normal","MALE BULLET CONNECTOR","F503","MINDS-i","0.05","0.05","353.0","333.0","Units",""
+"Normal","MALE TO MALE SERVO LEAD","B501","Tim Lines","1.0","0.0","85.0","-300.0","Units",""
+"Normal","MARZ ROVER","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","MARZ ROVER INSTRUCTIONS","","Tim Lines","18.25","18.25","14.0","12.0","Units",""
+"Normal","MEDIUM 4-LINK BARS","A608","Tim Lines","1.0","0.0","8.0","-6.0","Units",""
+"Normal","MEDIUM DRONE CAGE ASSEMBLY INSTRUCTIONS","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","MEDIUM DRONE CAGE SYSTEM","CPK-DRCG-002","MINDS-i","12750.0","0.0","0.0","0.0","Units",""
+"Normal","MINDS-i T-Shirt","","MINDS-i","15.0","0.0","29.0","29.0","Units",""
+"Normal","MINDS-i TOOL","B503","Tim Lines","23.0","4.5600000000000005","53.0","-359.0","Units",""
+"Normal","MINI MR STRETCH X BOTTOM","DRN-DMSB-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","MINI MR STRETCH X TOP","DRN-DMST-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","MINI MR X BOTTOM PLATE","DRN-DMBP-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","MINI MR X TOP PLATE","DRN-DMTP-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","MOTOR 2205 - 30A ESC CCW","","Tim Lines","1.0","0.0","-4.0","106.0","Units",""
+"Normal","MOTOR 2205 - 30A ESC CW","","Tim Lines","1.0","0.0","-4.0","108.0","Units",""
+"Normal","MOTOR CASE A","J701","Tim Lines","1.0","0.12","976.0","962.0","Units",""
+"Normal","MOTOR CASE B","J702","Tim Lines","1.0","0.12","947.0","933.0","Units",""
+"Normal","MOTOR GEARBOX","A701","Tim Lines","1.0","0.0","37.0","-26.0","Units",""
+"Normal","MOTOR SHAFT","F405","Tim Lines","1.0","0.0","1287.0","1273.0","Units",""
+"Normal","MOTOR SPANNER WRENCH","G304","Chris Lines","1.0","0.0","211.0","79.0","Units","Alert"
+"Normal","MOTOR WIRES","F505","Tim Lines","1.0","0.0","29.0","28.0","Units",""
+"Normal","MR2 BAG 1: PLATES","C301","Tim Lines","1.0","0.0","0.0","1.0","Units",""
+"Normal","MR2 BAG 2: MOTOR MOUNT","C302","Tim Lines","1.0","0.0","13.0","-9.0","Units",""
+"Normal","MR2 BAG 3: ESC","C303","Tim Lines","1.0","0.0","57.0","1.0","Units",""
+"Normal","MR2 BAG 4: CONNECTORS","C304","Tim Lines","1.0","0.0","76.0","7.0","Units",""
+"Normal","MR2 BAG 5: LANDING GEAR","C305","Tim Lines","1.0","0.0","75.0","4.0","Units",""
+"Normal","MR2 BAG 6: TOOLS","C201","Tim Lines","1.0","0.0","1.0","41.0","Units",""
+"Normal","MR2 BAG 7: APM","C202","Tim Lines","1.0","0.0","58.0","4.0","Units",""
+"Normal","MULTIROTOR","","Tim Lines","1.0","0.0","15.0","-19.0","Units",""
+"Normal","MULTIROTOR BASE PLATES SET","","Tim Lines","1.0","0.0","51.0","30.0","Units",""
+"Normal","MULTIROTOR INSTRUCTIONS","","Tim Lines","14.25","14.25","188.0","117.0","Units","Alert"
+"Normal","Marz Rover APM","C904","MINDS-i","1.0","0.0","0.0","-2.0","Units",""
+"Normal","Medium Minds-i Shirt","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","Minds-i Pop","","MINDS-i","0.0","0.0","0.0","0.0","Units",""
+"Normal","Minds-i Popup Banner","xxxx","MINDS-i","1.0","135.0","0.0","0.0","Units",""
+"Normal","Misc","","MINDS-i","0.0","0.0","0.0","0.0","Units",""
+"Normal","NETTING SET","","Tim Lines","1.0","0.0","0.0","-1.0","Units",""
+"Normal","NI-MH CHARGER","","Tim Lines","12.6","2.52","0.0","0.0","Units","Alert"
+"Normal","NIMH BATTERY","B405","Tim Lines","1.0","16.9","76.0","-69.0","Units","Alert"
+"Normal","OEM Hitec Male (silver pin)  [F501]","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","ONE YEAR LAB","MCK-1YLB-MR2","MINDS-i","6750.0","0.0","0.0","0.0","Units",""
+"Normal","OPTICAL ENCODER","ELE-ENOP-100","Tim Lines","1.0","0.0","30.0","30.0","Units",""
+"Normal","OVERPACK LABEL","","Tim Lines","1.0","0.0","-2.0","-21.0","Units",""
+"Normal","PAGES FOR DRONE CURRICULUM 45","","Tim Lines","79.2","79.2","0.0","-14.0","Units",""
+"Normal","PAGES FOR DRONE CURRICULUM 90","E103","Tim Lines","95.17","95.17","3.0","2.0","Units",""
+"Normal","PAGES FOR ELECTRIC CAR CURRICULUM","","Tim Lines","39.5","39.5","3.0","2.0","Units",""
+"Normal","PAGES FOR FOUNDATIONS CURRICULUM","E102","Tim Lines","73.21","73.21000000000001","7.0","5.0","Units",""
+"Normal","PANEL-LOCK","H506","Tim Lines","0.4","0.08","17591.0","16249.0","Units",""
+"Normal","PARACORD 1000' SPOOL","","Chris Lines","0.25","0.05","4999.76","3691.76","ft","Alert"
+"Normal","PARACORD 4'","D504","Chris Lines","49.0","9.66","6.0","33.0","Units",""
+"Normal","PETG","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","PID TEST RACK","","Tim Lines","1.0","0.0","-2.0","11.0","Units",""
+"Normal","PING ULTRASONIC RANGE FINDER","B402","Tim Lines","1.0","17.990000000000002","183.0","-97.0","Units",""
+"Normal","PINION SET SCREW","F303","Tim Lines","2.5","0.5","64.0","64.0","Units",""
+"Normal","POWER MODULE WITH BATTERY HARNESS","B803","Chris Lines","5.0","5.0","199.0","155.0","Units",""
+"Normal","POWER MODULE WITH XT60 CONNECTORS","B801","Chris Lines","3.0","3.0","681.0","681.0","Units",""
+"Normal","PRE-BUILT MINDS-I UAV IN 3 AXIS GIMBAL","","Tim Lines","1.0","0.0","0.0","7.0","Units",""
+"Normal","PRE-BUILT MULTIROTOR FOR GIMBAL","","MINDS-i","1.0","0.0","2.0","0.0","Units",""
+"Normal","PROP NUT","XXXX","Tim Lines","1.0","0.0","72.0","-92.0","Units",""
+"Normal","PROPELLER TIGHTENING TOOL","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","PVC 5-Way","","MINDS-i","1.0","0.0","2.0","2.0","Units",""
+"Normal","PVC CAGE","CPK-DRCG-PVC","MINDS-i","2099.0","0.0","0.0","-3.0","Units",""
+"Normal","PVC Cap","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","PVC Cutter","","MINDS-i","1.0","0.0","4.0","4.0","Units",""
+"Normal","PVC FIELD ELEMENTS","CPK-FLDE-001","MINDS-i","599.0","0.0","0.0","0.0","Units",""
+"Normal","Plain Ping Pong Ball","XXXX","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","Plastic Bucket","","MINDS-i","1.0","0.0","0.0","0.0","Units","Alert"
+"Normal","Platform","","MINDS-i","1.0","0.0","0.0","0.0","Units","Alert"
+"Normal","Pool Noodle","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","QTI - LF PCB ASSY","B401","Tim Lines","6.99","6.99","255.0","-50.0","Units",""
+"Normal","RACE CAR WHEELS AND TIRES","B305","Tim Lines","1.0","0.0","12.0","-7.0","Units",""
+"Normal","RACECAR BODY","","MINDS-i","0.0","0.0","0.0","0.0","Units",""
+"Normal","RACECAR INSTRUCTIONS","","Tim Lines","13.65","13.65","11.0","11.0","Units",""
+"Normal","REALFLIGHT FLIGHT SIMULATOR","D901","Tim Lines","315.0","179.0","36.0","5.0","Units","Alert"
+"Normal","REAR WHEEL HUB","I707","Tim Lines","1.0","0.39","4965.0","4965.0","Units",""
+"Normal","RED LASER MODULE","B604","Tim Lines","1.0","4.28","146.0","34.0","Units",""
+"Normal","REFLECTIVE TAPE","FSN-RTWH-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","RING AND PINION GEAR SET","B302","Tim Lines","40.0","8.0","198.0","170.0","Units",""
+"Normal","ROBOT SERVO HORN","J604","Tim Lines","3.0","0.6","6862.0","6851.0","Units",""
+"Normal","ROD END BALL","G409","Tim Lines","0.25","0.25","10929.0","10705.0","Units",""
+"Normal","ROD END/BALL CONNECTOR (6)","F309","Tim Lines","0.37","0.37","3891.0","3667.0","Units",""
+"Normal","ROTATING CONNECTORS","C705","Tim Lines","1.0","0.0","44.0","0.0","Units",""
+"Normal","RUBBER BANDS 2 1/2 x 1/4""","FSN-RB62-005","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","SAFETY DUCT SCREEN","","Tim Lines","1.0","6.13","0.0","0.0","Units",""
+"Normal","SAFETY GLASSES","B701","Tim Lines","1.0","0.0","140.0","150.0","Units",""
+"Normal","SCREW ADAPTER","C505","Tim Lines","1.0","0.0","85.0","41.0","Units",""
+"Normal","SENSOR SHIELD","B602","Tim Lines","1.0","7.65","360.0","259.0","Units",""
+"Normal","SERVO BUSHING","ESV-HSBU-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","SERVO BUSHING SLEEVE","ESV-HSBS-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","SERVO LINKAGE","C605","Tim Lines","1.0","0.0","76.0","32.0","Units",""
+"Normal","SERVO LINKAGE KIT","","MINDS-i","1.0","0.0","0.0","-4.0","Units",""
+"Normal","SERVO MOUNT","i505","Tim Lines","0.5","0.1","12864.0","12797.0","Units",""
+"Normal","SERVO PLATE","E606","Tim Lines","1.0","0.0","147.0","1141.0","Units",""
+"Normal","SERVO PLATE PLUS HARDWARE","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","SERVO PLUGS","ELE-SPLP-444","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","SERVO Y-HARNESS W/REVERSER","F304","Tim Lines","1.0","0.0","16.0","-9.0","Units",""
+"Normal","SERVO Y-HARNESS W/REVERSER BOARD","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","SHOCK MOUNT","G410","Tim Lines","0.75","0.15","10248.0","10132.0","Units",""
+"Normal","SHRINK TUBING 0.25""","FSN-STBL-025","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","SHRINK TUBING 0.75""","","Tim Lines","1.0","0.0","-232.0","-232.0","Units",""
+"Normal","SHROUD STUD","F403","Tim Lines","1.0","0.31","2775.0","2775.0","Units",""
+"Normal","SMALL 4-LINK BARS","A607","Tim Lines","1.0","0.0","18.0","4.0","Units",""
+"Normal","SMALL DRONE CAGE ASSEMBLY INSTRUCTIONS","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","SMALL DRONE CAGE SYSTEM","CPK-DRCG-001","MINDS-i","11000.0","0.0","0.0","0.0","Units",""
+"Normal","SOLAR CHARGE CONTROLLER","ELE-SPCC-001","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","SOLDER ROSIN CORE","XX01","Tim Lines","1.0","0.0","1.0","1.0","Units",""
+"Normal","STEERING BAR","I801","Tim Lines","0.5","0.1","3682.0","3652.0","Units",""
+"Normal","STEERING BRACKET","I802","Tim Lines","0.5","0.1","3647.0","3617.0","Units",""
+"Normal","STEERING PLATE","I803","Tim Lines","0.5","0.1","3874.0","3844.0","Units",""
+"Normal","STEERING SERVO HORN","J603","Tim Lines","3.0","0.6","6942.0","6920.0","Units",""
+"Normal","STORAGE BIN","","Tim Lines","12.99","12.99","280.0","-44.0","Units",""
+"Normal","STRETCH X BOTTOM PLATE","E503B","Tim Lines","1.0","0.0","29.0","29.0","Units",""
+"Normal","STRETCH X TOP PLATE","E504B","Tim Lines","1.0","0.0","29.0","29.0","Units",""
+"Normal","SUPPORT ARM","i503","Tim Lines","2.0","0.38","6262.0","5752.0","Units",""
+"Normal","Shipping","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","Small Minds-i Shirt","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","Spektrum TX/RX USB Programming Cable","","MINDS-i","0.0","0.0","0.0","0.0","Units",""
+"Normal","TACHOMETER","D101","Tim Lines","79.8","36.99","28.0","-16.0","Units","Alert"
+"Normal","TAMIYA CHARGER ADAPTER","A505","Chris Lines","18.0","3.45","138.0","48.0","Units",""
+"Normal","TAMIYA FEMALE","ELE-TMFL-067","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","TAMIYA FEMALE TO XT60 MALE CABLE","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","TAMIYA MALE TO XT60 FEMALE CABLE","F803","Tim Lines","1.0","0.0","109.0","109.0","Units",""
+"Normal","TAMIYA PLUG","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","TAMIYA PLUG WITH 10cm LEADS, FEMALE","F705","Tim Lines","1.73","1.73","140.0","140.0","Units",""
+"Normal","TAMIYA PLUG WITH 10cm LEADS, MALE","F704","Chris Lines","1.0","0.0","184.0","184.0","Units",""
+"Normal","TELEMETRY KIT","F603","Tim Lines","28.0","28.0","360.0","279.0","Units",""
+"Normal","TELEMETRY RADIO CABLE (PRE-2022))","","MINDS-i","14.0","0.0","0.0","0.0","Units",""
+"Normal","TEXTURED FOOT PLATES","","Tim Lines","1.0","0.0","0.0","-8.0","Units",""
+"Normal","TGY-I6S RADIO CONTROLLER","D701","Tim Lines","120.0","50.85","341.0","191.0","Units",""
+"Normal","TORNADO T1 1407 MOTOR (CW)","","Tim Lines","1.0","8.0","0.0","0.0","Units",""
+"Normal","TRANSITION","J501","Tim Lines","1.0","0.19","2784.0","5.0","Units","Alert"
+"Normal","TRUSS FRAME PARTS","","Tim Lines","1.0","0.0","0.0","-118.0","Units",""
+"Normal","TUBE FABRIC","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","TURNTABLE PLATE","E605","Tim Lines","1.0","0.26","82.0","82.0","Units",""
+"Normal","Tee","","MINDS-i","1.0","0.0","25.0","25.0","Units",""
+"Normal","Tracking","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","Tracking # 559834463940 (Remainder)","","MINDS-i","0.0","0.0","0.0","0.0","Units",""
+"Normal","Tracking# 559834463560","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","Tracking#: 225631456","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","U-JOINT","F404","Tim Lines","4.0","0.77","675.0","-131.0","Units",""
+"Normal","U-JOINT SET SCREW","G408","Tim Lines","2.0","0.35000000000000003","7113.0","6600.0","Units",""
+"Normal","UAV Competition APM","","MINDS-i","1.0","0.0","1.0","1.0","Units",""
+"Normal","UAV DRONE GIMBAL RIG","MCK-DRGY-001","MINDS-i","2500.0","0.0","1.0","1.0","Units",""
+"Normal","UAV DRONE GIMBAL RIG INSTRUCTIONS","E306","Chris Lines","9.4","9.4","23.0","2.0","Units",""
+"Normal","UAV DRONE LAB","MCK-UALB-MR2","MINDS-i","3100.0","0.0","15.0","-3.0","Units",""
+"Normal","UGV UPGRADE","A901","Tim Lines","1.0","0.0","0.0","1.0","Units",""
+"Normal","UGV UPGRADE BAG 1: BEAMS","A802","MINDS-i","1.0","0.0","1.0","2.0","Units",""
+"Normal","UGV UPGRADE BAG 2: CONNECTORS","A801","MINDS-i","1.0","0.0","9.0","8.0","Units",""
+"Normal","UGV UPGRADE BAG 3: ELECTRONICS","A803","MINDS-i","1.0","0.0","4.0","1.0","Units",""
+"Normal","UGV UPGRADE INSTRUCTIONS","","Tim Lines","1.0","0.0","0.0","0.0","Units",""
+"Normal","USB DRIVE","F604","Tim Lines","5.25","5.25","265.0","66.0","Units","Alert"
+"Normal","VELCRO BALL","","Tim Lines","1.0","0.0","433.0","426.0","Units",""
+"Normal","VELCRO HOOK 12""","E802A","Tim Lines","1.0","0.0","2966.0","2855.0","Units",""
+"Normal","VELCRO HOOK 2.5""","","MINDS-i","1.0","0.0","-2.0","-28.0","Units",""
+"Normal","VELCRO LOOP 12""","E802B","Tim Lines","1.0","0.0","2591.0","2480.0","Units",""
+"Normal","VELCRO STRAPS","E702","Tim Lines","1.0","0.0","144.0","-19.0","Units",""
+"Normal","VOLTAGE REGULATOR","B804","Tim Lines","1.0","0.0","91.0","22.0","Units",""
+"Normal","WHITE SILICONE CAP","F807","Tim Lines","1.0","0.7000000000000001","260.0","260.0","Units",""
+"Normal","X BOTTOM PLATE","E503A","Tim Lines","1.0","0.0","19.0","13.0","Units",""
+"Normal","X TOP PLATE","E504A","Tim Lines","1.0","0.0","1.0","1.0","Units",""
+"Normal","XL Minds-i Shirt","","MINDS-i","1.0","0.0","0.0","0.0","Units",""
+"Normal","Y-HARNESS FOR DUAL ESCS","F707","Tim Lines","1.0","0.0","285.0","284.0","Units",""
