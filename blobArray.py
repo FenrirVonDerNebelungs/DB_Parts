@@ -1,5 +1,5 @@
 import math
-#assumes val is a 4 byte int with padding of an extra 4 bits for sign
+
 def funcSet(blob, val, index):
     #print("blob", blob)
     valbin=val.to_bytes(4, byteorder='big',signed=True)
