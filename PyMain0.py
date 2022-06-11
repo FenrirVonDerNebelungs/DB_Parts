@@ -2,13 +2,14 @@ import parseDesc
 import mysql.connector
 
 conn = mysql.connector.connect(host="localhost",database="parts_test2",user="data0",password="XXfish3x3");
+tablesqlstr="dummytest"
 
 curs=conn.cursor();
 curs.execute("SHOW DATABASES")
 for db in curs:
     print(db)
 
-sqlcom = "INSERT INTO units (TYPE, LABEL, QTY, INTERNALREF, COST, SALESPRICE) VALUES (%s, %s, %s, %s, %s, %s)"
+sqlcom = "INSERT INTO "+tablesqlstr+" (TYPE, LABEL, QTY, INTERNALREF, COST, SALESPRICE) VALUES (%s, %s, %s, %s, %s, %s)"
 
 fin=open('odooAllParts00.csv','r')
 

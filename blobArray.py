@@ -11,6 +11,7 @@ def funcSet(blob, val, index):
     arindex=index*4
     indexend=arindex+3
     if indexend>=bloblen:
+        print("ERROR: blobArray.funcSet index out of range for blob of 4 byte ints: ", index)
         return False
     for i in range(4):
         curindex=arindex+i

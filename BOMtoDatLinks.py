@@ -1,40 +1,57 @@
 import mysql.connector
 import blobLinks
 
-def getBlob(curso):
-    blob = curso.fetchone()[0]
-    return blob
+tablesqlstr="dummytest"
 
-def sendToDB(sqlconn, curso, bomid, links_ar):
+#def getBlob(curso):
+#    blob = curso.fetchone()[0]
+#    return blob
+
+def sendToDB(sqlconn, curso, bomid, links_ar, num_ar):
     if(len(links_ar)<2):
         return False
-    unterblob=blobLinks.linksToBlob(bomid,links_ar)
-    sqlcom="INSERT INTO units (UNTR) VALUES (%s)"
-    curso.execute(sqlcom, unterblob)
+    unterblob=blobLinks.linksToBlob(links_ar)
+    sqlcom="UPDATE "+tablesqlstr+" SET UNTR=%s WHERE U_ID=%s"
+    inargs=(unterblob,bomid)
+    curso.execute(sqlcom,inargs)
+    unterNblob=blobLinks.linksToBlob(num_ar)
+    sqlcom1="UPDATE "+tablesqlstr+" SET UNTRN=%s WHERE U_ID=%s"
+    inargs1=(unterNblob,bomid)
+    curso.execute(sqlcom1,inargs1)
+    sqlcom2="UPDATE "+tablesqlstr+" SET TYPE=%s WHERE U_ID=%s"
+    inargs2=('ASS',bomid)
+    curso.execute(sqlcom2, inargs2)
     sqlconn.commit()
     for i in range(len(links_ar)):
-        inqStr="SELECT UBER FROM units WHERE U_ID=\'"+str(links_ar[i])+"\'"
-        uberblob=getblob(curso)
-        if(blobLinks.addUberLink(uberblob)):
-            sqlcom="INSERT INTO units (UBER) VALUES (%s)"
-            curso.execute(sqlcom,uberblob)
+#        inqStr="SELECT UBER FROM "+tablesqlstr+" WHERE U_ID=\'"+str(links_ar[i])+"\'"
+#        curso.execute(inqStr)
+#        uberblob=getBlob(curso)
+        uberblob=blobLinks.getUber(curso,links_ar[i],tablesqlstr)
+        if not uberblob:
+            uberblob=blobLinks.newBlob()
+        if(blobLinks.addUberLink(links_ar[i],uberblob)):
+            sqlcom="UPDATE "+tablesqlstr+" SET UBER=%s WHERE U_ID=%s"
+            inargs=(uberblob,links_ar[i])
+            curso.execute(sqlcom,inargs)
             sqlconn.commit()
+    return True
 
 conn = mysql.connector.connect(host="localhost",database="parts_test2",user="data0",password="XXfish3x3")
 curs=conn.cursor()
 
 fin=open('BOMmatched.csv','r')
-inar=["NOF",-1,"NOF",-1,0]
+fieldstr=["NOF",-1,"NOF",-1,0]
 
 cnt=0
 line=fin.readline()
 BOMID=-1
 linksUIDs=[]
-while line and cnt<10:
+linksQTYs=[]
+while line and cnt<1000:
     commaloc=line.find(",")
     fieldindx=0
     while commaloc>=0:
-        fieldstr=line[:commaloc]
+        fieldstr[fieldindx]=line[:commaloc]
         fieldindx+=1
         commaloc+=1
         line=line[commaloc:]
@@ -42,18 +59,29 @@ while line and cnt<10:
     #process these fields if enough good fields found
     if(fieldindx<4):
         break
-    (bom_uid,)=fieldstr[1]
+    print(fieldstr[0], fieldstr[1], fieldstr[2], fieldstr[3], fieldstr[4], sep=", ")
+    bom_uid=int(fieldstr[1])
     if(bom_uid!=BOMID):
-        sendToDB(conn,curs,BOMID,linksUIDs)
+        print("sending bomID", BOMID)
+        print("links: ", linksUIDs)
+        print("QTYs:  ", linksQTYs)
+        print('-------')
+        sendToDB(conn,curs,BOMID,linksUIDs,linksQTYs)
         linksUIDs.clear()
+        linksQTYs.clear()
         BOMID=bom_uid
-    (link_uid,)=fieldstr[3]
+    link_uid=int(fieldstr[3])
     linksUIDs.append(link_uid)
+    link_qty=int(fieldstr[4])
+    linksQTYs.append(link_qty)
     #finish lines loop
     cnt+=1
     line=fin.readline()
     if not line:
-        sendToDB(curs,BOMID,linksUIDs)
+        print("sending bomID", BOMID)
+        print("links: ", linksUIDs)
+        print("QTYs:  ", linksQTYs)
+        sendToDB(conn,curs,BOMID,linksUIDs,linksQTYs)
 
 fin.close()
 conn.close()
