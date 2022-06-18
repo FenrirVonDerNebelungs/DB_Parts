@@ -18,6 +18,35 @@ def funcExtract(desc):
     retArg=[reddesc, firstpar, lastpar]
     return retArg
 
+def funcExtractIMB(desc):
+    retArg=[desc,-1,-1]
+    comloc=desc.find(",")
+    foundStartPar=False
+    firstpar=0
+    while not foundStartPar:
+        firstpar+=1
+        firstpar=desc.find("\"", firstpar)
+        if firstpar<0:
+            return retArg
+        foundStartPar=(comloc+1)==firstpar
+    if foundStartPar:
+        lastpar=desc.find("\"",firstpar+1)
+        nextcom=desc.find(",",lastpar)
+        lastpar+=1
+        istailpar = lastpar==nextcom
+        while not istailpar and nextcom>=0:
+            nextcom=desc.find(",",lastpar)
+            lastpar+=1
+            istailpar= lastpar==nextcom
+        if not istailpar:
+            return retArg
+    else:
+        return retArg
+    reddesc=desc[(firstpar+1):(lastpar-1)]
+    retArg=[reddesc, firstpar, lastpar]
+    return retArg
+
+
 def funcRemDup(desc):
     parloc=desc.find("\"")
     while parloc>=0:
@@ -68,6 +97,13 @@ def funcClean(desc):
     cleanDesc=funcRemCommas(delsingDesc)
     return [cleanDesc,extDesc[1],extDesc[2]]
 
+def funcCleanIMB(desc):
+    extDesc = funcExtractIMB(desc)
+    dupRemDesc = funcRemDup(extDesc[0])
+    delsingDesc=funcRemSingQuotes(dupRemDesc)
+    cleanDesc=funcRemCommas(delsingDesc)
+    return [cleanDesc,extDesc[1],extDesc[2]]
+
 def funcFix(line):
     isoDesc = funcClean(line)
     if isoDesc[1]>=0 and isoDesc[2]>=0:
@@ -76,6 +112,16 @@ def funcFix(line):
         fixedline=linestrt+isoDesc[0]+linetail
         return fixedline
     return line
+
+def funcFixIMB(line):
+    isoDesc = funcCleanIMB(line)
+    if isoDesc[1]>=0 and isoDesc[2]>=0:
+        linestrt = line[:isoDesc[1]]
+        linetail = line[isoDesc[2]:]
+        fixedline=linestrt+isoDesc[0]+linetail
+        return fixedline
+    return line
+
 
 def funcClearFirstBrackets(desc):
     lastbrac=desc.find("]")

@@ -4,7 +4,8 @@ def getFields(line):
     fieldsar = ["bomdesc", "desc", 0]
     fieldsarEx=["bomdesc", "nobracbom", "A000", "desc", "nobracdesc", "A000", -1]
     fixed00=parseDesc.funcFix(line)
-    fixed=parseDesc.funcFix(fixed00)
+    #print(fixed00)
+    fixed=parseDesc.funcFixIMB(fixed00)
     #print(fixed)
     commaloc=fixed.find(",")
     fieldindx=0

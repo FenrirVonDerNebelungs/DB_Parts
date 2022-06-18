@@ -1,328 +1,328 @@
-"Order Reference","Creation Date","Customer","Total","Order Lines/Product","Order Lines/Quantity","Order Lines/Delivered Quantity","Order Lines/Unit Price"
-"S00076","2022-05-12 11:05:47","Southview High School","33.64","[L102B] 5000 RPM MOTOR WITH WIRE","2.0","2.0","10.5"
-"","","","","Shipping","1.0","0.0","12.64"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00066","2022-05-09 16:12:10","Northwest Technology Center","18018.46","[PTT-ARD2-001] ARDUINO ROBOT","1.0","0.0","399.0"
-"","","","","STORAGE BIN","4.0","0.0","12.99"
-"","","","","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","2.0","0.0","2500.0"
-"","","","","[MCK-ECLB-2WD] ELECTRIC CAR LAB","1.0","0.0","625.0"
-"","","","","[MCK-ECSL-045] ELECTRIC CAR CURRICULUM (Digital)","1.0","0.0","596.25"
-"","","","","[MCK-DRLB-MR2] DRONES LAB UGV + UAV","2.0","0.0","5375.0"
-"","","","","[MCK-DRSL-090] DRONE CURRICULUM 90HR","1.0","0.0","596.25"
-"S00067","2022-05-09 16:51:03","500 - Career Institute North","2500.0","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","0.0","2500.0"
-"S00068","2022-05-11 16:53:00","Taft Union High School District","13868.0","[PTT-ARD2-001] ARDUINO ROBOT","32.0","0.0","399.0"
-"","","","","[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE","1.0","0.0","1100.0"
-"","","","","","0.0","0.0","0.0"
-"S00069","2022-05-11 17:02:04","Taft Union High School District","143.09","Misc","1.0","0.0","0.0"
-"","","","","[J305] 15-BEAM","10.0","10.0","1.15"
-"","","","","[J405] 10-BEAM","10.0","10.0","1.15"
-"","","","","[J401] 6-BEAM","10.0","10.0","1.15"
-"","","","","[H506] PANEL-LOCK","20.0","20.0","0.4"
-"","","","","[H403] 1.5-PIN","20.0","20.0","0.15"
-"","","","","[B501] MALE TO MALE SERVO LEAD","10.0","10.0","1.0"
-"","","","","[F707] EXTENSION PLUG","10.0","10.0","0.16"
-"","","","","TELEMETRY RADIO CABLE (PRE-2022))","5.0","5.0","14.0"
-"","","","","Shipping","1.0","0.0","15.99"
-"","","","","","0.0","0.0","0.0"
-"S00070","2022-05-12 09:49:18","Montgomery College","6342.46","[MCK-UASL-045] DRONE CURRICULUM 45","1.0","1.0","596.25"
-"","","","","[MCK-UALB-MR2] UAV DRONE LAB","1.0","1.0","3100.0"
-"","","","","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","1.0","2500.0"
-"","","","","Shipping","1.0","0.0","146.21"
-"","","","","","0.0","0.0","0.0"
-"S00071","2022-05-12 09:51:33","Rhodes State College- SCI 515","5496.66","[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour)","2.0","2.0","2700.0"
-"","","","","Shipping","1.0","0.0","96.66"
-"","","","","","0.0","0.0","0.0"
-"S00072","2022-05-12 09:53:01","Pekin Community High School","2600.0","[CPK-UAM2-001] COMPETITION KIT UAV","2.0","0.0","1300.0"
-"S00073","2022-05-12 10:06:15","Southview High School","2.0","[B405] NIMH BATTERY","2.0","2.0","1.0"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00074","2022-05-12 10:07:53","Tangram Flex","2500.0","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","0.0","2500.0"
-"S00075","2022-05-12 10:18:35","Joe Ray","173.92","MINDS-i T-Shirt","2.0","2.0","15.0"
-"","","","","MINDS-i T-Shirt","2.0","2.0","15.0"
-"","","","","MINDS-i T-Shirt","2.0","2.0","15.0"
-"","","","","MINDS-i T-Shirt","2.0","2.0","15.0"
-"","","","","MINDS-i T-Shirt","2.0","2.0","15.0"
-"","","","","Shipping","1.0","0.0","23.92"
-"","","","","","0.0","0.0","0.0"
-"S00078","2022-05-12 14:26:29","Longview School District No. 122, LONGVIEW SCHOOL DISTRICT NO. 122 WAREHOUSE","8256.6","6x6 (Super Rover Kit)","9.0","0.0","840.0"
-"","","","","[B403] ARDUINO LEONARDO","9.0","0.0","22.4"
-"","","","","[C10x] 3 Channel Radio","9.0","0.0","55.0"
-"S00079","2022-05-12 14:28:44","Harding High School","10595.0","[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour)","1.0","0.0","2700.0"
-"","","","","[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE","1.0","0.0","1100.0"
-"","","","","[MCK-UALB-MR2] UAV DRONE LAB","1.0","0.0","3100.0"
-"","","","","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","0.0","2500.0"
-"","","","","[MIC-DUL-100] WEB BASED CURRICULUM ANNUAL SUBSCRIPTION FOR TWO PRODUCTS","1.0","0.0","1195.0"
-"S00065","2022-05-04 10:30:38","Fontana Unified School District Warehouse","14151.25","[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour)","6.0","0.0","2100.0"
-"","","","","[MIC-SUL-100] WEB BASED CURRIULUM ANNUAL SUBSCRIPTION FOR ONE PRODUCT","1.0","0.0","746.25"
-"","","","","[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE","1.0","0.0","805.0"
-"","","","","","0.0","0.0","0.0"
-"S00064","2022-05-04 10:28:04","Fontana Unified School District Warehouse","13618.05","[CPK-UAM2-001] COMPETITION KIT UAV","15.0","0.0","892.5"
-"","","","","Shipping","1.0","0.0","230.55"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00063","2022-05-04 10:26:33","Granton Area School District, Attn: Kevin Pankratz","1829.88","[CPK-UAM2-001] COMPETITION KIT UAV","2.0","2.0","892.5"
-"","","","","Shipping","1.0","0.0","44.88"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00062","2022-04-21 14:53:53","Williston High School","1300.0","[CPK-UAM2-001] COMPETITION KIT UAV","1.0","0.0","1300.0"
-"S00057","2022-03-21 10:20:58","Shelton High School","704.67","DUAL MOTOR Upgrade Module for Super Rover Kit ","1.0","1.0","101.5"
-"","","","","100mm Linear Actuator","1.0","1.0","139.3"
-"","","","","[C604] DUAL MOTOR ENCODER KIT","1.0","1.0","185.5"
-"","","","","[ELE-IRDS-108] IR Distance Sensor","2.0","2.0","10.5"
-"","","","","HMC5883L 3-Axis Electronic Compass","10.0","10.0","15.75"
-"","","","","[B601] COLORED PUSH BUTTON","20.0","20.0","4.2"
-"","","","","Shipping","1.0","0.0","15.87"
-"","","","","","0.0","0.0","0.0"
-"S00061","2022-04-20 09:19:59","DAVE PATCH","74.0","[C10x] 3 Channel Radio","1.0","0.0","55.0"
-"","","","","RACECAR BODY","1.0","1.0","18.0"
-"","","","","4x4","1.0","0.0","1.0"
-"","","","","","0.0","0.0","0.0"
-"S00060","2022-04-13 10:42:23","Nettie E Karcher Middle School","4503.21","[MCK-ECLB-2WD] ELECTRIC CAR LAB","6.0","6.0","625.0"
-"","","","","[MCK-ECSL-045] ELECTRIC CAR CURRICULUM (Digital)","1.0","0.0","596.25"
-"","","","","Shipping","1.0","0.0","156.96"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00059","2022-03-30 11:43:57","Glendale high school","3000.0","[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour)","1.0","0.0","3000.0"
-"S00058","2022-03-28 11:53:58","Beth Tfiloh High School","12795.0","[MCK-UALB-MR2] UAV DRONE LAB","3.0","0.0","3100.0"
-"","","","","[MIC-SUL-100] WEB BASED CURRIULUM ANNUAL SUBSCRIPTION FOR ONE PRODUCT","1.0","0.0","995.0"
-"","","","","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","0.0","2500.0"
-"S00056","2022-03-15 10:12:43","LAB Midwest","4499.19","[MCK-ECLB-2WD] ELECTRIC CAR LAB","6.0","6.0","625.0"
-"","","","","[MCK-ECSL-045] ELECTRIC CAR CURRICULUM (Digital)","1.0","1.0","596.25"
-"","","","","Shipping","6.0","0.0","25.49"
-"","","","","","0.0","0.0","0.0"
-"S00055","2022-03-15 10:10:27","Technical Training Aids","2400.0","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","2.0","0.0","1200.0"
-"S00054","2022-03-15 09:50:47","Marshall County Material Center, Trent Powell","170060.0","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","8.0","0.0","2500.0"
-"","","","","[MCK-ECLB-2WD] ELECTRIC CAR LAB","20.0","0.0","625.0"
-"","","","","[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour)","20.0","0.0","3000.0"
-"","","","","[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE","4.0","0.0","1100.0"
-"","","","","[MCK-UALB-MR2] UAV DRONE LAB","20.0","0.0","3100.0"
-"","","","","[MIC-MUL-100] WEB BASED CURRICULUM ANNUAL SUBSCRIPTION FOR THREE OR MORE PRODUCTS","8.0","0.0","1395.0"
-"S00051","2022-02-09 13:09:28","Cosby High School, Ligon, John","24214.84","[MCK-UALB-MR2] UAV DRONE LAB","10.0","10.0","2100.0"
-"","","","","[CPK-UAM2-001] COMPETITION KIT UAV","2.0","2.0","840.0"
-"","","","","[MCK-UASL-045] DRONE CURRICULUM 45","1.0","1.0","556.0"
-"","","","","[CPK-FLDE-001] PVC FIELD ELEMENTS","1.0","1.0","419.3"
-"","","","","Shipping","1.0","0.0","559.54"
-"","","","","","0.0","0.0","0.0"
-"S00050","2022-02-09 13:01:25","Matoaca high school, Troy Guerra","24305.93","[MCK-UALB-MR2] UAV DRONE LAB","10.0","10.0","2100.0"
-"","","","","[CPK-UAM2-001] COMPETITION KIT UAV","2.0","2.0","840.0"
-"","","","","[MCK-UASL-045] DRONE CURRICULUM 45","1.0","1.0","556.5"
-"","","","","[CPK-FLDE-001] PVC FIELD ELEMENTS","1.0","1.0","419.3"
-"","","","","Shipping","1.0","0.0","650.13"
-"","","","","","0.0","0.0","0.0"
-"S00049","2022-02-04 12:18:09","Naselle Grays-River Valley SD, GREG NELSON","10706.5","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","0.0","1750.0"
-"","","","","[MCK-UALB-MR2] UAV DRONE LAB","4.0","0.0","2100.0"
-"","","","","[MCK-UASL-045] DRONE CURRICULUM 45","1.0","0.0","556.5"
-"S00048","2022-02-02 14:21:23","Buena Park High School, Maroun Nehme","1021.09","[B404] LIPO BATTERY","42.0","42.0","24.0"
-"","","","","","0.0","0.0","0.0"
-"","","","","Shipping","1.0","0.0","13.09"
-"","","","","","0.0","0.0","0.0"
-"S00047","2022-02-02 14:11:24","Vista Del Lago High School, David Susuras","8036.0","COMPETITION KIT 4x4","8.0","0.0","1004.5"
-"S00046","2022-02-02 13:37:55","River High School, Mark Romick","33999.0","[MCK-UALB-MR2] UAV DRONE LAB","3.0","0.0","2100.0"
-"","","","","[CPK-UAM2-001] COMPETITION KIT UAV","18.0","0.0","840.0"
-"","","","","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","3.0","0.0","1750.0"
-"","","","","[CPK-DRCG-PVC] PVC CAGE","3.0","0.0","1746.5"
-"","","","","[MIC-MUL-100] WEB BASED CURRICULUM ANNUAL SUBSCRIPTION FOR THREE OR MORE PRODUCTS","3.0","0.0","696.5"
-"S00045","2022-02-02 11:33:39","Wyoming County Career & Technical Center, Richard Morgan","1355.37","[CPK-UAM2-001] COMPETITION KIT UAV","1.0","0.0","840.0"
-"","","","","[CPK-FLDE-001] PVC FIELD ELEMENTS","1.0","1.0","419.3"
-"","","","","Shipping","1.0","0.0","28.95"
-"","","","","Shipping","1.0","0.0","67.12"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00044","2022-02-02 11:02:42","Carrol University, Mike Mortensen","5000.0","[CPK-UAM2-001] COMPETITION KIT UAV","12.0","12.0","400.0"
-"","","","","CAGE RENTAL","1.0","0.0","200.0"
-"","","","","","0.0","0.0","0.0"
-"","","","","Shipping","0.0","0.0","1.0"
-"","","","","Tracking","0.0","0.0","1.0"
-"S00033","2021-11-19 14:31:05","Orange Vista High School","13125.0","[CPK-DRCG-003] LARGE DRONE CAGE SYSTEM","1.0","1.0","13125.0"
-"S00043","2022-01-07 11:56:12","North Idaho Stem Charter Academy, Scott Thompson","10.0","4x4","4.0","0.0","1.0"
-"","","","","SERVO LINKAGE KIT","4.0","0.0","1.0"
-"","","","","Four Wheel Steering Upgrade Module for 4x4 Robot Kits","2.0","0.0","1.0"
-"S00042","2022-01-05 13:45:19","School District of Augusta, Ryan Nelson","13528.2","[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE","1.0","0.0","759.5"
-"","","","","[PTT-ARD2-001] ARDUINO ROBOT","4.0","0.0","279.3"
-"","","","","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","0.0","1750.0"
-"","","","","[MCK-1YLB-MR2] ONE YEAR LAB","2.0","0.0","4672.5"
-"","","","","[MIC-SUL-100] WEB BASED CURRIULUM ANNUAL SUBSCRIPTION FOR ONE PRODUCT","1.0","0.0","556.5"
-"S00041","2021-12-14 14:30:02","LAB Midwest, Eddie Johnson","463.1","[MCK-ECLB-2WD] ELECTRIC CAR LAB","1.0","1.0","450.0"
-"","","","","Shipping","1.0","0.0","13.1"
-"","","","","","0.0","0.0","0.0"
-"S00040","2021-12-08 13:45:14","Manny Parras","2147.97","[MCK-UALB-MR2] UAV DRONE LAB","1.0","1.0","2100.0"
-"","","","","Shipping","1.0","0.0","47.97"
-"","","","","","0.0","0.0","0.0"
-"S00039","2021-12-02 16:00:42","Columbia Basin Tech Skills Center","20981.32","6x6 (Super Rover Kit)","18.0","18.0","770.0"
-"","","","","ARDUINO UPGRADE","18.0","18.0","273.0"
-"","","","","6x6 DUAL MOTOR GEARBOX","18.0","0.0","101.5"
-"","","","","DUAL MOTOR Upgrade Module for Super Rover Kit ","0.0","18.0","1.0"
-"","","","","Shipping","18.0","0.0","15.82"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"","","","","Shipping","1.0","0.0","95.56"
-"","","","","","0.0","0.0","0.0"
-"S00038","2021-12-02 15:38:11","Atlanta Area School for the Deaf, Angelia Matthews","885.76","[MCK-ECLB-2WD] ELECTRIC CAR LAB","2.0","2.0","420.0"
-"","","","","","0.0","0.0","0.0"
-"","","","","Shipping","1.0","0.0","45.76"
-"S00037","2021-12-02 14:37:42","Killeen ISD Distribution Center","27425.97","[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour)","12.0","12.0","1987.5"
-"","","","","[MCK-FDSL-090] FOUNDATIONS CURRICULUM","1.0","1.0","596.25"
-"","","","","[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE","2.0","1.0","813.75"
-"","","","","ARDUINO UPGRADE","2.0","2.0","292.5"
-"","","","","[A501] 250 PIECE","2.0","2.0","71.25"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"","","","","Shipping","1.0","0.0","608.28"
-"","","","","Shipping","1.0","0.0","16.44"
-"","","","","","0.0","0.0","0.0"
-"S00036","2021-12-02 09:13:34","Prince George High School, Matthew Weston","3262.89","[MCK-UALB-MR2] UAV DRONE LAB","1.0","1.0","2100.0"
-"","","","","[MCK-UASL-045] DRONE CURRICULUM 45","1.0","1.0","556.5"
-"","","","","[MCK-107P-045] FAA 107 PREP COURSE","1.0","1.0","556.5"
-"","","","","Shipping","1.0","1.0","49.89"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00035","2021-12-02 08:51:04","South Georgia Technical College, David Kulpers","3677.7","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","2.0","2.0","1750.0"
-"","","","","","0.0","0.0","0.0"
-"","","","","Shipping","1.0","0.0","177.7"
-"","","","","","0.0","0.0","0.0"
-"S00034","2021-11-30 13:42:34","Ellison High School, Eric Southerland","","Spektrum TX/RX USB Programming Cable","1.0","1.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00032","2021-11-19 14:27:30","East San Gabriel Valley ROP, Central Warehouse","94080.0","[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour)","30.0","0.0","2086.0"
-"","","","","[MCK-UALB-MR2] UAV DRONE LAB","15.0","0.0","2100.0"
-"S00031","2021-11-19 14:23:59","Prince George High School","22052.22","[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour)","10.0","10.0","2086.0"
-"","","","","[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE","1.0","0.0","759.5"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"","","","","Shipping","1.0","0.0","432.72"
-"S00030","2021-11-19 14:14:56","Val Verde USD Warehouse","21199.2","[MCK-UALB-MR2] UAV DRONE LAB","10.0","10.0","2100.0"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"","","","","Shipping","10.0","10.0","19.92"
-"S00029","2021-11-19 14:07:28","Lincolnview Local School, Jordan Dues","9698.64","[MCK-UALB-MR2] UAV DRONE LAB","1.0","1.0","2100.0"
-"","","","","[CPK-UAM2-001] COMPETITION KIT UAV","6.0","6.0","840.0"
-"","","","","DRONES 45 DEMO BOOK","1.0","1.0","0.0"
-"","","","","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","1.0","1750.0"
-"","","","","[MIC-SUL-100] WEB BASED CURRIULUM ANNUAL SUBSCRIPTION FOR ONE PRODUCT","1.0","1.0","556.5"
-"","","","","Shipping","1.0","1.0","252.14"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00028","2021-11-19 14:03:15","Marshall County Material Center, Trent Powell","16471.0","[MCK-107P-045] FAA 107 PREP COURSE","3.0","0.0","556.5"
-"","","","","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","1.0","1750.0"
-"","","","","[MCK-UALB-MR2] UAV DRONE LAB","5.0","5.0","2100.0"
-"","","","","[MCK-UASL-045] DRONE CURRICULUM 45","1.0","1.0","556.5"
-"","","","","[D901] REALFLIGHT FLIGHT SIMULATOR","10.0","10.0","199.5"
-"","","","","","0.0","0.0","0.0"
-"S00027","2021-11-19 13:58:40","Southern Oklahoma Technology Center, Jennifer Laird","7943.16","[MCK-UALB-MR2] UAV DRONE LAB","3.0","3.0","2625.0"
-"","","","","Shipping","1.0","0.0","68.16"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00026","2021-11-19 13:48:30","Frederick Douglass High School, Randall Park High School","7634.81","[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour)","2.0","2.0","1855.0"
-"","","","","[MCK-FDSL-090] FOUNDATIONS CURRICULUM","1.0","1.0","556.5"
-"","","","","[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE","1.0","1.0","759.5"
-"","","","","[PTT-ARD2-001] ARDUINO ROBOT","8.0","8.0","279.3"
-"","","","","STORAGE BIN","8.0","8.0","23.63"
-"","","","","Shipping","1.0","0.0","185.41"
-"","","","","","0.0","0.0","0.0"
-"","","","","STORAGE BIN","1.0","0.0","-0.04"
-"S00025","2021-11-19 13:40:21","Robert Anderson Middle School, Charles Richardson","2624.1","[MCK-ECLB-2WD] ELECTRIC CAR LAB","6.0","6.0","420.0"
-"","","","","Shipping","1.0","0.0","104.1"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00024","2021-11-19 13:35:04","Killeen ISD Distribution Center","10702.45","[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour)","5.0","5.0","1987.5"
-"","","","","[MCK-FDSL-090] FOUNDATIONS CURRICULUM","1.0","1.0","596.25"
-"","","","","Shipping","1.0","0.0","168.7"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00023","2021-11-19 13:09:29","Henderson Co. High School, ATTN: Kaleb Payton","10178.35","[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour)","5.0","5.0","1855.0"
-"","","","","[MCK-FDSL-090] FOUNDATIONS CURRICULUM","1.0","1.0","556.5"
-"","","","","","0.0","0.0","0.0"
-"","","","","Shipping","1.0","0.0","346.85"
-"S00022","2021-11-18 12:04:15","DEPCO","","[B404] LIPO BATTERY","5.0","5.0","0.0"
-"","","","","[A506] LIPO / NIMH CHARGER","2.0","2.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00021","2021-11-18 11:59:29","Medical Lake High School","","[F504] INERTIA PLUG","6.0","6.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00020","2021-11-18 11:45:28","Technical Training Aids, Chris Knighton","","MINDS-i T-Shirt","2.0","2.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00019","2021-11-15 15:35:13","West Covina USD, Warehouse","3360.0","[MCK-ECLB-2WD] ELECTRIC CAR LAB","8.0","8.0","420.0"
-"","","","","","0.0","0.0","0.0"
-"S00018","2021-11-15 15:24:19","Butler County ATC, ATTN: Susan Martin/ Butler","2656.5","[MCK-UALB-MR2] UAV DRONE LAB","1.0","1.0","2100.0"
-"","","","","[MCK-UASL-045] DRONE CURRICULUM 45","1.0","1.0","556.5"
-"S00017","2021-11-15 14:11:14","Autry Technology Center","251.59","[H603] 1.5-LOCK","5.0","5.0","6.75"
-"","","","","[H403] 1.5-PIN","5.0","5.0","0.0"
-"","","","","[B304] 1/16"" HEX DRIVER","4.0","4.0","7.5"
-"","","","","[B303] 3/32"" HEX DRIVER","4.0","4.0","7.5"
-"","","","","[A506] LIPO / NIMH CHARGER","1.0","1.0","59.99"
-"","","","","15-T PINION","10.0","10.0","6.5"
-"","","","","[F304] SERVO Y-HARNESS W/REVERSER","1.0","1.0","21.0"
-"","","","","Shipping","1.0","0.0","11.85"
-"","","","","","0.0","0.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00016","2021-11-15 13:20:37","Lancaster ISD","176.0","[C10x] 3 Channel Radio","4.0","4.0","44.0"
-"","","","","","0.0","0.0","0.0"
-"S00014","2021-11-12 07:54:31","Longview School District No. 122","6958.85","ARDUINO UPGRADE","15.0","15.0","273.0"
-"","","","","[H601] GEAR REDUCER","15.0","15.0","42.0"
-"","","","","[B705] FELT CATAPULT MAT","15.0","15.0","42.0"
-"","","","","[D202] 15LB TUBE SCALE","15.0","15.0","14.0"
-"","","","","[D101] TACHOMETER","15.0","15.0","79.8"
-"","","","","[L102B] 5000 RPM MOTOR WITH WIRE","3.0","3.0","10.5"
-"","","","","[A401] HS-485HB SERVO (With Hardware)","4.0","4.0","20.3"
-"","","","","[B404] LIPO BATTERY","2.0","2.0","21.0"
-"","","","","[J302] 12-BEAM","30.0","30.0","0.21"
-"","","","","[i301] 7-45 BEAM","2.0","2.0","0.21"
-"","","","","[i302] 8-45 BEAM","2.0","2.0","0.21"
-"","","","","[i305] 11-45 BEAM","20.0","20.0","0.21"
-"","","","","[F510] M5 WHEEL END SHAFT","1.0","1.0","0.74"
-"","","","","[F406] 4.8"" FOUR-LINK ARM","1.0","1.0","0.7"
-"","","","","[F306] HVY DUTY ROD ENDS BLACK/12","1.0","1.0","0.53"
-"","","","","[i701] 1-DRIVELINE MALE ASSEMBLY","4.0","4.0","8.4"
-"","","","","[G301] 6x12x4mm BEARING","15.0","15.0","0.7"
-"","","","","[i607] FRONT WHEEL HUB","1.0","1.0","0.7"
-"","","","","15-T PINION","2.0","2.0","4.55"
-"","","","","[B302] RING AND PINION GEAR SET","2.0","2.0","3.5"
-"","","","","DISCOUNT","1.0","0.0","-32.06"
-"","","","","","0.0","0.0","0.0"
-"S00013","2021-11-12 06:47:32","Manny Parras","","6x6 (Super Rover Kit)","1.0","1.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00012","2021-11-12 06:38:29","Fox River Middle School","837.9","[PTT-ARD2-001] ARDUINO ROBOT","3.0","3.0","279.3"
-"","","","","","0.0","0.0","0.0"
-"S00011","2021-11-11 14:33:55","Southern Oklahoma Technology Center","596.25","[MCK-UASL-045] DRONE CURRICULUM 45","1.0","1.0","596.25"
-"","","","","","0.0","0.0","0.0"
-"S00010","2021-11-11 13:48:48","CAVIT School","24073.0","[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour)","10.0","0.0","2086.0"
-"","","","","[MCK-UALB-MR2] UAV DRONE LAB","1.0","0.0","2100.0"
-"","","","","[MCK-FDSL-090] FOUNDATIONS CURRICULUM","1.0","0.0","556.5"
-"","","","","[MCK-UASL-045] DRONE CURRICULUM 45","1.0","0.0","556.5"
-"S00008","2021-11-11 09:57:13","Liberty High School","7601.48","[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour)","2.0","2.0","1855.0"
-"","","","","[MCK-FDSL-090] FOUNDATIONS CURRICULUM","1.0","1.0","556.5"
-"","","","","[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE","1.0","1.0","759.5"
-"","","","","[PTT-ARD2-001] ARDUINO ROBOT","8.0","8.0","279.3"
-"","","","","STORAGE BIN","2.0","2.0","94.5"
-"","","","","Shipping","1.0","0.0","152.08"
-"","","","","","0.0","0.0","0.0"
-"S00007","2021-11-09 07:41:02","Escanaba Senior High School","10458.55","[MCK-DRLB-MR2] DRONES LAB UGV + UAV","2.0","2.0","3710.0"
-"","","","","[PTT-ARD2-001] ARDUINO ROBOT","2.0","2.0","279.3"
-"","","","","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","1.0","1750.0"
-"","","","","[MIC-SUL-100] WEB BASED CURRIULUM ANNUAL SUBSCRIPTION FOR ONE PRODUCT","1.0","1.0","556.5"
-"","","","","Shipping","1.0","0.0","173.45"
-"","","","","","0.0","0.0","0.0"
-"S00006","2021-11-08 11:24:50","Granton Area School District","2512.0","[MCK-UALB-MR2] UAV DRONE LAB","1.0","1.0","2250.0"
-"","","","","[MCK-UASL-045] DRONE CURRICULUM 45","1.0","1.0","262.0"
-"S00005","2021-11-03 11:46:28","Auburn School District 408","","[C303] MR2 BAG 3: ESC","24.0","24.0","0.0"
-"","","","","[C202] MR2 BAG 7: APM","24.0","24.0","0.0"
-"","","","","MULTIROTOR INSTRUCTIONS","24.0","24.0","0.0"
-"S00004","2021-11-03 09:09:59","Longview School District No. 122","","[C803] ARDUINO ROBOT BAG 3: SCREWS","120.0","120.0","0.0"
-"","","","","[C805] ARDUINO ROBOT BAG 5: ELECTRONICS","120.0","120.0","0.0"
-"","","","","[A402] CONTINUOUS ROTATION ROBOTIC SERVO (With Hardware)","240.0","240.0","0.0"
-"","","","","[A505] TAMIYA CHARGER ADAPTER","120.0","120.0","0.0"
-"","","","","[E101] ARDUINO ROBOT INSTRUCTIONS","120.0","120.0","0.0"
-"","","","","[E406] ARDUINO USER GUIDE INSTRUCTIONS","120.0","120.0","0.0"
-"","","","","[F604] USB DRIVE","120.0","120.0","0.0"
-"","","","","","0.0","0.0","0.0"
-"S00003","2021-11-02 09:16:35","Val Verde USD","55060.52","[MCK-UALB-MR2] UAV DRONE LAB","25.0","25.0","2100.0"
-"","","","","[MCK-DRGY-001] UAV DRONE GIMBAL RIG","1.0","1.0","1750.0"
-"","","","","Shipping","1.0","0.0","810.52"
-"","","","","","0.0","0.0","0.0"
-"S00002","2021-10-27 10:03:33","Cliff Park High School","7741.25","[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour)","2.0","2.0","1987.5"
-"","","","","[MCK-FDSL-090] FOUNDATIONS CURRICULUM","1.0","1.0","556.5"
-"","","","","[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE","1.0","1.0","813.75"
-"","","","","[PTT-ARD2-001] ARDUINO ROBOT","8.0","8.0","299.25"
-"","","","","STORAGE BIN","2.0","2.0","1.0"
-"S00001","2021-10-20 15:27:59","Bark River-Harris School","6971.25","[MCK-UALB-MR2] UAV DRONE LAB","1.0","0.0","2250.0"
-"","","","","[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour)","2.0","2.0","1987.5"
-"","","","","[MIC-DUL-100] WEB BASED CURRICULUM ANNUAL SUBSCRIPTION FOR TWO PRODUCTS","1.0","0.0","746.25"
+Order Reference,Creation Date,Customer,Total,Order Lines/Product,Order Lines/Quantity,Order Lines/Delivered Quantity,Order Lines/Unit Price,Enter,Deliv
+S00076,5/12/2022 11:05,Southview High School,33.64,[L102B] 5000 RPM MOTOR WITH WIRE,2,2,10.5,1,1
+,,,,Shipping,1,0,12.64,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00066,5/9/2022 16:12,Northwest Technology Center,18018.46,[PTT-ARD2-001] ARDUINO ROBOT,1,0,399,1,1
+,,,,STORAGE BIN,4,0,12.99,0,0
+,,,,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,2,0,2500,0,0
+,,,,[MCK-ECLB-2WD] ELECTRIC CAR LAB,1,0,625,0,0
+,,,,[MCK-ECSL-045] ELECTRIC CAR CURRICULUM (Digital),1,0,596.25,0,0
+,,,,[MCK-DRLB-MR2] DRONES LAB UGV + UAV,2,0,5375,0,0
+,,,,[MCK-DRSL-090] DRONE CURRICULUM 90HR,1,0,596.25,0,0
+S00067,5/9/2022 16:51,500 - Career Institute North,2500,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,0,2500,1,0
+S00068,5/11/2022 16:53,Taft Union High School District,13868,[PTT-ARD2-001] ARDUINO ROBOT,32,0,399,1,0
+,,,,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,1,0,1100,0,0
+,,,,,0,0,0,0,0
+S00069,5/11/2022 17:02,Taft Union High School District,143.09,Misc,1,0,0,1,1
+,,,,[J305] 15-BEAM,10,10,1.15,0,0
+,,,,[J405] 10-BEAM,10,10,1.15,0,0
+,,,,[J401] 6-BEAM,10,10,1.15,0,0
+,,,,[H506] PANEL-LOCK,20,20,0.4,0,0
+,,,,[H403] 1.5-PIN,20,20,0.15,0,0
+,,,,[B501] MALE TO MALE SERVO LEAD,10,10,1,0,0
+,,,,[F707] EXTENSION PLUG,10,10,0.16,0,0
+,,,,TELEMETRY RADIO CABLE (PRE-2022)),5,5,14,0,0
+,,,,Shipping,1,0,15.99,0,0
+,,,,,0,0,0,0,0
+S00070,5/12/2022 9:49,Montgomery College,6342.46,[MCK-UASL-045] DRONE CURRICULUM 45,1,1,596.25,1,1
+,,,,[MCK-UALB-MR2] UAV DRONE LAB,1,1,3100,0,0
+,,,,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,1,2500,0,0
+,,,,Shipping,1,0,146.21,0,0
+,,,,,0,0,0,0,0
+S00071,5/12/2022 9:51,Rhodes State College- SCI 515,5496.66,[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour),2,2,2700,1,1
+,,,,Shipping,1,0,96.66,0,0
+,,,,,0,0,0,0,0
+S00072,5/12/2022 9:53,Pekin Community High School,2600,[CPK-UAM2-001] COMPETITION KIT UAV,2,0,1300,1,0
+S00073,5/12/2022 10:06,Southview High School,2,[B405] NIMH BATTERY,2,2,1,1,1
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00074,5/12/2022 10:07,Tangram Flex,2500,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,0,2500,1,0
+S00075,5/12/2022 10:18,Joe Ray,173.92,MINDS-i T-Shirt,2,2,15,1,1
+,,,,MINDS-i T-Shirt,2,2,15,0,0
+,,,,MINDS-i T-Shirt,2,2,15,0,0
+,,,,MINDS-i T-Shirt,2,2,15,0,0
+,,,,MINDS-i T-Shirt,2,2,15,0,0
+,,,,Shipping,1,0,23.92,0,0
+,,,,,0,0,0,0,0
+S00078,5/12/2022 14:26,"Longview School District No. 122, LONGVIEW SCHOOL DISTRICT NO. 122 WAREHOUSE",8256.6,6x6 (Super Rover Kit),9,0,840,1,0
+,,,,[B403] ARDUINO LEONARDO,9,0,22.4,0,0
+,,,,[C10x] 3 Channel Radio,9,0,55,0,0
+S00079,5/12/2022 14:28,Harding High School,10595,[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour),1,0,2700,1,0
+,,,,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,1,0,1100,0,0
+,,,,[MCK-UALB-MR2] UAV DRONE LAB,1,0,3100,0,0
+,,,,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,0,2500,0,0
+,,,,[MIC-DUL-100] WEB BASED CURRICULUM ANNUAL SUBSCRIPTION FOR TWO PRODUCTS,1,0,1195,0,0
+S00065,5/4/2022 10:30,Fontana Unified School District Warehouse,14151.25,[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour),6,0,2100,1,0
+,,,,[MIC-SUL-100] WEB BASED CURRIULUM ANNUAL SUBSCRIPTION FOR ONE PRODUCT,1,0,746.25,0,0
+,,,,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,1,0,805,0,0
+,,,,,0,0,0,0,0
+S00064,5/4/2022 10:28,Fontana Unified School District Warehouse,13618.05,[CPK-UAM2-001] COMPETITION KIT UAV,15,0,892.5,1,1
+,,,,Shipping,1,0,230.55,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00063,5/4/2022 10:26,"Granton Area School District, Attn: Kevin Pankratz",1829.88,[CPK-UAM2-001] COMPETITION KIT UAV,2,2,892.5,1,1
+,,,,Shipping,1,0,44.88,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00062,4/21/2022 14:53,Williston High School,1300,[CPK-UAM2-001] COMPETITION KIT UAV,1,0,1300,1,0
+S00057,3/21/2022 10:20,Shelton High School,704.67,DUAL MOTOR Upgrade Module for Super Rover Kit ,1,1,101.5,1,1
+,,,,100mm Linear Actuator,1,1,139.3,0,0
+,,,,[C604] DUAL MOTOR ENCODER KIT,1,1,185.5,0,0
+,,,,[ELE-IRDS-108] IR Distance Sensor,2,2,10.5,0,0
+,,,,HMC5883L 3-Axis Electronic Compass,10,10,15.75,0,0
+,,,,[B601] COLORED PUSH BUTTON,20,20,4.2,0,0
+,,,,Shipping,1,0,15.87,0,0
+,,,,,0,0,0,0,0
+S00061,4/20/2022 9:19,DAVE PATCH,74,[C10x] 3 Channel Radio,1,0,55,1,1
+,,,,RACECAR BODY,1,1,18,0,0
+,,,,4x4,1,0,1,0,0
+,,,,,0,0,0,0,0
+S00060,4/13/2022 10:42,Nettie E Karcher Middle School,4503.21,[MCK-ECLB-2WD] ELECTRIC CAR LAB,6,6,625,1,1
+,,,,[MCK-ECSL-045] ELECTRIC CAR CURRICULUM (Digital),1,0,596.25,0,0
+,,,,Shipping,1,0,156.96,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00059,3/30/2022 11:43,Glendale high school,3000,[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour),1,0,3000,1,0
+S00058,3/28/2022 11:53,Beth Tfiloh High School,12795,[MCK-UALB-MR2] UAV DRONE LAB,3,0,3100,1,0
+,,,,[MIC-SUL-100] WEB BASED CURRIULUM ANNUAL SUBSCRIPTION FOR ONE PRODUCT,1,0,995,0,0
+,,,,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,0,2500,0,0
+S00056,3/15/2022 10:12,LAB Midwest,4499.19,[MCK-ECLB-2WD] ELECTRIC CAR LAB,6,6,625,1,1
+,,,,[MCK-ECSL-045] ELECTRIC CAR CURRICULUM (Digital),1,1,596.25,0,0
+,,,,Shipping,6,0,25.49,0,0
+,,,,,0,0,0,0,0
+S00055,3/15/2022 10:10,Technical Training Aids,2400,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,2,0,1200,1,0
+S00054,3/15/2022 9:50,"Marshall County Material Center, Trent Powell",170060,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,8,0,2500,1,0
+,,,,[MCK-ECLB-2WD] ELECTRIC CAR LAB,20,0,625,0,0
+,,,,[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour),20,0,3000,0,0
+,,,,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,4,0,1100,0,0
+,,,,[MCK-UALB-MR2] UAV DRONE LAB,20,0,3100,0,0
+,,,,[MIC-MUL-100] WEB BASED CURRICULUM ANNUAL SUBSCRIPTION FOR THREE OR MORE PRODUCTS,8,0,1395,0,0
+S00051,2/9/2022 13:09,"Cosby High School, Ligon, John",24214.84,[MCK-UALB-MR2] UAV DRONE LAB,10,10,2100,1,1
+,,,,[CPK-UAM2-001] COMPETITION KIT UAV,2,2,840,0,0
+,,,,[MCK-UASL-045] DRONE CURRICULUM 45,1,1,556,0,0
+,,,,[CPK-FLDE-001] PVC FIELD ELEMENTS,1,1,419.3,0,0
+,,,,Shipping,1,0,559.54,0,0
+,,,,,0,0,0,0,0
+S00050,2/9/2022 13:01,"Matoaca high school, Troy Guerra",24305.93,[MCK-UALB-MR2] UAV DRONE LAB,10,10,2100,1,1
+,,,,[CPK-UAM2-001] COMPETITION KIT UAV,2,2,840,0,0
+,,,,[MCK-UASL-045] DRONE CURRICULUM 45,1,1,556.5,0,0
+,,,,[CPK-FLDE-001] PVC FIELD ELEMENTS,1,1,419.3,0,0
+,,,,Shipping,1,0,650.13,0,0
+,,,,,0,0,0,0,0
+S00049,2/4/2022 12:18,"Naselle Grays-River Valley SD, GREG NELSON",10706.5,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,0,1750,1,0
+,,,,[MCK-UALB-MR2] UAV DRONE LAB,4,0,2100,0,0
+,,,,[MCK-UASL-045] DRONE CURRICULUM 45,1,0,556.5,0,0
+S00048,2/2/2022 14:21,"Buena Park High School, Maroun Nehme",1021.09,[B404] LIPO BATTERY,42,42,24,1,1
+,,,,,0,0,0,0,0
+,,,,Shipping,1,0,13.09,0,0
+,,,,,0,0,0,0,0
+S00047,2/2/2022 14:11,"Vista Del Lago High School, David Susuras",8036,COMPETITION KIT 4x4,8,0,1004.5,1,0
+S00046,2/2/2022 13:37,"River High School, Mark Romick",33999,[MCK-UALB-MR2] UAV DRONE LAB,3,0,2100,1,0
+,,,,[CPK-UAM2-001] COMPETITION KIT UAV,18,0,840,0,0
+,,,,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,3,0,1750,0,0
+,,,,[CPK-DRCG-PVC] PVC CAGE,3,0,1746.5,0,0
+,,,,[MIC-MUL-100] WEB BASED CURRICULUM ANNUAL SUBSCRIPTION FOR THREE OR MORE PRODUCTS,3,0,696.5,0,0
+S00045,2/2/2022 11:33,"Wyoming County Career & Technical Center, Richard Morgan",1355.37,[CPK-UAM2-001] COMPETITION KIT UAV,1,0,840,1,1
+,,,,[CPK-FLDE-001] PVC FIELD ELEMENTS,1,1,419.3,0,0
+,,,,Shipping,1,0,28.95,0,0
+,,,,Shipping,1,0,67.12,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00044,2/2/2022 11:02,"Carrol University, Mike Mortensen",5000,[CPK-UAM2-001] COMPETITION KIT UAV,12,12,400,1,0
+,,,,CAGE RENTAL,1,0,200,0,0
+,,,,,0,0,0,0,0
+,,,,Shipping,0,0,1,0,0
+,,,,Tracking,0,0,1,0,0
+S00033,11/19/2021 14:31,Orange Vista High School,13125,[CPK-DRCG-003] LARGE DRONE CAGE SYSTEM,1,1,13125,1,0
+S00043,1/7/2022 11:56,"North Idaho Stem Charter Academy, Scott Thompson",10,4x4,4,0,1,1,0
+,,,,SERVO LINKAGE KIT,4,0,1,0,0
+,,,,Four Wheel Steering Upgrade Module for 4x4 Robot Kits,2,0,1,0,0
+S00042,1/5/2022 13:45,"School District of Augusta, Ryan Nelson",13528.2,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,1,0,759.5,1,1
+,,,,[PTT-ARD2-001] ARDUINO ROBOT,4,0,279.3,0,0
+,,,,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,0,1750,0,0
+,,,,[MCK-1YLB-MR2] ONE YEAR LAB,2,0,4672.5,0,0
+,,,,[MIC-SUL-100] WEB BASED CURRIULUM ANNUAL SUBSCRIPTION FOR ONE PRODUCT,1,0,556.5,0,0
+S00041,12/14/2021 14:30,"LAB Midwest, Eddie Johnson",463.1,[MCK-ECLB-2WD] ELECTRIC CAR LAB,1,1,450,1,1
+,,,,Shipping,1,0,13.1,0,0
+,,,,,0,0,0,0,0
+S00040,12/8/2021 13:45,Manny Parras,2147.97,[MCK-UALB-MR2] UAV DRONE LAB,1,1,2100,1,1
+,,,,Shipping,1,0,47.97,0,0
+,,,,,0,0,0,0,0
+S00039,12/2/2021 16:00,Columbia Basin Tech Skills Center,20981.32,6x6 (Super Rover Kit),18,18,770,1,1
+,,,,ARDUINO UPGRADE,18,18,273,0,0
+,,,,6x6 DUAL MOTOR GEARBOX,18,0,101.5,0,0
+,,,,DUAL MOTOR Upgrade Module for Super Rover Kit ,0,18,1,0,0
+,,,,Shipping,18,0,15.82,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+,,,,Shipping,1,0,95.56,0,0
+,,,,,0,0,0,0,0
+S00038,12/2/2021 15:38,"Atlanta Area School for the Deaf, Angelia Matthews",885.76,[MCK-ECLB-2WD] ELECTRIC CAR LAB,2,2,420,1,1
+,,,,,0,0,0,0,0
+,,,,Shipping,1,0,45.76,0,0
+S00037,12/2/2021 14:37,Killeen ISD Distribution Center,27425.97,[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour),12,12,1987.5,1,1
+,,,,[MCK-FDSL-090] FOUNDATIONS CURRICULUM,1,1,596.25,0,0
+,,,,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,2,1,813.75,0,0
+,,,,ARDUINO UPGRADE,2,2,292.5,0,0
+,,,,[A501] 250 PIECE,2,2,71.25,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+,,,,Shipping,1,0,608.28,0,0
+,,,,Shipping,1,0,16.44,0,0
+,,,,,0,0,0,0,0
+S00036,12/2/2021 9:13,"Prince George High School, Matthew Weston",3262.89,[MCK-UALB-MR2] UAV DRONE LAB,1,1,2100,1,1
+,,,,[MCK-UASL-045] DRONE CURRICULUM 45,1,1,556.5,0,0
+,,,,[MCK-107P-045] FAA 107 PREP COURSE,1,1,556.5,0,0
+,,,,Shipping,1,1,49.89,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00035,12/2/2021 8:51,"South Georgia Technical College, David Kulpers",3677.7,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,2,2,1750,1,1
+,,,,,0,0,0,0,0
+,,,,Shipping,1,0,177.7,0,0
+,,,,,0,0,0,0,0
+S00034,11/30/2021 13:42,"Ellison High School, Eric Southerland",,Spektrum TX/RX USB Programming Cable,1,1,0,1,1
+,,,,,0,0,0,0,0
+S00032,11/19/2021 14:27,"East San Gabriel Valley ROP, Central Warehouse",94080,[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour),30,0,2086,1,0
+,,,,[MCK-UALB-MR2] UAV DRONE LAB,15,0,2100,0,0
+S00031,11/19/2021 14:23,Prince George High School,22052.22,[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour),10,10,2086,0,1
+,,,,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,1,0,759.5,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+,,,,Shipping,1,0,432.72,0,0
+S00030,11/19/2021 14:14,Val Verde USD Warehouse,21199.2,[MCK-UALB-MR2] UAV DRONE LAB,10,10,2100,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+,,,,Shipping,10,10,19.92,0,0
+S00029,11/19/2021 14:07,"Lincolnview Local School, Jordan Dues",9698.64,[MCK-UALB-MR2] UAV DRONE LAB,1,1,2100,0,0
+,,,,[CPK-UAM2-001] COMPETITION KIT UAV,6,6,840,0,0
+,,,,DRONES 45 DEMO BOOK,1,1,0,0,0
+,,,,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,1,1750,0,0
+,,,,[MIC-SUL-100] WEB BASED CURRIULUM ANNUAL SUBSCRIPTION FOR ONE PRODUCT,1,1,556.5,0,0
+,,,,Shipping,1,1,252.14,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00028,11/19/2021 14:03,"Marshall County Material Center, Trent Powell",16471,[MCK-107P-045] FAA 107 PREP COURSE,3,0,556.5,0,0
+,,,,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,1,1750,0,0
+,,,,[MCK-UALB-MR2] UAV DRONE LAB,5,5,2100,0,0
+,,,,[MCK-UASL-045] DRONE CURRICULUM 45,1,1,556.5,0,0
+,,,,[D901] REALFLIGHT FLIGHT SIMULATOR,10,10,199.5,0,0
+,,,,,0,0,0,0,0
+S00027,11/19/2021 13:58,"Southern Oklahoma Technology Center, Jennifer Laird",7943.16,[MCK-UALB-MR2] UAV DRONE LAB,3,3,2625,0,0
+,,,,Shipping,1,0,68.16,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00026,11/19/2021 13:48,"Frederick Douglass High School, Randall Park High School",7634.81,[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour),2,2,1855,0,0
+,,,,[MCK-FDSL-090] FOUNDATIONS CURRICULUM,1,1,556.5,0,0
+,,,,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,1,1,759.5,0,0
+,,,,[PTT-ARD2-001] ARDUINO ROBOT,8,8,279.3,0,0
+,,,,STORAGE BIN,8,8,23.63,0,0
+,,,,Shipping,1,0,185.41,0,0
+,,,,,0,0,0,0,0
+,,,,STORAGE BIN,1,0,-0.04,0,0
+S00025,11/19/2021 13:40,"Robert Anderson Middle School, Charles Richardson",2624.1,[MCK-ECLB-2WD] ELECTRIC CAR LAB,6,6,420,0,0
+,,,,Shipping,1,0,104.1,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00024,11/19/2021 13:35,Killeen ISD Distribution Center,10702.45,[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour),5,5,1987.5,0,0
+,,,,[MCK-FDSL-090] FOUNDATIONS CURRICULUM,1,1,596.25,0,0
+,,,,Shipping,1,0,168.7,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00023,11/19/2021 13:09,"Henderson Co. High School, ATTN: Kaleb Payton",10178.35,[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour),5,5,1855,0,0
+,,,,[MCK-FDSL-090] FOUNDATIONS CURRICULUM,1,1,556.5,0,0
+,,,,,0,0,0,0,0
+,,,,Shipping,1,0,346.85,0,0
+S00022,11/18/2021 12:04,DEPCO,,[B404] LIPO BATTERY,5,5,0,0,0
+,,,,[A506] LIPO / NIMH CHARGER,2,2,0,0,0
+,,,,,0,0,0,0,0
+S00021,11/18/2021 11:59,Medical Lake High School,,[F504] INERTIA PLUG,6,6,0,0,0
+,,,,,0,0,0,0,0
+S00020,11/18/2021 11:45,"Technical Training Aids, Chris Knighton",,MINDS-i T-Shirt,2,2,0,0,0
+,,,,,0,0,0,0,0
+S00019,11/15/2021 15:35,"West Covina USD, Warehouse",3360,[MCK-ECLB-2WD] ELECTRIC CAR LAB,8,8,420,0,0
+,,,,,0,0,0,0,0
+S00018,11/15/2021 15:24,"Butler County ATC, ATTN: Susan Martin/ Butler",2656.5,[MCK-UALB-MR2] UAV DRONE LAB,1,1,2100,0,0
+,,,,[MCK-UASL-045] DRONE CURRICULUM 45,1,1,556.5,0,0
+S00017,11/15/2021 14:11,Autry Technology Center,251.59,[H603] 1.5-LOCK,5,5,6.75,0,0
+,,,,[H403] 1.5-PIN,5,5,0,0,0
+,,,,"[B304] 1/16"" HEX DRIVER",4,4,7.5,0,0
+,,,,"[B303] 3/32"" HEX DRIVER",4,4,7.5,0,0
+,,,,[A506] LIPO / NIMH CHARGER,1,1,59.99,0,0
+,,,,15-T PINION,10,10,6.5,0,0
+,,,,[F304] SERVO Y-HARNESS W/REVERSER,1,1,21,0,0
+,,,,Shipping,1,0,11.85,0,0
+,,,,,0,0,0,0,0
+,,,,,0,0,0,0,0
+S00016,11/15/2021 13:20,Lancaster ISD,176,[C10x] 3 Channel Radio,4,4,44,0,0
+,,,,,0,0,0,0,0
+S00014,11/12/2021 7:54,Longview School District No. 122,6958.85,ARDUINO UPGRADE,15,15,273,0,0
+,,,,[H601] GEAR REDUCER,15,15,42,0,0
+,,,,[B705] FELT CATAPULT MAT,15,15,42,0,0
+,,,,[D202] 15LB TUBE SCALE,15,15,14,0,0
+,,,,[D101] TACHOMETER,15,15,79.8,0,0
+,,,,[L102B] 5000 RPM MOTOR WITH WIRE,3,3,10.5,0,0
+,,,,[A401] HS-485HB SERVO (With Hardware),4,4,20.3,0,0
+,,,,[B404] LIPO BATTERY,2,2,21,0,0
+,,,,[J302] 12-BEAM,30,30,0.21,0,0
+,,,,[i301] 7-45 BEAM,2,2,0.21,0,0
+,,,,[i302] 8-45 BEAM,2,2,0.21,0,0
+,,,,[i305] 11-45 BEAM,20,20,0.21,0,0
+,,,,[F510] M5 WHEEL END SHAFT,1,1,0.74,0,0
+,,,,"[F406] 4.8"" FOUR-LINK ARM",1,1,0.7,0,0
+,,,,[F306] HVY DUTY ROD ENDS BLACK/12,1,1,0.53,0,0
+,,,,[i701] 1-DRIVELINE MALE ASSEMBLY,4,4,8.4,0,0
+,,,,[G301] 6x12x4mm BEARING,15,15,0.7,0,0
+,,,,[i607] FRONT WHEEL HUB,1,1,0.7,0,0
+,,,,15-T PINION,2,2,4.55,0,0
+,,,,[B302] RING AND PINION GEAR SET,2,2,3.5,0,0
+,,,,DISCOUNT,1,0,-32.06,0,0
+,,,,,0,0,0,0,0
+S00013,11/12/2021 6:47,Manny Parras,,6x6 (Super Rover Kit),1,1,0,0,0
+,,,,,0,0,0,0,0
+S00012,11/12/2021 6:38,Fox River Middle School,837.9,[PTT-ARD2-001] ARDUINO ROBOT,3,3,279.3,0,0
+,,,,,0,0,0,0,0
+S00011,11/11/2021 14:33,Southern Oklahoma Technology Center,596.25,[MCK-UASL-045] DRONE CURRICULUM 45,1,1,596.25,0,0
+,,,,,0,0,0,0,0
+S00010,11/11/2021 13:48,CAVIT School,24073,[MCK-FDLB-6X6] FOUNDATIONS LAB 6x6 (90 Hour),10,0,2086,0,0
+,,,,[MCK-UALB-MR2] UAV DRONE LAB,1,0,2100,0,0
+,,,,[MCK-FDSL-090] FOUNDATIONS CURRICULUM,1,0,556.5,0,0
+,,,,[MCK-UASL-045] DRONE CURRICULUM 45,1,0,556.5,0,0
+S00008,11/11/2021 9:57,Liberty High School,7601.48,[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour),2,2,1855,0,0
+,,,,[MCK-FDSL-090] FOUNDATIONS CURRICULUM,1,1,556.5,0,0
+,,,,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,1,1,759.5,0,0
+,,,,[PTT-ARD2-001] ARDUINO ROBOT,8,8,279.3,0,0
+,,,,STORAGE BIN,2,2,94.5,0,0
+,,,,Shipping,1,0,152.08,0,0
+,,,,,0,0,0,0,0
+S00007,11/9/2021 7:41,Escanaba Senior High School,10458.55,[MCK-DRLB-MR2] DRONES LAB UGV + UAV,2,2,3710,0,0
+,,,,[PTT-ARD2-001] ARDUINO ROBOT,2,2,279.3,0,0
+,,,,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,1,1750,0,0
+,,,,[MIC-SUL-100] WEB BASED CURRIULUM ANNUAL SUBSCRIPTION FOR ONE PRODUCT,1,1,556.5,0,0
+,,,,Shipping,1,0,173.45,0,0
+,,,,,0,0,0,0,0
+S00006,11/8/2021 11:24,Granton Area School District,2512,[MCK-UALB-MR2] UAV DRONE LAB,1,1,2250,0,0
+,,,,[MCK-UASL-045] DRONE CURRICULUM 45,1,1,262,0,0
+S00005,11/3/2021 11:46,Auburn School District 408,,[C303] MR2 BAG 3: ESC,24,24,0,0,0
+,,,,[C202] MR2 BAG 7: APM,24,24,0,0,0
+,,,,MULTIROTOR INSTRUCTIONS,24,24,0,0,0
+S00004,11/3/2021 9:09,Longview School District No. 122,,[C803] ARDUINO ROBOT BAG 3: SCREWS,120,120,0,0,0
+,,,,[C805] ARDUINO ROBOT BAG 5: ELECTRONICS,120,120,0,0,0
+,,,,[A402] CONTINUOUS ROTATION ROBOTIC SERVO (With Hardware),240,240,0,0,0
+,,,,[A505] TAMIYA CHARGER ADAPTER,120,120,0,0,0
+,,,,[E101] ARDUINO ROBOT INSTRUCTIONS,120,120,0,0,0
+,,,,[E406] ARDUINO USER GUIDE INSTRUCTIONS,120,120,0,0,0
+,,,,[F604] USB DRIVE,120,120,0,0,0
+,,,,,0,0,0,0,0
+S00003,11/2/2021 9:16,Val Verde USD,55060.52,[MCK-UALB-MR2] UAV DRONE LAB,25,25,2100,0,0
+,,,,[MCK-DRGY-001] UAV DRONE GIMBAL RIG,1,1,1750,0,0
+,,,,Shipping,1,0,810.52,0,0
+,,,,,0,0,0,0,0
+S00002,10/27/2021 10:03,Cliff Park High School,7741.25,[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour),2,2,1987.5,0,0
+,,,,[MCK-FDSL-090] FOUNDATIONS CURRICULUM,1,1,556.5,0,0
+,,,,[MCK-FDTR-001] FOUNDATIONS TEACHERS' RESOURCE,1,1,813.75,0,0
+,,,,[PTT-ARD2-001] ARDUINO ROBOT,8,8,299.25,0,0
+,,,,STORAGE BIN,2,2,1,0,0
+S00001,10/20/2021 15:27,Bark River-Harris School,6971.25,[MCK-UALB-MR2] UAV DRONE LAB,1,0,2250,0,0
+,,,,[MCK-FDLB-4X4] FOUNDATIONS LAB 4x4 (90 Hour),2,2,1987.5,0,0
+,,,,[MIC-DUL-100] WEB BASED CURRICULUM ANNUAL SUBSCRIPTION FOR TWO PRODUCTS,1,0,746.25,0,0
