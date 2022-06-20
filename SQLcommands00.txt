@@ -1,0 +1,30 @@
+show databases;
+create database inventory;
+use mysql;
+show tables;
+GRANT ALL PRIVILEGES ON inventory.* TO 'data0';
+show grants for data0;
+
+CREATE TABLE UNITS (U_ID INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(U_ID), TYPE CHAR(6), LABEL VARCHAR(200), IMG BLOB, UNTR BLOB, UNTRN BLOB, UBER BLOB, QTY INT NOT NULL DEFAULT 0, ODQTY INT NOT NULL DEFAULT 0, QTY_DRAWN INT NOT NULL DEFAULT 0, INTERNALREF CHAR(10), COST DECIMAL(10,2), SALESPRICE DECIMAL(10,2));
+
+SHOW TABLES;
+DESC UNITS;
++-------------+---------------+------+-----+---------+----------------+
+| Field       | Type          | Null | Key | Default | Extra          |
++-------------+---------------+------+-----+---------+----------------+
+| U_ID        | int           | NO   | PRI | NULL    | auto_increment |
+| TYPE        | char(6)       | YES  |     | NULL    |                |
+| LABEL       | varchar(200)  | YES  |     | NULL    |                |
+| IMG         | blob          | YES  |     | NULL    |                |
+| UNTR        | blob          | YES  |     | NULL    |                |
+| UNTRN       | blob          | YES  |     | NULL    |                |
+| UBER        | blob          | YES  |     | NULL    |                |
+| QTY         | int           | NO   |     | 0       |                |
+| ODQTY       | int           | NO   |     | 0       |                |
+| QTY_DRAWN   | int           | NO   |     | 0       |                |
+| INTERNALREF | char(10)      | YES  |     | NULL    |                |
+| COST        | decimal(10,2) | YES  |     | NULL    |                |
+| SALESPRICE  | decimal(10,2) | YES  |     | NULL    |                |
++-------------+---------------+------+-----+---------+----------------+
+
+SELECT * FROM UNITS;
