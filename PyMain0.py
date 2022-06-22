@@ -1,7 +1,7 @@
 import parseDesc
 import mysql.connector
 
-conn = mysql.connector.connect(host="localhost",database="parts_test2",user="data0",password="XXfish3x3");
+conn = mysql.connector.connect(host="localhost",database="inventory",user="data0",password="pppp");
 tablesqlstr="units"
 
 curs=conn.cursor();
@@ -48,6 +48,7 @@ while line and cnt<1000:
     conn.commit()
     print(curs.rowcount, "record inserted")
 
+conn.close()
 fin.close()
 
 

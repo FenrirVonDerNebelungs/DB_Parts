@@ -20,6 +20,14 @@ def labelFromID(curs,uID):
         return "UKN"
     return sqlout
 
+def typeFromID(curs,uID):
+    inqStr="SELECT TYPE FROM "+tablesqlstr+" WHERE U_ID=\'"+str(uID)+"\'"
+    curs.execute(inqStr)
+    sqlout=curs.fetchone()[0]
+    if not sqlout:
+        return "UKN"
+    return sqlout
+
 def locFromID(curs, uID):
     inqStr="SELECT LOC FROM "+tablesqlstr+" WHERE U_ID=\'"+str(uID)+"\'"
     curs.execute(inqStr)
@@ -37,17 +45,7 @@ def locShelfFromID(curs, uID):
     return sqlout
 
 def getAssIDQty(curs, uID):
-    untrblob=blobLinks.getUntr(curs,uID,tablesqlstr)
-    if not untrblob:
-        return [],[]
-    untrNblob=blobLinks.getUntrN(curs,uID, tablesqlstr)
-    if not untrNblob:
-        return [],[]
-    IDar=blobArray.funcGetAr(untrblob)
-    QTYar=blobArray.funcGetAr(untrNblob)
-    if not len(IDar)==len(QTYar):
-        return [],[]
-    return IDar,QTYar
+    return blobLinks.getLinksQTYs(curs,tablesqlstr,uID)
 
 def printAss(curs, uID):
     IDar, QTYar=getAssIDQty(curs, uID)
@@ -59,9 +57,10 @@ def printAss(curs, uID):
         prStr="    | "+str(IDar[i])+" | "+subLab+"  | "+str(QTYar[i])
         print(prStr)
 
-
-
 def genSubReq(curs, uID, num, idUsed, numUsed, idReq, numReq):
+    partype=typeFromID(uID)
+    if partype.find('MAN')>=0 or partype=='RAW':
+        return False
     linksar, qtyar=getAssIDQty(curs,uID)
     arlen=len(linksar)
     if(arlen<=0):
@@ -80,6 +79,30 @@ def genSubReq(curs, uID, num, idUsed, numUsed, idReq, numReq):
         if(curNumUsed>0):
             idUsed.append(linksar[i])
             numUsed.append(curNumUsed)
+    return True
+
+def genReqArrays(curs, uID, num, ids, numUsed, numReq):
+    partype=typeFromID(uID)
+    if partype.find('MAN')>=0 or partype=='RAW':
+        return False
+    linksar,qtyar=getAssIDQty(curs,uID)
+    arlen=len(linksar)
+    if(arlen<=0):
+        return False
+    for i in range(arlen):
+        numTarget=num*qtyar[i]
+        numAvail=qtyFromID(curs,linksar[i])
+        if(numAvail<0):
+            numAvail=0
+        numRem=numAvail-numTarget
+        curNumUsed=numTarget
+        numMissing=0
+        if numRem<0:
+            curNumUsed=numAvail
+            numMissing=(-numRem)
+        ids[i]=linksar[i]
+        numUsed[i]=curNumUsed
+        numReq[i]=numMissing
     return True
 
 def mergeDup(aLev,aID,aNum):
@@ -107,15 +130,19 @@ def mergeDup(aLev,aID,aNum):
             aID.append(oID[i])
             aNum.append(oNum[i])
 
-def getAll(curs,uID,num,feedLev,feedID, feedNum, hasDown):
+def getAll(curs,uID,num,feedLev,feedParent,feedID, feedNum, feedUsed, feedReq, hasDown):
     feedLev.clear()
+    feedParent.clear()
     feedID.clear()
     feedNum.clear()
+    feedUsed.clear()
+    feedReq.clear()
     hasDown.clear()
 
     ar_i=0
     lev=0
     feedLev.append(0)
+    feedParent.append(uID)
     feedID.append(uID)
     feedNum.append(num)
     hasDown.append(False)
@@ -124,35 +151,28 @@ def getAll(curs,uID,num,feedLev,feedID, feedNum, hasDown):
     while goOn:
         lev=feedLev[ar_i]
         curUID=feedID[ar_i]
-        curNum=feedNum[ar_i]
-        linksar,qtyar=getAssIDQty(curs,curUID)
-        lenLinks=len(linksar)
-        if(lenLinks>0):
+        linksar=[]
+        numUsed=[]
+        numReq=[]
+        gotArrays=genReqArrays(curs,uID,num,linksar,numUsed,numReq)
+        lenLinks=0
+        if(gotArrays):
             hasDown[ar_i]=True
+            lenLinks=len(linksar)
         for i in range(lenLinks):
+            qty=qtyFromID(linksar[i])
             feedLev.append(lev+1)
+            feedParent.append(curUID)
             feedID.append(linksar[i])
-            feedNum.append(qtyar[i]*curNum)
+            feedNum.append(qty)
+            feedUsed.append(numUsed[i])
+            feedReq.append(numReq[i])
             hasDown.append(False)
             feed_i+=1
         ar_i+=1
         goOn=ar_i<feed_i
     return lev
 
-def getRaw(curs, uID, num, levUsed, idUsed, numUsed):
-    levUsed.clear()
-    idUsed.clear()
-    numUsed.clear()
-    feedLev=[]
-    feedID=[]
-    feedNum=[]
-    hasDown=[]
-    getAll(curs,uID,num,feedLev, feedID, feedNum,hasDown)
-    for i in range(len(feedID)):
-        if not hasDown[i]:
-            levUsed.append(feedLev[i])
-            idUsed.append(feedID[i])
-            numUsed.append(feedNum[i])
 
 def getConsumed(curs, uID, numKit, feedLev, feedID, feedNum, consumeLev, consumeID, consumeNum):
     idUsed=[]
@@ -220,46 +240,68 @@ def findUsedMatchedToReq(workID, usedID, usedNum):
             nUsed.append(0)
     return nUsed
 
-def writeLineRaw(conn,curs,orderRef,kitUID,lev,uID,numAvail,numReq):
+def writeLineAllcsv(curs, parentID, uID, numAvail, numUsed, numReq):
+    parentIDstr=""
+    if parentID>=0:
+        parentIDstr=str(parentID)
     uidStr=str(uID)
     numAvailStr=str(numAvail)
-    numStr=str(numReq)
+    numUsedStr=str(numUsed)
+    numReqStr=str(numReq)
+    parentLabel=""
+    if parentID>=0:
+        parentLabel=labelFromID(curs,uID)
     partLabel=labelFromID(curs,uID)
     loc=locFromID(curs,uID)
     locshelf=locShelfFromID(curs,uID)
     locStr=loc+locshelf
     InvFlag=""
     if(numAvail<numReq):
-        InvFlag="*"
-    #print(f"    UID: {uidStr:8} | {partLabel:50} | Avail: {numAvailStr:8} | Used: {numStr:8}{InvFlag:1}")
-    print(f"{uidStr:8}, {partLabel:50}, {locStr:4}, {numAvailStr:8}, {numStr:8}, {InvFlag:1}")
+        InvFlag="INV!"
+    print(f"{parentIDstr:8}, {parentLabel:200}, {uidStr:8}, {partLabel:50}, {locStr:4}, {numAvailStr:8}, {numUsedStr:8}, {numReqStr:8},{InvFlag:4}")
+
 
 def writeLineReq(conn, curs, orderRef, kitUID, lev, uID, numUsed, numReq):
     partLabel=labelFromID(curs,uID)
     outStr="         UID: "+str(uID)+" | "+partLabel+"   | used: "+str(numUsed)+"  | not in inv: "+str(numReq)
     print(outStr)
 
-def genKitRaw(conn,curs,orderRef,uID,numKit):
+def genKitAll(conn,curs,orderRef,uID,numKit):
     usedLev=[]
+    usedParent=[]
     usedID=[]
+    availNum=[]
     usedNum=[]
-    getRaw(curs, uID, numKit, usedLev, usedID, usedNum)
-    mergeDup(usedLev,usedID,usedNum)
-    kitLabel=labelFromID(curs,uID)
-    print("---------------------------------\n\n")
-    headerStr="Order: "+orderRef+"  Kit ID: "+str(uID)+" | "+kitLabel+" | "+str(numKit)
-    print(headerStr)
-    lastLev=0
-    for i in range(1,len(usedID)):
-        if(usedLev[i]!=lastLev):
-            print("--------")
-            print("   :", usedLev[i])
-            lastLev=usedLev[i]
-        AvailQty=qtyFromID(curs,usedID[i])
-        writeLineRaw(conn,curs,orderRef,uID,usedLev[i],usedID[i],AvailQty,usedNum[i])
-    print("---------------------------------\n\n")
+    reqNum=[]
+    hasDown=[]
+    getAll(curs,uID,numKit,usedLev,usedParent,usedID,availNum,usedNum,reqNum,hasDown)
+    lastParent=-1
+    for i in range(len(usedID)):
+        parentID=-1
+        if(usedParent[i]!=lastParent):
+            parentID=usedParent[i]
+            lastParent=parentID
+        writeLineAllcsv(curs,parentID,usedID[i],availNum[i],usedNum[i],reqNum[i])
 
-def genKitReq(conn, curs, orderRef, uID, numKit):
+def genKitReq(conn,curs,orderRef,uID,numKit):
+    usedLev=[]
+    usedParent=[]
+    usedID=[]
+    availNum=[]
+    usedNum=[]
+    reqNum=[]
+    hasDown=[]
+    getAll(curs,uID,numKit,usedLev,usedParent,usedID,availNum,usedNum,reqNum,hasDown)
+    lastParent=-1
+    for i in range(len(usedID)):
+        parentID=-1
+        if(usedParent[i]!=lastParent):
+            parentID=usedParent[i]
+            lastParent=parentID
+        if(reqNum[i]>0):
+            writeLineAllcsv(curs,parentID,usedID[i],availNum[i],usedNum[i],reqNum[i])
+
+def genKitReqOnly(conn, curs, orderRef, uID, numKit):
     workLev=[]
     workID=[]
     workNum=[]
@@ -291,8 +333,8 @@ def genKitReq(conn, curs, orderRef, uID, numKit):
 
 
 def runK(uID,numKit):    
-    conn = mysql.connector.connect(host="localhost",database="parts_test2",user="data0",password="XXfish3x3");
+    conn = mysql.connector.connect(host="localhost",database="inventory",user="data0",password="pppp");
     curs=conn.cursor();
     genKitReq(conn,curs,"S0000",uID,numKit)
-    genKitRaw(conn,curs,"S0000",uID,numKit)
+    genKitAll(conn,curs,"S0000",uID,numKit)
     conn.close()

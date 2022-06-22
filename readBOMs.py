@@ -4,7 +4,7 @@ import mysql.connector
 
 tablesqlstr="units"
 
-conn = mysql.connector.connect(host="localhost",database="parts_test2",user="data0",password="XXfish3x3")
+conn = mysql.connector.connect(host="localhost",database="inventory",user="data0",password="pppp");
 curs=conn.cursor()
 
 fin=open('odooBOMParts.csv','r')

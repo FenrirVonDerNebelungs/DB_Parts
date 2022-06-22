@@ -1,7 +1,7 @@
 import mysql.connector
 import blobLinks
 
-tablesqlstr="dummytest"
+tablesqlstr="units"
 
 #def getBlob(curso):
 #    blob = curso.fetchone()[0]
@@ -36,7 +36,7 @@ def sendToDB(sqlconn, curso, bomid, links_ar, num_ar):
             sqlconn.commit()
     return True
 
-conn = mysql.connector.connect(host="localhost",database="parts_test2",user="data0",password="XXfish3x3")
+conn = mysql.connector.connect(host="localhost",database="inventory",user="data0",password="pppp");
 curs=conn.cursor()
 
 fin=open('BOMmatched.csv','r')
