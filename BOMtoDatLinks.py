@@ -47,7 +47,7 @@ line=fin.readline()
 BOMID=-1
 linksUIDs=[]
 linksQTYs=[]
-while line and cnt<1000:
+while line and cnt<5000:
     commaloc=line.find(",")
     fieldindx=0
     while commaloc>=0:

@@ -2,12 +2,12 @@ import parseDesc
 import refMatch
 import mysql.connector
 
-conn = mysql.connector.connect(host="localhost",database="parts_test2",user="data0",password="XXfish3x3");
-tablesqlstr="dummytest"
+conn = mysql.connector.connect(host="localhost",database="inventory",user="data0",password="pppp");
+tablesqlstr="units"
 curs=conn.cursor();
 
 fieldsar = ["dum1", "desc", "IRef", "dum2", "SaleP", "Cost", "QTY", "dum3", "dum4"]
-fin=open('odooAllParts00.csv','r')
+fin=open('Product Template (product.template).csv','r')
 line = fin.readline()
 cnt=0
 cnt_nof=0
@@ -48,5 +48,10 @@ while line and cnt<1000:
 print("total records: ", cnt)
 print(" num updated: ",cnt_updt)
 print("   not found: ",cnt_nof)
+ynin=input("update QTY to Odoo qty? y/n:")
+if ynin=='y':
+    inqStr="UPDATE "+tablesqlstr+" SET QTY=ODQTY"
+    curs.execute(inqStr)
+    conn.commit()
 fin.close()
 conn.close()

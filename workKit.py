@@ -36,14 +36,6 @@ def locFromID(curs, uID):
         return "UN"
     return sqlout
 
-def locShelfFromID(curs, uID):
-    inqStr="SELECT LOC_SHELF FROM "+tablesqlstr+" WHERE U_ID=\'"+str(uID)+"\'"
-    curs.execute(inqStr)
-    sqlout=curs.fetchone()[0]
-    if not sqlout:
-        return "UN"
-    return sqlout
-
 def getAssIDQty(curs, uID):
     return blobLinks.getLinksQTYs(curs,tablesqlstr,uID)
 
@@ -129,6 +121,51 @@ def mergeDup(aLev,aID,aNum):
             aLev.append(oLev[i])
             aID.append(oID[i])
             aNum.append(oNum[i])
+
+def mergeDupAll(aLev,aPar,aID,aNum,aUsed,aReq, aDown):
+    alen=len(aLev)
+    for i in range(alen):
+        curID=aID[i]
+        for j in range(i+1,alen):
+            nextID=aID[j]
+            if(curID==nextID):
+                aUsed[i]=aUsed[i]+aUsed[j]
+                aReq[i]=aReq[i]+aReq[j]
+                if(aLev[j]<aLev[i]):
+                    aLev[i]=aLev[j]
+                    aPar[i]=aPar[j]
+                aLev[j]=-1
+    oLev=[]
+    oPar=[]
+    oID=[]
+    oNum=[]
+    oUsed=[]
+    oReq=[]
+    oDown=[]
+    for i in range(alen):
+        oLev.append(aLev[i])
+        oPar.append(aPar[i])
+        oID.append(aID[i])
+        oNum.append(aNum[i])
+        oUsed.append(aUsed[i])
+        oReq.append(aReq[i])
+        oDown.append(aDown[i])
+    aLev.clear()
+    aPar.clear()
+    aID.clear()
+    aNum.clear()
+    aUsed.clear()
+    aReq.clear()
+    aDown.clear()
+    for i in range(len(oLev)):
+        if oLev[i]>=0:
+            aLev.append(oLev[i])
+            aPar.append(oPar[i])
+            aID.append(oID[i])
+            aNum.append(oNum[i])
+            aUsed.append(oUsed[i])
+            aReq.append(oReq[i])
+            aDown.append(oDown[i])
 
 def getAll(curs,uID,num,feedLev,feedParent,feedID, feedNum, feedUsed, feedReq, hasDown):
     feedLev.clear()

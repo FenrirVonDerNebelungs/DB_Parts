@@ -3,7 +3,7 @@ import mysql.connector
 
 def getBlob(curso, bloblab, uid, tablesqlstr):
     inqStr="SELECT "+bloblab+" FROM "+tablesqlstr+" WHERE U_ID=\'"+str(uid)+"\'"
-    print(inqStr)
+    #print(inqStr)
     curso.execute(inqStr)
     blob = curso.fetchone()[0]
     return blob
